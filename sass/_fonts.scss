@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "MesCompromis";
+  src: url("../assets/fonts/Manrope3-Semibold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../assets/fonts/Manrope3-Semibold.woff") format("woff"),
+    url("../assets/fonts/Manrope3-Semibold.ttf") format("truetype"),
+    url("../assets/fonts/Manrope3-Semibold.svg#Manrope3-Semibold")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MesCompromis";
+  src: url("../assets/fonts/Manrope3-ExtraBold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../assets/fonts/Manrope3-ExtraBold.woff") format("woff"),
+    url("../assets/fonts/Manrope3-ExtraBold.ttf") format("truetype"),
+    url("../assets/fonts/Manrope3-ExtraBold.svg#Manrope3-ExtraBold")
+      format("svg");
+  font-weight: bold;
+  font-style: normal;
+}
