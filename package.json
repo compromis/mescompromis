@@ -1,0 +1,22 @@
+{
+  "name": "mescompromis",
+  "version": "1.0.0",
+  "description": "Campaign website for Compromís Más País",
+  "author": "Compromís",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "bootstrap-vue": "^2.0.4",
+    "nuxt": "^2.0.0",
+    "nuxt-i18n": "^6.3.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.0"
+  }
+}
