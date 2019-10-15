@@ -10,6 +10,24 @@ $white: #fffef9;
 $primary: $teal;
 $secondary: $orange;
 
+$border-radius-lg: .5rem;
+$border-radius-xl: 1.5rem;
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1340px
+);
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1400px
+);
+
 $font-family-sans-serif: 'MesCompromis', Helvetica, arial, sans-serif;
 $body-bg: $white;
 $body-color: $navy;

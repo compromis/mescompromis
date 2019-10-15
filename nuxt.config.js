@@ -71,11 +71,11 @@ export default {
   },
 
   /*
-  ** Bootstrap config 
+  ** Bootstrap config
   */
   bootstrapVue: {
     componentPlugins: [
-      'LayoutPlugin'
+      'CarouselPlugin'
     ],
     bootstrapCSS: false,
     bootstrapVueCSS: false
