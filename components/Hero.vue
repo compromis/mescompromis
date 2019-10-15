@@ -4,7 +4,12 @@
       <div class="hero-motto">
         <span class="hero-motto-title">Acordar</span>
         <span class="hero-motto-subtitle">la política útil</span>
+              <div class="hero-buttons">
+        <b-button>Programa</b-button>
+        <b-button>Vídeo</b-button>
       </div>
+      </div>
+
     </div>
     <div class="hero-slides">
       <b-carousel id="carousel-no-animation" fade >
@@ -45,9 +50,11 @@
     right: 0;
     left: 0;
     z-index: -10;
+    mix-blend-mode: multiply;
 
     &-background {
       height: 70vh;
+      max-height: 750px;
       background-repeat: no-repeat;
       background-color: $body-bg;
     }
@@ -55,13 +62,13 @@
     &-hands {
       background-image: url('../assets/images/high-five.png');
       background-position: top right;
-      background-size: 800px;
+      background-size: 1030px;
     }
 
     &-hug {
       background-image: url('../assets/images/hug.png');
-      background-position: center right;
-      background-size: 800px;
+      background-position: right top;
+      background-size: 600px;
     }
   }
 
@@ -87,6 +94,46 @@
       font-weight: bold;
       background: $yellow;
       color: $body-color;
+    }
+  }
+}
+
+@include media-breakpoint-down(xs) {
+  .hero {
+    height: calc(100vh - 3.5rem);
+    align-items: flex-end;
+
+    &-motto {
+      margin-bottom: 2rem;
+
+      &-title {
+        font-size: 3.25rem;
+      }
+
+      &-subtitle {
+        font-size: 1.9rem;
+      }
+
+      span {
+        padding: 0 .75rem;
+        margin-bottom: 0.5rem;
+      }
+
+    }
+
+    &-slides {
+      &-background {
+        height: calc(100vh - 3.5rem);
+      }
+
+      &-hands {
+        background-size: 140%;
+        background-position: right center;
+      }
+      &-hug {
+        background-size: 125%;
+        background-position: bottom center;
+      }
     }
   }
 }
