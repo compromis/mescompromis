@@ -42,17 +42,23 @@ export default {
   */
   modules: [
     'bootstrap-vue/nuxt',
-    [
-      'nuxt-i18n',
-      {
-        locales: ['val', 'cas'],
-        defaultLocale: 'val',
-        vueI18n: {
-          fallbackLocale: 'val',
-          messages: { val, cas }
-        }
+    ['nuxt-i18n',{
+      locales: ['val', 'cas'],
+      defaultLocale: 'val',
+      vueI18n: {
+        fallbackLocale: 'val',
+        messages: { val, cas }
       }
-    ]
+    }],
+    ['nuxt-fontawesome', {
+      component: 'fa',
+      imports: [
+        {
+          set: '@fortawesome/free-brands-svg-icons',
+          icons: ['faFacebookSquare', 'faTwitterSquare', 'faInstagram', 'faWhatsapp', 'faTelegram']
+        }
+      ]
+    }]
   ],
   /*
   ** Build configuration
