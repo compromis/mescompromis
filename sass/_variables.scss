@@ -5,7 +5,7 @@ $orange: #f6911e;
 $teal: #3dbca6;
 $navy: #273354;
 $beige: #ccb7a3;
-$white: #fffef9;
+$white: #f7f5eb;
 
 $primary: $teal;
 $secondary: $orange;
@@ -32,6 +32,7 @@ $font-family-sans-serif: 'MesCompromis', Helvetica, arial, sans-serif;
 $body-bg: $white;
 $body-color: $navy;
 $link-hover-color: $orange;
+$navbar-height: 3.5rem;
 
 @import 'bootstrap/scss/_functions';
 @import 'bootstrap/scss/_variables';

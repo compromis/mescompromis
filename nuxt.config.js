@@ -1,3 +1,5 @@
+import val from './i18n/val.js'
+import cas from './i18n/cas.js'
 
 export default {
   mode: 'universal',
@@ -47,14 +49,7 @@ export default {
         defaultLocale: 'val',
         vueI18n: {
           fallbackLocale: 'val',
-          messages: {
-            val: {
-              greeting: 'Hola món!'
-            },
-            cas: {
-              greeting: '¡Hola mundo!'
-            }
-          }
+          messages: { val, cas }
         }
       }
     ]
@@ -75,7 +70,9 @@ export default {
   */
   bootstrapVue: {
     componentPlugins: [
-      'CarouselPlugin'
+      'CarouselPlugin',
+      'NavbarPlugin',
+      'ButtonPlugin'
     ],
     bootstrapCSS: false,
     bootstrapVueCSS: false

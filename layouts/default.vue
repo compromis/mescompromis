@@ -1,18 +1,16 @@
 <template>
   <div>
-    <button @click="localeChange('val')">Val</button>
-    <button @click="localeChange('cas')">Cas</button>
+    <mes-nav />
     <nuxt />
   </div>
 </template>
 
 <script>
+import MesNav from '@/components/MesNav'
+
 export default {
-  methods: {
-    localeChange (newLocale) {
-      this.$i18n.locale = newLocale
-      this.$router.push('/' + (newLocale === 'cas' ? 'cas' : ''))
-    }
+  components: {
+    MesNav
   }
 }
 </script>
