@@ -1,0 +1,15 @@
+.btn-primary:hover{
+  background-color: $navy;
+  border-width: 0;
+}
+
+.btn-secondary:hover{
+  background-color: $red;
+  border-width: 0;
+}
+
+.btn-dark:hover{
+  background-color: $teal;
+  color: $navy;
+  border-width: 0;
+}

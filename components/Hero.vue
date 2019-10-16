@@ -1,18 +1,15 @@
 <template>
   <section class="hero" role="banner">
-    <div class="container">
-      <div class="hero-motto">
-        <span class="hero-motto-title">Acordar</span>
-        <span class="hero-motto-subtitle">la política útil</span>
-              <div class="hero-buttons">
-        <b-button>Programa</b-button>
-        <b-button>Vídeo</b-button>
+    <div :class="['hero-motto', `is-on-slide-${currentSlide}`]">
+      <span class="hero-motto-title">Acordar</span>
+      <span class="hero-motto-subtitle">la política útil</span>
+      <div class="hero-buttons">
+        <b-button variant="dark" size="lg">Programa</b-button>
+        <b-button variant="secondary" size="lg">Vídeo</b-button>
       </div>
-      </div>
-
     </div>
     <div class="hero-slides">
-      <b-carousel id="carousel-no-animation" fade >
+      <b-carousel id="carousel-no-animation" fade @sliding-start="(slide) => { this.currentSlide = slide }">
         <b-carousel-slide>
           <template v-slot:img>
             <div class="hero-slides-background hero-slides-hands"></div>
@@ -30,7 +27,13 @@
 
 <script>
   export default {
-    name: 'hero'
+    name: 'hero',
+
+    data() {
+      return {
+        currentSlide: 0
+      }
+    }
   }
 </script>
 
@@ -38,7 +41,7 @@
 @import '../sass/variables';
 
 .hero {
-  height: 70vh;
+  height: calc(100vh - 3.5rem);
   display: flex;
   align-items: center;
   position: relative;
@@ -50,11 +53,10 @@
     right: 0;
     left: 0;
     z-index: -10;
-    mix-blend-mode: multiply;
+
 
     &-background {
-      height: 70vh;
-      max-height: 750px;
+      height: calc(100vh - 3.5rem);
       background-repeat: no-repeat;
       background-color: $body-bg;
     }
@@ -62,38 +64,51 @@
     &-hands {
       background-image: url('../assets/images/high-five.png');
       background-position: top right;
-      background-size: 1030px;
+      background-size: auto 150%;
     }
 
     &-hug {
       background-image: url('../assets/images/hug.png');
       background-position: right top;
-      background-size: 600px;
+      background-size: auto 100%;
     }
   }
 
   &-motto {
     display: flex;
     flex-direction: column;
-    max-width: 600px;
+    margin-left: 6vw;
 
-  &-title {
-    font-size: 4.5rem;
-  }
+    &-title {
+      font-size: calc(4rem + 3vw);
+    }
 
-  &-subtitle {
-    font-size: 3rem;
-    margin-left: 3rem;
-  }
+    &-subtitle {
+      font-size: calc(2.5rem + 2vw);
+      margin-left: calc(2rem + 2.75vw);
+    }
 
     span {
       width: fit-content;
-      padding: 0.25rem 1rem;
-      margin-bottom: 1rem;
+      padding: 0 1.5rem;
+      margin-bottom: calc(0.75rem + 0.25vw);
       border-radius: $border-radius-lg;
       font-weight: bold;
       background: $yellow;
       color: $body-color;
+      transition: 0.4s ease-in-out;
+    }
+
+    &.is-on-slide-1 {
+      span {
+        background: $teal;
+      }
+    }
+  }
+
+  &-buttons {
+    .btn {
+      margin-right: .5rem;
     }
   }
 }
@@ -104,7 +119,8 @@
     align-items: flex-end;
 
     &-motto {
-      margin-bottom: 2rem;
+      margin: 1.2rem;
+      width: 100%;
 
       &-title {
         font-size: 3.25rem;
@@ -116,9 +132,9 @@
 
       span {
         padding: 0 .75rem;
-        margin-bottom: 0.5rem;
+        margin-bottom: 0.4rem;
+        border-radius: $border-radius;
       }
-
     }
 
     &-slides {
@@ -134,6 +150,11 @@
         background-size: 125%;
         background-position: bottom center;
       }
+    }
+
+    &-buttons {
+      margin-top: 3rem;
+      align-self: flex-end;
     }
   }
 }

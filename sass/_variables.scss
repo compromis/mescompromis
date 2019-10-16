@@ -9,9 +9,17 @@ $white: #f7f5eb;
 
 $primary: $teal;
 $secondary: $orange;
+$light: $beige;
+$dark: $navy;
+$success: $teal;
+$warning: $yellow;
+$danger: $red;
 
-$border-radius-lg: .5rem;
+$border-radius: .25rem;
+$border-radius-lg: .75rem;
 $border-radius-xl: 1.5rem;
+
+$btn-border-radius-lg: $border-radius;
 
 $container-max-widths: (
   sm: 540px,
@@ -29,6 +37,8 @@ $grid-breakpoints: (
 );
 
 $font-family-sans-serif: 'MesCompromis', Helvetica, arial, sans-serif;
+$input-btn-font-family:  $font-family-sans-serif;
+$btn-border-width: 0;
 $body-bg: $white;
 $body-color: $navy;
 $link-hover-color: $orange;

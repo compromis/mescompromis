@@ -2,6 +2,8 @@
 @import 'fonts';
 @import 'bootstrap/scss/bootstrap';
 @import 'bootstrap-vue/src/index.scss';
+@import 'animations';
+@import 'buttons';
 
 body {
   padding-top: $navbar-height;
