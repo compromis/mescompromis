@@ -2,7 +2,7 @@ import val from './i18n/val.js'
 import cas from './i18n/cas.js'
 
 export default {
-  mode: 'universal',
+  mode: 'spa',
   /*
   ** Headers of the page
   */

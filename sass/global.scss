@@ -5,6 +5,10 @@
 @import 'animations';
 @import 'buttons';
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   padding-top: $navbar-height;
 }

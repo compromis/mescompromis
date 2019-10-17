@@ -1,6 +1,6 @@
 <template>
   <b-navbar toggleable="lg" fixed="top" variant="mes">
-    <b-navbar-brand :to="localePath('/')">
+    <b-navbar-brand to="/">
       <div class="compromis-logo">
         <compromis-logo />
       </div>
@@ -32,10 +32,6 @@
         <b-nav-item v-if="$i18n.locale !== 'cas'" @click="localeChange('cas')">Castellano</b-nav-item>
       </b-navbar-nav>
     </b-collapse>
-    <carousel>
-      <div>Slide 1</div>
-      <div>Slide 2</div>
-    </carousel>
   </b-navbar>
 </template>
 
