@@ -17,8 +17,6 @@
     "nuxt-fontawesome": "^0.4.0",
     "nuxt-i18n": "^6.3.0",
     "vue-carousel": "^0.18.0",
-    "vue-client-only": "^2.0.0",
-    "vue-owl-carousel": "^2.0.3"
   },
   "devDependencies": {
     "node-sass": "^4.12.0",
