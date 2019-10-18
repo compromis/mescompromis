@@ -57,6 +57,10 @@ export default {
         {
           set: '@fortawesome/free-brands-svg-icons',
           icons: ['faFacebookSquare', 'faTwitterSquare', 'faInstagram', 'faWhatsapp', 'faTelegram']
+        },
+        {
+          set: '@fortawesome/free-solid-svg-icons',
+          icons: ['faArrowLeft']
         }
       ]
     }]
