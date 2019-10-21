@@ -112,7 +112,6 @@
 
   &-nav {
     position: relative;
-    margin-top: 2rem;
 
     &-items {
       display: grid;
@@ -251,6 +250,8 @@
     }
 
     &-nav {
+      margin-top: 1.5rem;
+
       &-items {
         grid-template-columns: repeat(2, 1fr);
         grid-gap: 0.75rem;

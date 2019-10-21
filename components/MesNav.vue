@@ -19,6 +19,7 @@
         <b-nav-item :to="localePath('programa')">{{ $t('nav.manifesto') }}</b-nav-item>
         <b-nav-item :to="localePath('candidatura')">{{ $t('nav.candidates') }}</b-nav-item>
         <b-nav-item :to="localePath('actua')">{{ $t('nav.takeaction') }}</b-nav-item>
+        <b-nav-item :to="localePath('noticies')">{{ $t('nav.news') }}</b-nav-item>
       </b-navbar-nav>
 
       <!-- Right aligned nav items -->

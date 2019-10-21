@@ -2,6 +2,7 @@ export default {
   nav: {
     manifesto: 'Programa',
     candidates: 'Candidatura',
-    takeaction: 'Actúa!Val'
+    takeaction: 'Actua!',
+    news: 'Noticies'
   }
 }

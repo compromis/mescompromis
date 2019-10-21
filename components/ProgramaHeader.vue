@@ -1,7 +1,7 @@
 <template>
   <div class="programa-header">
     <div class="programa-carousel">
-      <carousel v-model="centeredSlide" :center-mode="true" :per-page="1" :space-padding="stagePadding" :pagination-enabled="false" @page-change="slideChanged">
+      <carousel :value="centeredSlide" :center-mode="true" :per-page="1" :space-padding="stagePadding" :pagination-enabled="false" @page-change="slideChanged">
         <slide :class="{'programa-carousel-slide slide-just': true, 'is-active-slide': activeSlide === 0 && centeredSlide === 0}">
           <nuxt-link :to="localePath('programa-financament-just')" class="btn btn-just" @click="setActiveSlide(0)">
             <div class="container">
@@ -31,8 +31,8 @@
           </nuxt-link>
         </slide>
       </carousel>
-      <div role="button" @click="slideTo('prev')" class="programa-nav programa-nav-prev" aria-label="Anterior"></div>
-      <div role="button" @click="slideTo('next')" class="programa-nav programa-nav-next" aria-label="Següent"></div>
+      <div role="button" @click="slideTo('prev')" class="programa-nav programa-nav-prev" aria-label="Anterior" v-if="centeredSlide >= 1"></div>
+      <div role="button" @click="slideTo('next')" class="programa-nav programa-nav-next" aria-label="Següent" v-if="centeredSlide <= 2"></div>
       <transition name="fade">
         <div class="programa-back" v-if="$route.name !== 'programa___val' && $route.name !== 'programa___cas'">
           <div class="container">
@@ -52,10 +52,10 @@
               </transition-group>
               <span class="outof">/4</span>
             </li>
-            <li class="programa-pagination-item"><nuxt-link :to="localePath('programa-financament-just')" :class="activeSlide == 0 ? 'active' : ''"><span>Finançament Just</span></nuxt-link></li>
-            <li class="programa-pagination-item"><nuxt-link :to="localePath('programa-protegim-la-terra')" :class="activeSlide == 1 ? 'active' : ''"><span>Protegim la terra</span></nuxt-link></li>
-            <li class="programa-pagination-item"><nuxt-link :to="localePath('programa-cuidem-de-la-gent')" :class="activeSlide == 2 ? 'active' : ''"><span>Cuidem de la gent</span></nuxt-link></li>
-            <li class="programa-pagination-item"><nuxt-link :to="localePath('programa-guanyem-drets')" :class="activeSlide == 3 ? 'active' : ''"><span>Guanyem<br />drets</span></nuxt-link></li>
+            <li class="programa-pagination-item"><nuxt-link :to="localePath('programa-financament-just')" :class="{ 'active': activeSlide === 0, 'centered': centeredSlide === 0 }"><span>Finançament Just</span></nuxt-link></li>
+            <li class="programa-pagination-item"><nuxt-link :to="localePath('programa-protegim-la-terra')" :class="{ 'active': activeSlide === 1, 'centered': centeredSlide === 1 }"><span>Protegim la terra</span></nuxt-link></li>
+            <li class="programa-pagination-item"><nuxt-link :to="localePath('programa-cuidem-de-la-gent')" :class="{ 'active': activeSlide === 2, 'centered': centeredSlide === 2 }"><span>Cuidem de la gent</span></nuxt-link></li>
+            <li class="programa-pagination-item"><nuxt-link :to="localePath('programa-guanyem-drets')" :class="{ 'active': activeSlide === 3, 'centered': centeredSlide === 3 }"><span>Guanyem<br />drets</span></nuxt-link></li>
           </ul>
         </div>
       </div>
@@ -80,22 +80,28 @@
       this.calcStagePadding()
       window.addEventListener('resize', this.calcStagePadding)
 
-      const routeName = this.$route.name.replace(/programa-/g, '').replace(/___val/g, '').replace(/___cas/g, '')
-      if (this.slides[routeName] !== undefined) {
-        this.navigateTo = this.slides[routeName]
-        this.activeSlide = this.slides[routeName]
+      const routeName = this.$route.name.replace(/(programa-|___val|___cas)/g, '')
+      const slide = this.slides[routeName]
+      if (slide !== undefined) {
+        this.activeSlide = slide
+        this.centeredSlide = slide
       }
     },
 
     watch: {
       '$route': function (route) {
-        const routeName = this.$route.name.replace(/programa-/g, '').replace(/___val/g, '').replace(/___cas/g, '') 
-        if (this.slides[routeName] !== undefined) {
-          this.centeredSlide = this.slides[routeName]
-          this.activeSlide = this.slides[routeName]
+        const routeName = this.$route.name.replace(/(programa-|___val|___cas)/g, '')
+        const slide = this.slides[routeName]
+        if (slide !== undefined) {
+          this.activeSlide = slide
+          this.centeredSlide = slide
         } else {
           this.activeSlide = null
         }
+      },
+
+      centeredSlide: function (slide) {
+        console.log('Slide', slide)
       }
     },
 
@@ -131,6 +137,7 @@
       },
 
       slideChanged (slide) {
+        this.centeredSlide = slide
         if (slide !== this.activeSlide) {
           this.$router.push('/programa')
         }
@@ -225,7 +232,7 @@
       left: 0;
       right: 0;
       top: 3rem;
-      transition: .5 ease-in-out;
+      transition: .5s ease-in-out;
       z-index: 2;
 
       a {
@@ -240,6 +247,12 @@
       bottom: 0;
       width: var(--stage-padding);
       z-index: 200;
+      cursor: pointer;
+      color: $white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 4rem;
 
       &-next {
         right: 0;
@@ -255,7 +268,7 @@
       left: 0;
       right: 0;
       bottom: 2vw;
-      transition: .5 ease-in-out;
+      transition: .5s ease-in-out;
 
       ul {
         color: $white;
@@ -296,6 +309,10 @@
             opacity: 1;
             background: $white;
             color: $navy;
+          }
+
+          &.centered {
+            opacity: 1;
           }
         }
 
@@ -362,7 +379,48 @@
 
   @include media-breakpoint-down(lg) {
     .programa {
+      &-carousel {
+        &-slide {
+          .btn {
+            padding-top: 10vh;
+            padding-bottom: 10vh;
+            font-size: 8vw;
+
+            &:hover {
+              padding-top: 12vh;
+              padding-bottom: 12vh;
+            }
+          }
+
+          &.is-active-slide {
+            .btn {
+              padding-left: 0;
+              padding-right: 0;
+              font-size: 10vw;
+
+              span {
+                transform: translateY(-12vw);
+              }
+            }
+          }
+        }
+      }
+
+      &-back {
+        top: 1rem;
+        left: 0;
+        right: 0;
+      }
+
       &-pagination {
+        bottom: 1rem;
+        left: 0;
+        right: 0;
+
+        &.has-active-slide {
+          bottom: calc(20vh + 1rem);
+        }
+
         &-item {
           width: 1.5rem;
           height: 1.5rem;
@@ -380,8 +438,8 @@
         }
 
         &-number {
-          width: 3.5rem;
-          font-size: 2rem;
+          width: 2.9rem;
+          font-size: 1.65rem;
 
           .number,
           .outof {

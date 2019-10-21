@@ -1,7 +1,9 @@
 <template>
   <div>
     <mes-nav />
-    <nuxt />
+    <transition name="page-fade">
+      <nuxt />
+    </transition>
   </div>
 </template>
 

@@ -2,8 +2,10 @@
   <div class="programa">
     <programa-header />
     <transition name="fade">
-      <div class="container-fluid" v-if="$route.name !== 'programa___val' && $route.name !== 'programa___cas'">
-        <nuxt-child />
+      <div :class="{'programa-container': true, 'container-has-content': $route.name !== 'programa___val' && $route.name !== 'programa___cas' }">
+        <div class="container-fluid">
+          <nuxt-child />
+        </div>
       </div>
     </transition>
   </div>
@@ -24,18 +26,36 @@
 
   .programa {
     background-color: $navy;
-    padding-top: 100vh;
+    padding-top: calc(100vh - 3.5rem);
+
+    &-container {
+      max-height: 0;
+      overflow: hidden;
+      opacity: 0;
+      transition: .5s ease-in-out;
+
+      &.container-has-content {
+        max-height: 10000000000000000px;
+        opacity: 1;
+        margin-top: -20vh;
+      }
+    }
   }
   
   .container-fluid {
     position: relative;
     background: $white;
     padding: 4rem;
-    
     z-index: 200;
-    min-height: 2000px;
     max-width: 1340px;
     margin: 0 auto;
-    margin-top: -25vh;
+    border-radius: $border-radius;
+    min-height: 2000px;
+  }
+
+  @include media-breakpoint-down(lg) { 
+    .container-fluid {
+      padding: 1rem;
+    }
   }
 </style>

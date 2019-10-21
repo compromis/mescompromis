@@ -60,7 +60,7 @@ export default {
         },
         {
           set: '@fortawesome/free-solid-svg-icons',
-          icons: ['faArrowLeft']
+          icons: ['faArrowLeft', 'faArrowRight']
         }
       ]
     }]
