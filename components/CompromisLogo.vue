@@ -2,7 +2,7 @@
   <svg version="1.1" id="CompromisLogo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
     width="525.83px" height="91.29px" viewBox="0 0 525.83 91.29" style="enable-background:new 0 0 525.83 91.29;"
     xml:space="preserve">
-  <g>
+  <g :class="`version-${version}`">
     <g>
       <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="47.8172" y1="-0.4721" x2="47.8172" y2="91.8231">
         <stop  offset="0" style="stop-color:#E28226"/>
@@ -86,12 +86,23 @@
 
 <script>
   export default {
-    name: 'compromis-logo'
+    name: 'compromis-logo',
+
+    props: {
+      version: {
+        type: String,
+        default: 'color'
+      }
+    }
   }
 </script>
 
 <style lang="scss" scoped>
-  .st0 { fill:url(#SVGID_1_); }
-  .st1 { fill:#2F2E30; }
-  .st2 { fill:url(#SVGID_2_); }
+  .st0 { fill: url(#SVGID_1_); }
+  .st1 { fill: #2F2E30; }
+  .st2 { fill: url(#SVGID_2_); }
+
+  .version-mono {
+    .st0, .st1, .st2 { fill: currentColor; }
+  }
 </style>

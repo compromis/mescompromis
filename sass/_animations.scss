@@ -7,7 +7,7 @@
 }
 
 .page-fade-enter-active, .page-fade-leave-active {
-  transition: .5s;
+  transition: .5s ease-in-out;
 }
 
 .page-fade-enter, .page-fade-leave-to {

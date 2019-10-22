@@ -96,7 +96,7 @@
   }
 
   .version-mono {
-    .st0 { fill: #2F4A36; display: none; }
-    .st1, .st2, .st3 { fill: #FFFFFF; }
+    .st0 { display: none; }
+    .st1, .st2, .st3 { fill: currentColor; }
   }
 </style>
