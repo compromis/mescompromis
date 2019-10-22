@@ -1,3 +1,4 @@
+const path = require('path')
 import val from './i18n/val.js'
 import cas from './i18n/cas.js'
 
@@ -56,7 +57,7 @@ export default {
       imports: [
         {
           set: '@fortawesome/free-brands-svg-icons',
-          icons: ['faFacebookSquare', 'faTwitterSquare', 'faInstagram', 'faWhatsapp', 'faTelegram']
+          icons: ['faFacebookSquare', 'faTwitter', 'faInstagram', 'faWhatsapp', 'faTelegram']
         },
         {
           set: '@fortawesome/free-solid-svg-icons',
@@ -72,7 +73,17 @@ export default {
     /*
     ** You can extend webpack config here
     */
-    extend (config, ctx) {
+    extend (config) {
+      config.module.rules.push({
+        test: /\.md$/,
+        loader: 'frontmatter-markdown-loader',
+        include: path.resolve(__dirname, 'content'),
+        options: {
+          vue: {
+            root: 'dynamicMarkdown'
+          }
+        }
+      })
     }
   },
 

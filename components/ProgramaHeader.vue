@@ -2,39 +2,63 @@
   <div class="programa-header">
     <div class="programa-carousel">
       <carousel :value="centeredSlide" :center-mode="true" :per-page="1" :space-padding="stagePadding" :pagination-enabled="false" @page-change="slideChanged">
-        <slide :class="{'programa-carousel-slide slide-just': true, 'is-active-slide': activeSlide === 0 && centeredSlide === 0}">
-          <nuxt-link :to="localePath('programa-financament-just')" class="btn btn-just" @click="setActiveSlide(0)">
+        <slide :class="{'programa-carousel-slide slide-terra': true, 'is-active-slide': activeSlide === 0 && centeredSlide === 0}">
+          <nuxt-link
+            :to="localePath('programa-protegim-la-terra')"
+            class="btn btn-terra"
+            @click="setActiveSlide(0)">
             <div class="container">
-              <span>Finançament<br />just</span>
+              <span v-html="$t('programa.0')"></span>
             </div>
           </nuxt-link>
         </slide>
-        <slide :class="{'programa-carousel-slide slide-terra': true, 'is-active-slide': activeSlide === 1 && centeredSlide === 1}">
-          <nuxt-link :to="localePath('programa-protegim-la-terra')" class="btn btn-terra" @click="setActiveSlide(1)">
+        <slide :class="{'programa-carousel-slide slide-gent': true, 'is-active-slide': activeSlide === 1 && centeredSlide === 1}">
+          <nuxt-link
+            :to="localePath('programa-cuidem-de-la-gent')"
+            class="btn btn-gent"
+            @click="setActiveSlide(1)">
             <div class="container">
-              <span>Protegim<br />la terra</span>
+              <span v-html="$t('programa.1')"></span>
             </div>
           </nuxt-link>
         </slide>
-        <slide :class="{'programa-carousel-slide slide-gent': true, 'is-active-slide': activeSlide === 2 && centeredSlide === 2}">
-          <nuxt-link :to="localePath('programa-cuidem-de-la-gent')" class="btn btn-gent" @click="setActiveSlide(2)">
+        <slide :class="{'programa-carousel-slide slide-drets': true, 'is-active-slide': activeSlide === 2 && centeredSlide === 2}">
+          <nuxt-link
+            :to="localePath('programa-guanyem-drets')"
+            class="btn btn-drets"
+            @click="setActiveSlide(2)">
             <div class="container">
-              <span>Cuidem de<br/>la gent</span>
+              <span v-html="$t('programa.2')"></span>
             </div>
           </nuxt-link>
         </slide>
-        <slide :class="{'programa-carousel-slide slide-drets': true, 'is-active-slide': activeSlide === 3 && centeredSlide === 3}">
-          <nuxt-link :to="localePath('programa-guanyem-drets')" class="btn btn-drets" @click="setActiveSlide(3)">
+        <slide :class="{'programa-carousel-slide slide-just': true, 'is-active-slide': activeSlide === 3 && centeredSlide === 3}">
+          <nuxt-link
+            :to="localePath('programa-financament-just')"
+            class="btn btn-just"
+            @click="setActiveSlide(3)">
             <div class="container">
-              <span>Guanyem<br />Drets</span>
+              <span v-html="$t('programa.3')"></span>
             </div>
           </nuxt-link>
         </slide>
       </carousel>
-      <div role="button" @click="slideTo('prev')" class="programa-nav programa-nav-prev" aria-label="Anterior" v-if="centeredSlide >= 1"></div>
-      <div role="button" @click="slideTo('next')" class="programa-nav programa-nav-next" aria-label="Següent" v-if="centeredSlide <= 2"></div>
+      <div
+        v-if="centeredSlide >= 1"
+        role="button"
+        @click="slideTo('prev')"
+        class="programa-nav programa-nav-prev"
+        aria-label="Anterior">
+      </div>
+      <div
+        v-if="centeredSlide <= 2"
+        role="button"
+        @click="slideTo('next')"
+        class="programa-nav programa-nav-next"
+        aria-label="Següent">
+      </div>
       <transition name="fade">
-        <div class="programa-back" v-if="$route.name !== 'programa___val' && $route.name !== 'programa___cas'">
+        <div :class="['programa-back', activeSlide !== null ? 'has-active-slide' : '']" v-if="$route.name !== 'programa___val' && $route.name !== 'programa___cas'">
           <div class="container">
             <nuxt-link :to="localePath('programa')"><fa :icon="['fas', 'arrow-left']" /> Programa</nuxt-link>
           </div>
@@ -52,10 +76,34 @@
               </transition-group>
               <span class="outof">/4</span>
             </li>
-            <li class="programa-pagination-item"><nuxt-link :to="localePath('programa-financament-just')" :class="{ 'active': activeSlide === 0, 'centered': centeredSlide === 0 }"><span>Finançament Just</span></nuxt-link></li>
-            <li class="programa-pagination-item"><nuxt-link :to="localePath('programa-protegim-la-terra')" :class="{ 'active': activeSlide === 1, 'centered': centeredSlide === 1 }"><span>Protegim la terra</span></nuxt-link></li>
-            <li class="programa-pagination-item"><nuxt-link :to="localePath('programa-cuidem-de-la-gent')" :class="{ 'active': activeSlide === 2, 'centered': centeredSlide === 2 }"><span>Cuidem de la gent</span></nuxt-link></li>
-            <li class="programa-pagination-item"><nuxt-link :to="localePath('programa-guanyem-drets')" :class="{ 'active': activeSlide === 3, 'centered': centeredSlide === 3 }"><span>Guanyem<br />drets</span></nuxt-link></li>
+            <li class="programa-pagination-item">
+              <nuxt-link
+                :to="localePath('programa-protegim-la-terra')"
+                :class="{ 'active': activeSlide === 0, 'centered': centeredSlide === 0 }">
+                <span v-html="$t('programa.0')"></span>
+              </nuxt-link>
+            </li>
+            <li class="programa-pagination-item">
+              <nuxt-link
+                :to="localePath('programa-cuidem-de-la-gent')"
+                :class="{ 'active': activeSlide === 1, 'centered': centeredSlide === 1 }">
+                <span v-html="$t('programa.1')"></span>
+              </nuxt-link>
+            </li>
+            <li class="programa-pagination-item">
+              <nuxt-link
+                :to="localePath('programa-guanyem-drets')"
+                :class="{ 'active': activeSlide === 2, 'centered': centeredSlide === 2 }">
+                <span v-html="$t('programa.2')"></span>
+              </nuxt-link>
+            </li>
+            <li class="programa-pagination-item">
+              <nuxt-link
+                :to="localePath('programa-financament-just')"
+                :class="{ 'active': activeSlide === 3, 'centered': centeredSlide === 3 }">
+                <span v-html="$t('programa.3')"></span>
+              </nuxt-link>
+            </li>
           </ul>
         </div>
       </div>
@@ -69,7 +117,7 @@
 
     data() {
       return {
-        slides: { 'financament-just': 0, 'protegim-la-terra': 1, 'cuidem-de-la-gent': 2, 'guanyem-drets': 3 },
+        slides: { 'protegim-la-terra': 0, 'cuidem-de-la-gent': 1, 'guanyem-drets': 2, 'financament-just': 3 },
         centeredSlide: 0,
         activeSlide: null,
         stagePadding: 300
@@ -98,10 +146,6 @@
         } else {
           this.activeSlide = null
         }
-      },
-
-      centeredSlide: function (slide) {
-        console.log('Slide', slide)
       }
     },
 
@@ -139,7 +183,7 @@
       slideChanged (slide) {
         this.centeredSlide = slide
         if (slide !== this.activeSlide) {
-          this.$router.push('/programa')
+          this.$router.push(this.localePath('programa'))
         }
       }
     },
@@ -198,9 +242,12 @@
           }
 
           &:hover {
-            color: $white;
             transform: scale(1.05);
             padding: 8vw 5vw;
+
+            span {
+              color: $white;
+            }
           }
         }
 

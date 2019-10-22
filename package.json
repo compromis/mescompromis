@@ -21,6 +21,7 @@
     "vue-owl-carousel": "^2.0.3"
   },
   "devDependencies": {
+    "frontmatter-markdown-loader": "^2.3.0",
     "node-sass": "^4.12.0",
     "sass-loader": "^8.0.0"
   }

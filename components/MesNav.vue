@@ -25,7 +25,7 @@
       <!-- Right aligned nav items -->
       <b-navbar-nav class="ml-auto">
         <b-nav-item><fa :icon="['fab', 'facebook-square']" /> <span class="d-lg-none">Facebook</span></b-nav-item>
-        <b-nav-item><fa :icon="['fab', 'twitter-square']" /> <span class="d-lg-none">Twitter</span></b-nav-item>
+        <b-nav-item><fa :icon="['fab', 'twitter']" /> <span class="d-lg-none">Twitter</span></b-nav-item>
         <b-nav-item><fa :icon="['fab', 'instagram']" /> <span class="d-lg-none">Instagram</span></b-nav-item>
         <b-nav-item><fa :icon="['fab', 'whatsapp']" /> <span class="d-lg-none">WhatsApp</span></b-nav-item>
         <b-nav-item><fa :icon="['fab', 'telegram']" /> <span class="d-lg-none">Telegram</span></b-nav-item>
@@ -51,7 +51,8 @@
     methods: {
       localeChange (newLocale) {
         this.$i18n.locale = newLocale
-        this.$router.push('/' + (newLocale === 'cas' ? 'cas' : ''))
+        const name = (newLocale === 'val') ? this.$route.name.replace(/___cas/g, '___val') : this.$route.name.replace(/___val/g, '___cas')
+        this.$router.push({ name })
       }
     }
   }

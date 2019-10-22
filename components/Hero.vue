@@ -5,10 +5,10 @@
       <span class="hero-motto-subtitle">la política útil</span>
       <div class="hero-nav">
         <ul class="hero-nav-items">
-          <li class="item-1"><nuxt-link :to="localePath('programa')">Programa</nuxt-link></li>
-          <li class="item-2"><nuxt-link to="/">Candidatura</nuxt-link></li>
-          <li class="item-3"><nuxt-link to="/">Actua!</nuxt-link></li>
-          <li class="item-4"><nuxt-link to="/">Notícies</nuxt-link></li>
+          <li class="item-1"><nuxt-link :to="localePath('programa')">{{ $t('nav.manifesto') }}</nuxt-link></li>
+          <li class="item-2"><nuxt-link :to="localePath('candidatura')">{{ $t('nav.candidates') }}</nuxt-link></li>
+          <li class="item-3"><nuxt-link :to="localePath('actua')">{{ $t('nav.takeaction') }}</nuxt-link></li>
+          <li class="item-4"><nuxt-link :to="localePath('noticies')">{{ $t('nav.news') }}</nuxt-link></li>
         </ul>
       </div>
     </div>
