@@ -14,3 +14,15 @@
   opacity: 0;
   transform: translateY(500px);
 }
+
+.candidate-enter-active, .candidate-leave-active {
+  transition: 1s ease-in-out;
+  overflow: hidden;
+  max-height: 400px;
+}
+
+.candidate-enter, .candidate-leave-to {
+  opacity: 0;
+  transform: translateY(-250px);
+  max-height: 0;
+}

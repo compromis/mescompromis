@@ -12,3 +12,7 @@ html {
 body {
   padding-top: $navbar-height;
 }
+
+.container-fluid {
+  max-width: map-get($container-max-widths, 'xl');
+}
