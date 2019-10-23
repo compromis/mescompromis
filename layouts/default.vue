@@ -4,7 +4,7 @@
     <transition name="page-fade" mode="out-in">
       <nuxt />
     </transition>
-    <mes-footer />
+    <mes-footer v-if="$route.name !== 'programa___val' && $route.name !== 'programa___cas'" />
   </div>
 </template>
 
