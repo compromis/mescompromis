@@ -128,7 +128,7 @@
       this.calcStagePadding()
       window.addEventListener('resize', this.calcStagePadding)
 
-      const routeName = this.$route.name.replace(/(programa-|___val|___cas)/g, '')
+      const routeName = this.getSection()
       const slide = this.slides[routeName]
       if (slide !== undefined) {
         this.activeSlide = slide
@@ -138,7 +138,7 @@
 
     watch: {
       '$route': function (route) {
-        const routeName = this.$route.name.replace(/(programa-|___val|___cas)/g, '')
+        const routeName = this.getSection()
         const slide = this.slides[routeName]
         if (slide !== undefined) {
           this.activeSlide = slide
@@ -165,7 +165,7 @@
         }
 
         if (this.activeSlide !== null) {
-          this.activeSlide = this.centeredSlide
+          this.setActiveSlide(this.centeredSlide)
         }
 
         window.scrollTo(0, 0)
@@ -184,6 +184,16 @@
         this.centeredSlide = slide
         if (slide !== this.activeSlide) {
           this.$router.push(this.localePath('programa'))
+        }
+      },
+
+      getSection () {
+        const routeParts = this.$route.path.split('/')
+
+        if (routeParts[1] === 'cas') {
+          return routeParts[3]
+        } else {
+          return routeParts[2]
         }
       }
     },

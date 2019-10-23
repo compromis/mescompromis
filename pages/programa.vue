@@ -21,7 +21,7 @@
   }
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
   @import '../sass/variables';
 
   .programa {
@@ -33,6 +33,7 @@
       overflow: hidden;
       opacity: 0;
       transition: .5s ease-in-out;
+      margin-bottom: 3rem;
 
       &.container-has-content {
         max-height: 10000000000000000px;
@@ -40,22 +41,43 @@
         margin-top: -20vh;
       }
     }
-  }
-  
-  .container-fluid {
-    position: relative;
-    background: $white;
-    padding: 4rem;
-    z-index: 200;
-    max-width: 1340px;
-    margin: 0 auto;
-    border-radius: $border-radius;
-    min-height: 2000px;
+
+    &-text {
+      max-width: 900px;
+      margin: 0 auto;
+      padding-right: 10rem;
+    }
+
+    .container-fluid {
+      position: relative;
+      background: $white;
+      padding: 4rem;
+      z-index: 200;
+      max-width: 1340px;
+      margin: 0 auto;
+      border-radius: $border-radius;
+      min-height: 2000px;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      font-weight: bold;
+      margin-top: 2rem;
+    }
+
+    li {
+      margin-bottom: .5rem;
+    }
+
+    p {
+      font-size: 1.15rem;
+    }
   }
 
   @include media-breakpoint-down(lg) { 
-    .container-fluid {
-      padding: 1rem;
+    .programa {
+      .container-fluid {
+        padding: 1rem;
+      }
     }
   }
 </style>
