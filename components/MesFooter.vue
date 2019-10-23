@@ -34,6 +34,8 @@
   @import '../sass/variables';
 
   .footer {
+    position: relative;
+    z-index: 20;
     padding: 2rem 0;
     color: $white;
     background: $navy;
