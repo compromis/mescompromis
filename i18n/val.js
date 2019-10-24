@@ -7,10 +7,10 @@ export default {
   },
 
   programa: {
-    0: 'Protegim<br />la terra',
-    1: 'Cuidem de<br/>la gent',
-    2: 'Guanyem<br />drets',
-    3: 'Finançament<br />just'
+    1: 'Protegir<br />la terra',
+    2: 'Cuidar de<br/>les persones',
+    3: 'Garantir<br />els drets',
+    4: 'Finançament<br />just'
   },
 
   takeaction: {

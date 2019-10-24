@@ -29,14 +29,10 @@
     padding-top: calc(100vh - 3.5rem);
 
     &-container {
-      max-height: 0;
-      overflow: hidden;
-      opacity: 0;
       transition: .5s ease-in-out;
       margin-bottom: 3rem;
 
       &.container-has-content {
-        max-height: 10000000000000000px;
         opacity: 1;
         margin-top: -20vh;
       }
@@ -69,6 +65,7 @@
 
     p {
       font-size: 1.15rem;
+      line-height: 1.75;
     }
 
     &-index p {
