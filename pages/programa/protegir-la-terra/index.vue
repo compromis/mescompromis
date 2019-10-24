@@ -6,8 +6,8 @@
 </template>
 
 <script>
-  import contentVal from '@/content/val/programa/index.md'
-  import contentCas from '@/content/cas/programa/index.md'
+  import contentVal from '@/content/val/programa/protegir-la-terra/index.md'
+  import contentCas from '@/content/cas/programa/protegir-la-terra/index.md'
 
   export default {
     data () {

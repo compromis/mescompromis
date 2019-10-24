@@ -3,42 +3,52 @@
     <div class="programa-carousel">
       <carousel :value="centeredSlide" :center-mode="true" :per-page="1" :space-padding="stagePadding" :pagination-enabled="false" @page-change="slideChanged">
         <slide :class="{'programa-carousel-slide slide-terra': true, 'is-active-slide': activeSlide === 0 && centeredSlide === 0}">
-          <nuxt-link
-            :to="localePath('programa-protegim-la-terra')"
-            class="btn btn-terra"
+          <div
+            :to="localePath('programa')"
+            class="btn btn-programa"
             @click="setActiveSlide(0)">
             <div class="container">
-              <span v-html="$t('programa.0')"></span>
+              Programa
             </div>
-          </nuxt-link>
+          </div>
         </slide>
-        <slide :class="{'programa-carousel-slide slide-gent': true, 'is-active-slide': activeSlide === 1 && centeredSlide === 1}">
+        <slide :class="{'programa-carousel-slide slide-terra': true, 'is-active-slide': activeSlide === 1 && centeredSlide === 1}">
           <nuxt-link
-            :to="localePath('programa-cuidem-de-la-gent')"
-            class="btn btn-gent"
+            :to="localePath('programa-protegir-la-terra')"
+            class="btn btn-terra"
             @click="setActiveSlide(1)">
             <div class="container">
               <span v-html="$t('programa.1')"></span>
             </div>
           </nuxt-link>
         </slide>
-        <slide :class="{'programa-carousel-slide slide-drets': true, 'is-active-slide': activeSlide === 2 && centeredSlide === 2}">
+        <slide :class="{'programa-carousel-slide slide-gent': true, 'is-active-slide': activeSlide === 2 && centeredSlide === 2}">
           <nuxt-link
-            :to="localePath('programa-guanyem-drets')"
-            class="btn btn-drets"
+            :to="localePath('programa-cuidar-de-la-gent')"
+            class="btn btn-gent"
             @click="setActiveSlide(2)">
             <div class="container">
               <span v-html="$t('programa.2')"></span>
             </div>
           </nuxt-link>
         </slide>
-        <slide :class="{'programa-carousel-slide slide-just': true, 'is-active-slide': activeSlide === 3 && centeredSlide === 3}">
+        <slide :class="{'programa-carousel-slide slide-drets': true, 'is-active-slide': activeSlide === 3 && centeredSlide === 3}">
           <nuxt-link
-            :to="localePath('programa-financament-just')"
-            class="btn btn-just"
+            :to="localePath('programa-garantir-els-drets')"
+            class="btn btn-drets"
             @click="setActiveSlide(3)">
             <div class="container">
               <span v-html="$t('programa.3')"></span>
+            </div>
+          </nuxt-link>
+        </slide>
+        <slide :class="{'programa-carousel-slide slide-just': true, 'is-active-slide': activeSlide === 4 && centeredSlide === 4}">
+          <nuxt-link
+            :to="localePath('programa-financament-just')"
+            class="btn btn-just"
+            @click="setActiveSlide(4)">
+            <div class="container">
+              <span v-html="$t('programa.4')"></span>
             </div>
           </nuxt-link>
         </slide>
@@ -51,57 +61,58 @@
         aria-label="Anterior">
       </div>
       <div
-        v-if="centeredSlide <= 2"
+        v-if="centeredSlide <= 3"
         role="button"
         @click="slideTo('next')"
         class="programa-nav programa-nav-next"
         aria-label="Següent">
       </div>
       <transition name="fade">
-        <div :class="['programa-back', activeSlide !== null ? 'has-active-slide' : '']" v-if="$route.name !== 'programa___val' && $route.name !== 'programa___cas'">
+        <div :class="['programa-back', activeSlide ? 'has-active-slide' : '']" v-if="$route.name !== 'programa___val' && $route.name !== 'programa___cas'">
           <div class="container">
             <nuxt-link :to="localePath('programa')"><fa :icon="['fas', 'arrow-left']" /> Programa</nuxt-link>
           </div>
         </div>
       </transition>
-      <div :class="['programa-pagination', activeSlide !== null ? 'has-active-slide' : '']">
+      <div :class="['programa-pagination', activeSlide ? 'has-active-slide' : '']">
         <div class="container">
           <ul>
             <li class="programa-pagination-number">
               <transition-group name="fade" mode="out-in">
-                <span key="0" class="number" v-if="centeredSlide === 0">1</span>
-                <span key="1" class="number" v-if="centeredSlide === 1">2</span>
-                <span key="2" class="number" v-if="centeredSlide === 2">3</span>
-                <span key="3" class="number" v-if="centeredSlide === 3">4</span>
+                <span key="0" class="number" v-if="centeredSlide === 0">0</span>
+                <span key="1" class="number" v-if="centeredSlide === 1">1</span>
+                <span key="2" class="number" v-if="centeredSlide === 2">2</span>
+                <span key="3" class="number" v-if="centeredSlide === 3">3</span>
+                <span key="4" class="number" v-if="centeredSlide === 4">4</span>
               </transition-group>
               <span class="outof">/4</span>
             </li>
             <li class="programa-pagination-item">
               <nuxt-link
-                :to="localePath('programa-protegim-la-terra')"
-                :class="{ 'active': activeSlide === 0, 'centered': centeredSlide === 0 }">
-                <span v-html="$t('programa.0')"></span>
-              </nuxt-link>
-            </li>
-            <li class="programa-pagination-item">
-              <nuxt-link
-                :to="localePath('programa-cuidem-de-la-gent')"
+                :to="localePath('programa-protegir-la-terra')"
                 :class="{ 'active': activeSlide === 1, 'centered': centeredSlide === 1 }">
                 <span v-html="$t('programa.1')"></span>
               </nuxt-link>
             </li>
             <li class="programa-pagination-item">
               <nuxt-link
-                :to="localePath('programa-guanyem-drets')"
+                :to="localePath('programa-cuidar-de-les-persones')"
                 :class="{ 'active': activeSlide === 2, 'centered': centeredSlide === 2 }">
                 <span v-html="$t('programa.2')"></span>
               </nuxt-link>
             </li>
             <li class="programa-pagination-item">
               <nuxt-link
-                :to="localePath('programa-financament-just')"
+                :to="localePath('programa-garantir-els-drets')"
                 :class="{ 'active': activeSlide === 3, 'centered': centeredSlide === 3 }">
                 <span v-html="$t('programa.3')"></span>
+              </nuxt-link>
+            </li>
+            <li class="programa-pagination-item">
+              <nuxt-link
+                :to="localePath('programa-financament-just')"
+                :class="{ 'active': activeSlide === 4, 'centered': centeredSlide === 4 }">
+                <span v-html="$t('programa.4')"></span>
               </nuxt-link>
             </li>
           </ul>
@@ -117,7 +128,7 @@
 
     data() {
       return {
-        slides: { 'protegim-la-terra': 0, 'cuidem-de-la-gent': 1, 'guanyem-drets': 2, 'financament-just': 3 },
+        slides: { 'protegir-la-terra': 1, 'cuidar-de-les-persones': 2, 'garantir-els-drets': 3, 'financament-just': 4 },
         centeredSlide: 0,
         activeSlide: null,
         stagePadding: 300
@@ -157,14 +168,14 @@
       },
 
       slideTo(direction) {
-        if (direction == 'next' && this.centeredSlide + 1 < 4) {
+        if (direction == 'next' && this.centeredSlide + 1 < 5) {
           this.centeredSlide++
         }
         else if (direction == 'prev' && this.centeredSlide - 1 > -1) {
           this.centeredSlide--
         }
 
-        if (this.activeSlide !== null) {
+        if (this.activeSlide) {
           this.setActiveSlide(this.centeredSlide)
         }
 
@@ -401,6 +412,15 @@
   }
 
   .btn {
+    &-programa {
+      color: $white !important;
+      font-size: calc(1.5rem + 6vw) !important;
+
+      &:hover {
+        transform: scale(1) !important;
+      }
+    }
+
     &-terra {
       background-color: $red;
 

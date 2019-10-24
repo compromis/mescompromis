@@ -1,0 +1,7 @@
+L’__emergència climàtica__ és un dels majors reptes que hem d'afrontar com a societat per poder tindre una vida digna. De fet, per poder viure. Per això les nostres propostes vinculades al territori s'enfoquen a assumir eixe repte. L'ordenació del territori continua treballant per uns pobles i ciutats on la vida siga respectuosa amb el medi sense deixar de posar les persones al centre. 
+
+Ens cal humanitzar l’economia donant-li vàlua i reconeixement a totes les tasques d’atenció personal. L’objectiu de l’economia no pot ser l’acumulació de la riquesa sinó la sostenibilitat ecològica, econòmica i social per aconseguir  la vida digna de totes les persones. 
+
+Des d'aquesta visió continuem treballant en un canvi de model econòmic basat en un __Acord Verd__ -o *Green New Deal*- que dibuixe un triangle entre les persones, la vida i la terra. Per això apostem per la millora dels sectors productius existents, enfocant-nos sobretot cap a les energies netes i renovables, i potenciem d’altres sectors, com són la cultura, l'agricultura, la societat de les cures o la rehabilitació energètica en els habitatges. També promovem nous sectors emergents, apostant per democratitzar les noves tecnologies i fomentar la innovació sostenible. 
+
+A més a més, el nostre Acord Verd es compromet a esforçar-se per corregir els excessos de les polítiques d'austeritat, i posar en igualtat de condicions els objectius socials i ambientals mentre impulsa la __Transició Ecològica Justa__.
