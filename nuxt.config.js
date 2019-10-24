@@ -64,7 +64,8 @@ export default {
           icons: ['faArrowLeft', 'faArrowRight']
         }
       ]
-    }]
+    }],
+    'vue-scrollto/nuxt'
   ],
   /*
   ** Build configuration

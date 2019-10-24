@@ -25,7 +25,20 @@
     },
 
     mounted() {
-      console.log(this.candidates)
+      const candidate = this.$route.path.replace(/(\/|candidatura)/g, '')
+
+      if (candidate) {
+        setTimeout(() => { this.$scrollTo('#' + candidate, 300, { offset: 400 }) }, 550)
+      }
+    },
+
+    watch: {
+      '$route': function (route) {
+        const candidate = route.path.replace(/(\/|candidatura)/g, '')
+        if (candidate) {
+          setTimeout(() => { this.$scrollTo('#' + candidate, 300, { offset: 400 }) }, 550)
+        }
+      }
     }
   }
 </script>

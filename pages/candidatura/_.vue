@@ -1,6 +1,5 @@
 <template>
   <div>
-    <candidate/>
   </div>
 </template>
 
