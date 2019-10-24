@@ -1,12 +1,12 @@
 <template>
   <div>
-    Finan
+
   </div>
 </template>
 
 <script>
   export default {
-    
+
   }
 </script>
 

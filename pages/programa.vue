@@ -56,7 +56,6 @@
       max-width: 1340px;
       margin: 0 auto;
       border-radius: $border-radius;
-      min-height: 2000px;
     }
 
     h1, h2, h3, h4, h5, h6 {
@@ -70,6 +69,54 @@
 
     p {
       font-size: 1.15rem;
+    }
+
+    &-index p {
+      font-size: 1.5rem;
+    }
+
+    &-section-index {
+      display: flex;
+      list-style: none;
+      margin: -4rem -4rem 4rem -4rem;
+      padding: 2rem 2rem 1rem 2rem;
+      border-top-left-radius: $border-radius;
+      border-top-right-radius: $border-radius;
+      flex-wrap: wrap;
+
+      li {
+        display: flex;
+        align-items: stretch;
+        margin-bottom: 0;
+      }
+
+      a {
+        display: flex;
+        border: 2px $red solid;
+        padding: .75rem 1.15rem;
+        border-radius: $border-radius-lg;
+        color: $red;
+        margin-right: 1rem;
+        white-space: nowrap;
+        margin-bottom: 1rem;
+        transition: .25s ease-in-out;
+
+        &.nuxt-link-exact-active {
+          background: $red;
+          color: $white;
+          position: relative;
+
+          &:hover {
+            background: darken($red, 10%);
+            border-color: darken($red, 10%);
+          }
+        }
+
+        &:hover {
+          background: mix($red, $white, 10%);
+          text-decoration: none;
+        }
+      }
     }
   }
 
