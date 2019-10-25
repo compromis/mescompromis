@@ -25,12 +25,11 @@
   @import '../sass/variables';
 
   .programa {
-    background-color: $navy;
-    padding-top: calc(100vh - 3.5rem);
+    // background-color: $navy;
+    // padding-top: calc(100vh - 3.5rem);
 
     &-container {
       transition: .5s ease-in-out;
-      margin-bottom: 3rem;
 
       &.container-has-content {
         opacity: 1;
@@ -51,7 +50,7 @@
       z-index: 200;
       max-width: 1340px;
       margin: 0 auto;
-      border-radius: $border-radius;
+      border-radius: $border-radius $border-radius 0 0;
     }
 
     h1, h2, h3, h4, h5, h6 {
@@ -117,7 +116,7 @@
     }
   }
 
-  @include media-breakpoint-down(lg) { 
+  @include media-breakpoint-down(lg) {
     .programa {
       .container-fluid {
         padding: 1rem;

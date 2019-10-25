@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h2>Notícies</h2>
+    <h2>{{ $t('nav.news') }}</h2>
     <div v-if="loading" class="loading">
       Carregant...
     </div>

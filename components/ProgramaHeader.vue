@@ -1,6 +1,6 @@
 <template>
   <div class="programa-header">
-    <div class="programa-carousel">
+    <div :class="{ 'programa-carousel': true, 'has-active-slide': activeSlide }">
       <carousel :value="centeredSlide" :center-mode="true" :per-page="1" :space-padding="stagePadding" :pagination-enabled="false" @page-change="slideChanged">
         <slide :class="{'programa-carousel-slide slide-terra': true, 'is-active-slide': activeSlide === 0 && centeredSlide === 0}">
           <div
@@ -24,7 +24,7 @@
         </slide>
         <slide :class="{'programa-carousel-slide slide-gent': true, 'is-active-slide': activeSlide === 2 && centeredSlide === 2}">
           <nuxt-link
-            :to="localePath('programa-cuidar-de-la-gent')"
+            :to="localePath('programa-cuidar-de-les-persones')"
             class="btn btn-gent"
             @click="setActiveSlide(2)">
             <div class="container">
@@ -118,6 +118,27 @@
           </ul>
         </div>
       </div>
+      <div :class="{ 'programa-background': true, 'has-active-slide': activeSlide }" :style="{ backgroundImage: 'url(https://images.unsplash.com/photo-1490658772076-913028274fb9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3150&q=80)' }"></div>
+      <svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="0" width="0">
+        <defs>
+          <filter id="multiply-red">
+            <feFlood flood-color="#ef4e38" flood-opacity="1" result="flood" />
+            <feBlend mode="multiply" in1="flood" in2="SourceGraphic" />
+          </filter>
+          <filter id="multiply-teal">
+            <feFlood flood-color="#3dbca6" flood-opacity="1" result="flood" />
+            <feBlend mode="multiply" in1="flood" in2="SourceGraphic" />
+          </filter>
+          <filter id="multiply-yellow">
+            <feFlood flood-color="#ffca05" flood-opacity="1" result="flood" />
+            <feBlend mode="multiply" in1="flood" in2="SourceGraphic" />
+          </filter>
+          <filter id="multiply-orange">
+            <feFlood flood-color="#f6911e" flood-opacity="1" result="flood" />
+            <feBlend mode="multiply" in1="flood" in2="SourceGraphic" />
+          </filter>
+        </defs>
+      </svg>
     </div>
   </div>
 </template>
@@ -221,12 +242,29 @@
 
   .programa {
     &-carousel {
-      position: fixed;
-      top: $navbar-height;
+      position: relative;
+      // top: $navbar-height;
       bottom: 0;
       left: 0;
       right: 0;
       z-index: 0;
+      background-color: $navy;
+      transition: 0s ease-in-out;
+
+      &.has-active-slide {
+        background-color: $white;
+        transition: 1s ease-in-out;
+
+        .btn {
+          opacity: 0;
+        }
+
+        .is-active-slide {
+          .btn {
+            opacity: 1;
+          }
+        }
+      }
 
       &-slide {
         position: relative;
@@ -282,6 +320,9 @@
             border-radius: 0;
             color: $white;
             padding: 8vw 5vw;
+            background-color: transparent;
+            // background-image: url(https://images.unsplash.com/photo-1490658772076-913028274fb9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3150&q=80);
+            // background-blend-mode: multiply;
 
             &:hover {
               transform: scale(1);
@@ -409,6 +450,24 @@
         }
       }
     }
+
+    &-background {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: -1;
+      background-blend-mode: multiply;
+      background: $navy;
+      opacity: .5;
+      transition: 0s ease-in-out;
+
+      &.has-active-slide {
+        background: $white;
+        transition: 1s ease-in-out;
+      }
+    }
   }
 
   .btn {
@@ -450,6 +509,32 @@
 
       &:hover {
         background-color: $orange;
+      }
+    }
+  }
+
+  .slide {
+    &-terra.is-active-slide {
+      .btn {
+        backdrop-filter: url(#multiply-red);
+      }
+    }
+
+    &-gent.is-active-slide {
+      .btn {
+        backdrop-filter: url(#multiply-yellow);
+      }
+    }
+
+    &-drets.is-active-slide {
+      .btn {
+        backdrop-filter: url(#multiply-teal);
+      }
+    }
+
+    &-just.is-active-slide {
+      .btn {
+        backdrop-filter: url(#multiply-orange);
       }
     }
   }
