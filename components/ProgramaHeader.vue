@@ -4,9 +4,7 @@
       <carousel :value="centeredSlide" :center-mode="true" :per-page="1" :space-padding="stagePadding" :pagination-enabled="false" @page-change="slideChanged">
         <slide :class="{'programa-carousel-slide slide-terra': true, 'is-active-slide': activeSlide === 0 && centeredSlide === 0}">
           <div
-            :to="localePath('programa')"
-            class="btn btn-programa"
-            @click="setActiveSlide(0)">
+            class="btn btn-programa">
             <div class="container">
               Programa
             </div>
@@ -118,7 +116,34 @@
           </ul>
         </div>
       </div>
-      <div :class="{ 'programa-background': true, 'has-active-slide': activeSlide }" :style="{ backgroundImage: 'url(https://images.unsplash.com/photo-1490658772076-913028274fb9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3150&q=80)' }"></div>
+      <b-carousel :class="{ 'programa-background': true, 'has-active-slide': activeSlide }" fade :interval="0" :value="centeredSlide">
+        <b-carousel-slide>
+          <template v-slot:img>
+            <div class="programa-background-slide programa-background-slide-programa"></div>
+          </template>
+        </b-carousel-slide>
+        <b-carousel-slide>
+          <template v-slot:img>
+            <div class="programa-background-slide programa-background-slide-terra"></div>
+          </template>
+        </b-carousel-slide>
+        <b-carousel-slide>
+          <template v-slot:img>
+            <div class="programa-background-slide programa-background-slide-gent"></div>
+          </template>
+        </b-carousel-slide>
+        <b-carousel-slide>
+          <template v-slot:img>
+            <div class="programa-background-slide programa-background-slide-drets"></div>
+          </template>
+        </b-carousel-slide>
+        <b-carousel-slide>
+          <template v-slot:img>
+            <div class="programa-background-slide programa-background-slide-just"></div>
+          </template>
+        </b-carousel-slide>
+      </b-carousel>
+      <!--<div :style="{ backgroundImage: 'url(https://images.unsplash.com/photo-1490658772076-913028274fb9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3150&q=80)' }"></div> -->
       <svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="0" width="0">
         <defs>
           <filter id="multiply-red">
@@ -150,7 +175,9 @@
     data() {
       return {
         slides: { 'protegir-la-terra': 1, 'cuidar-de-les-persones': 2, 'garantir-els-drets': 3, 'financament-just': 4 },
+        slideNames: ['', 'protegir-la-terra', 'cuidar-de-les-persones', 'garantir-els-drets', 'financament-just'],
         centeredSlide: 0,
+        currentBackground: 0,
         activeSlide: null,
         stagePadding: 300
       }
@@ -206,6 +233,8 @@
       setActiveSlide (slide) {
         if (this.centeredSlide != slide) return false
         this.activeSlide = slide
+        const slideName = this.slideNames[this.activeSlide]
+        this.$router.push(this.localePath('programa-' + slideName))
       },
 
       goToSlide (slide) {
@@ -232,7 +261,7 @@
   }
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
   @import '../sass/variables';
 
   :root {
@@ -240,10 +269,13 @@
     --slide-padding: 4rem;
   }
 
+  .VueCarousel {
+    margin-bottom: -24px;
+  }
+
   .programa {
     &-carousel {
       position: relative;
-      // top: $navbar-height;
       bottom: 0;
       left: 0;
       right: 0;
@@ -268,14 +300,10 @@
 
       &-slide {
         position: relative;
-        height: calc(100vh - 3.5rem);
+        height: 110vh;
         display: flex;
         align-items: center;
         justify-content: stretch;
-
-        .btn {
-          display: flex;
-        }
 
         .container {
           display: flex;
@@ -283,6 +311,7 @@
         }
 
         .btn {
+          display: flex;
           color: $body-color;
           font-size: calc(1rem + 4vw);
           font-weight: bold;
@@ -293,6 +322,7 @@
           text-align: left;
           transition: 0.4s ease-in-out;
           min-height: 0;
+          transform: translateY(-10vh);
 
           span {
             display: block;
@@ -301,7 +331,7 @@
           }
 
           &:hover {
-            transform: scale(1.05);
+            transform: translateY(-10vh) scale(1.05);
             padding: 8vw 5vw;
 
             span {
@@ -314,18 +344,16 @@
           z-index: 1;
 
           .btn {
-            min-height: 100%;
+            min-height: 131vh;
             margin: 0 calc(-1 * var(--stage-padding));
             width: 100vw;
             border-radius: 0;
             color: $white;
             padding: 8vw 5vw;
             background-color: transparent;
-            // background-image: url(https://images.unsplash.com/photo-1490658772076-913028274fb9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3150&q=80);
-            // background-blend-mode: multiply;
 
             &:hover {
-              transform: scale(1);
+              transform: translateY(-10vh) scale(1);
             }
 
             span {
@@ -376,7 +404,7 @@
       position: absolute;
       left: 0;
       right: 0;
-      bottom: 2vw;
+      bottom: 10vw;
       transition: .5s ease-in-out;
 
       ul {
@@ -389,7 +417,7 @@
       }
 
       &.has-active-slide {
-        bottom: calc(20vh + 3rem);
+        bottom: calc(30vh + 3rem);
       }
 
       &-item {
@@ -458,14 +486,77 @@
       right: 0;
       bottom: 0;
       z-index: -1;
-      background-blend-mode: multiply;
-      background: $navy;
       opacity: .5;
       transition: 0s ease-in-out;
+      display: flex;
+      align-items: stretch;
+
+      .carousel-inner {
+        display: flex;
+        align-items: stretch;
+      }
+
+      &-slide {
+        position: relative;
+        height: 100%;
+        width: 100%;
+
+        &::before {
+          content: '';
+          position: absolute;
+          top: 0;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          background-color: $navy;
+          background-blend-mode: multiply;
+          filter: grayscale(100%);
+          background-size: cover;
+        }
+
+        &::after {
+          content: '';
+          position: absolute;
+          bottom: 0;
+          height: 200px;
+          left: 0;
+          right: 0;
+          background: linear-gradient(0deg, $navy 0%, $navy 10%, rgba($navy, 0));
+        }
+
+        &-programa::before {
+          background-image: url(https://images.unsplash.com/photo-1503435824048-a799a3a84bf7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1268&q=80);
+        }
+
+         &-terra::before {
+          background-image: url(https://images.unsplash.com/photo-1416169607655-0c2b3ce2e1cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80);
+        }
+
+         &-gent::before {
+          background-image: url(https://images.unsplash.com/photo-1499568509606-4f9b771232ed?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80);
+          background-position: center bottom;
+        }
+
+         &-drets::before {
+          background-image: url(https://images.unsplash.com/photo-1503435824048-a799a3a84bf7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1268&q=80);
+        }
+
+         &-just::before {
+          background-image: url(https://images.unsplash.com/photo-1524067217094-584e94e61106?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80);
+        }
+      }
 
       &.has-active-slide {
-        background: $white;
-        transition: 1s ease-in-out;
+        .programa-background-slide {
+          &::before {
+            background-color: $white;
+            transition: 1s ease-in-out;
+          }
+
+          &::after {
+            background: linear-gradient(0deg, white 0%, white 10%, rgba(white, 0));
+          }
+        }
       }
     }
   }
@@ -474,9 +565,11 @@
     &-programa {
       color: $white !important;
       font-size: calc(1.5rem + 6vw) !important;
+      padding: 4vw 4vw !important;
 
       &:hover {
-        transform: scale(1) !important;
+        transform: translateY(-10vh) scale(1) !important;
+        padding: 4vw 4vw !important;
       }
     }
 
@@ -575,12 +668,12 @@
       }
 
       &-pagination {
-        bottom: 1rem;
+        bottom: 18vh;
         left: 0;
         right: 0;
 
         &.has-active-slide {
-          bottom: calc(20vh + 1rem);
+          bottom: calc(30vh + 1rem);
         }
 
         &-item {

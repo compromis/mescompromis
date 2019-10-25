@@ -1,5 +1,5 @@
 <template>
-  <div class="programa">
+  <div :class="['programa', 'programa-' + sectionName]">
     <programa-header />
     <transition name="fade">
       <div :class="{'programa-container': true, 'container-has-content': $route.name !== 'programa___val' && $route.name !== 'programa___cas' }">
@@ -17,6 +17,40 @@
   export default {
     components: {
       ProgramaHeader
+    },
+
+    data () {
+      return {
+        sectionName: ''
+      }
+    },
+
+    head () {
+      return {
+        title: 'Programa - Compromís-Más País'
+      }
+    },
+
+    watch: {
+      '$route': function () {
+        this.sectionName = this.getSection()
+      }
+    },
+
+    mounted () {
+      this.sectionName = this.getSection()
+    },
+
+    methods: {
+      getSection () {
+        const routeParts = this.$route.path.split('/')
+
+        if (routeParts[1] === 'cas') {
+          return routeParts[3]
+        } else {
+          return routeParts[2]
+        }
+      }
     }
   }
 </script>
@@ -25,15 +59,17 @@
   @import '../sass/variables';
 
   .programa {
-    // background-color: $navy;
-    // padding-top: calc(100vh - 3.5rem);
+    background-color: $navy;
+    padding-bottom: 4rem;
+    transition: .5s ease-in-out;
 
     &-container {
       transition: .5s ease-in-out;
+      margin-top: -12vh;
 
       &.container-has-content {
         opacity: 1;
-        margin-top: -20vh;
+        margin-top: -30vh;
       }
     }
 
@@ -114,11 +150,36 @@
         }
       }
     }
+
+    &-protegir-la-terra {
+      background-color: $red;
+    }
+
+    &-cuidar-de-les-persones {
+      background-color: $yellow;
+    }
+
+    &-garantir-els-drets {
+      background-color: $teal;
+    }
+
+    &-financament-just {
+      background-color: $orange;
+    }
   }
 
   @include media-breakpoint-down(lg) {
     .programa {
       .container-fluid {
+        padding: 1rem;
+      }
+
+      &-text {
+        padding-right: 0;
+      }
+
+      &-section-index { 
+        margin: -1rem -1rem 1rem -1rem;
         padding: 1rem;
       }
     }
