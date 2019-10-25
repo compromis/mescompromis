@@ -24,6 +24,12 @@
       Candidate,
     },
 
+    head () {
+      return {
+        title: 'Candidatura - Compromís-Más País'
+      }
+    },
+
     mounted() {
       const candidate = this.$route.path.replace(/(\/|candidatura)/g, '')
 

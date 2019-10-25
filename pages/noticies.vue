@@ -32,6 +32,11 @@ import axios from 'axios'
      }
    },
 
+  head () {
+    return {
+      title: 'Notícies - Compromís-Más País'
+    }
+  },
 
    mounted() {
      this.fetchArticles()

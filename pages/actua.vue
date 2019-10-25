@@ -46,7 +46,13 @@
 
 <script>
   export default {
-    name: 'actua'
+    name: 'actua',
+
+    head () {
+      return {
+        title: 'Actua! - Compromís-Más País'
+      }
+    },
   }
 </script>
 

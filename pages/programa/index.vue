@@ -15,7 +15,13 @@
         contentVal,
         contentCas
       }
-    }
+    },
+
+    head () {
+      return {
+        title: 'Programa - Compromís-Más País'
+      }
+    },
   }
 </script>
 

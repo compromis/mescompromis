@@ -1,7 +1,7 @@
 {
-  "name": "mescompromis",
+  "name": "Compromis-MasPais",
   "version": "1.0.0",
-  "description": "Campaign website for Compromís Más País",
+  "description": "La política útil és la que treballa per a les persones",
   "author": "Compromís",
   "private": true,
   "scripts": {
