@@ -1,0 +1,11 @@
+Una nova societat necessita nous drets. Compromís és garantia i avantguarda de la promoció de l'equitat entre persones i de la protecció de la seua diversitat i dels seus drets individuals i col·lectius.
+
+La igualtat i l’equitat han de ser objectiu fonamental del nostre treball polític. És per això que les estratègies i les accions han de tindre un caràcter transformador d’una societat que reconeixem com patriarcal i on la desigualtat per raó de gènere forma part de l’estructura social i afecta tots els àmbits de les nostres vides. La desigualtat econòmica i les càrregues i responsabilitats en la cura; la violència, des dels assassinats masclistes reconeguts a la llei de violència de gènere que quasi arriben a un miler des què existeixen dades, fins a les violències quotidianes, passant pels assassinats no reconeguts com a violència masclista o les agressions fora de la parella.
+
+Ens cal polititzar la quotidianitat, que és des d’on es generen les condicions de desigualtat, cal fer sorgir les discriminacions de la vida quotidiana i generar dinàmiques ancorades en els principis feministes i de radicalitat democràtica on siga respectada la diversitat i on sempre es prioritze el treball horitzontal i des de la transversalitat. 
+
+Ens cal avançar en democràcia. Les successives reformes antisocials exprés de la Constitució i les interpretacions judicials restrictives pel que fa a drets socials i al paper de les comunitats autònomes necessiten respostes des de la política transformadora. Necessitem una reforma de la llei electoral més democràtica i aprofundir en millorar l'Estatut per tal de garantir els drets de les valencianes i els valencians. Apostem per una ciutadania apoderada, per més participació, per una justícia més pròxima, accessible i gratuïta.
+
+Necessitem una administració estatal més eficient, coordinada i centrada a ser útil a la ciutadania, connectada a les noves tecnologies, propera i, sobretot, humana. 
+
+És fonamental que continuem estenent i garantint drets de les persones i col·lectius minoritaris i minoritzats: el dret a la infància, la dignitat del poble gitano, les famílies com a suport de la comunitat, el dret a la diversitat sexual, a estimar i sentir com vulgues, el dret a la memòria democràtica, a ser recordat i oblidat, a una mort digna. En definitiva, el dret a una vida digna.
