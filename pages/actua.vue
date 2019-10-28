@@ -50,7 +50,10 @@
 
     head () {
       return {
-        title: 'Actua! - Compromís-Más País'
+        title: 'Actua! | Compromís - Más País',
+        meta: [
+          { property: 'og:image', content: 'https://mes.compromis.net/images/thumbnail_generic.jpg' }
+        ]
       }
     },
   }

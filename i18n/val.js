@@ -10,7 +10,27 @@ export default {
     1: 'Protegir<br />la terra',
     2: 'Cuidar de<br/>les persones',
     3: 'Garantir<br />els drets',
-    4: 'Finançament<br />just'
+    4: 'Finançament<br />just',
+    intro: 'Introducció',
+    11: 'Emergència climàtica',
+    12: 'Agricultura',
+    13: 'Desenvolupament rural',
+    14: 'Territori',
+    15: 'Model econòmic per a la transició ecològica',
+    16: 'Nou model turístic',
+    21: 'Polítiques inclusives',
+    22: 'Educació',
+    23: 'Cultura',
+    24: 'Salut',
+    25: 'Ocupació',
+    26: 'Habitatge',
+    27: 'Esport',
+    31: 'Drets de la ciutadania',
+    32: 'Protecció de les pensions, infancia i families',
+    33: 'Feminismes',
+    34: 'Joves',
+    35: 'Drets LGTBI',
+    36: 'Cooperació'
   },
 
   takeaction: {
