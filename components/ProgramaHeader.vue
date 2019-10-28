@@ -525,7 +525,8 @@
         }
 
         &-programa::before {
-          background-image: url(https://images.unsplash.com/photo-1503435824048-a799a3a84bf7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1268&q=80);
+          background-image: url(https://images.unsplash.com/photo-1499568509606-4f9b771232ed?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80);
+          background-position: center bottom;
         }
 
          &-terra::before {
@@ -533,12 +534,13 @@
         }
 
          &-gent::before {
-          background-image: url(https://images.unsplash.com/photo-1499568509606-4f9b771232ed?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80);
+          background-image: url(https://images.unsplash.com/photo-1461088945293-0c17689e48ac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2702&q=80);
           background-position: center bottom;
         }
 
          &-drets::before {
-          background-image: url(https://images.unsplash.com/photo-1503435824048-a799a3a84bf7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1268&q=80);
+          background-image: url(https://images.unsplash.com/photo-1561982479-c36896dad276?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1268&q=80);
+          background-position: center 30%;
         }
 
          &-just::before {
