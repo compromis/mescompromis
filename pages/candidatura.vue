@@ -26,7 +26,10 @@
 
     head () {
       return {
-        title: 'Candidatura - Compromís-Más País'
+        title: 'Candidatura | Compromís - Más País',
+        meta: [
+          { property: 'og:image', content: 'https://mes.compromis.net/generic/thumbnail_generic.jpg' }
+        ]
       }
     },
 

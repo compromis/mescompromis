@@ -27,7 +27,10 @@
 
     head () {
       return {
-        title: 'Programa - Compromís-Más País'
+        title: 'Programa | Compromís - Más País',
+        meta: [
+          { property: 'og:image', content: 'https://mes.compromis.net/images/thumbnail_programa.jpg' }
+        ]
       }
     },
 
