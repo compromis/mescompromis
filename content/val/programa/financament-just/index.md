@@ -1,3 +1,7 @@
+En les últimes dècades, els valencians i les valencianes hem rebut menys recursos dels que necessitem per culpa d’un model de finançament autonòmic injust que ens discrimina. No volem ser més que ningú, però tampoc no volem ser ciutadans de segona. Volem un tracte just per a invertir més recursos en sanitat, educació, serveis socials i creació d’ocupació. Cal a Madrid una veu valenciana, nítida, valenta i decidida per acabar amb esta injustícia.</p>
+
+En cap moment d’estos mesos de negociacions estèrils per a formar govern a Madrid, cap altre partit progressista ha posat la reforma del finançament damunt la taula. Només Més Compromís, amb la força afegida de la resta de companys i companyes de Más País, garantirà que s'escolte la nostra veu a Madrid.
+
 ### Finançament Just
 L’actual model de finançament autonòmic, vigent des de 2009 i caducat des de 2014, discrimina els valencians i valencianes i no ens permet desenvolupar les nostres competències, especialment en matèria social i promoció de l’ocupació. Per això és inajornable reformar-lo de manera immediata.
 

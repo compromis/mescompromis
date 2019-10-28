@@ -1,3 +1,7 @@
+En las últimas décadas, los valencianos y las valencianas hemos recibido menos recursos de los necesarios por culpa de un modelo de financiación autonómica injusta y discriminatoria. No queremos ser más que nadie, pero tampoco queremos ser ciudadanos de segunda. Queremos un trato justo para invertir más recursos en sanidad, educación, servicios sociales y creación de ocupación. Hace falta en Madrid una voz valenciana, nítida, valiente y decidida para acabar con esta injusticia.
+
+En ningún momento de estos meses de negociaciones estériles para formar gobierno a Madrid, ha habido otro partido progresista que haya puesto la reforma de la financiación encima de la mesa. Solo Més Compromís, con la unión del resto de compañeros y compañeras de Más País, garantizará que se escuche nuestra voz en Madrid.
+
 ### Financiación
 El actual modelo de financiación autonómica, vigente desde 2009 y caducado desde 2014, discrimina a los valencianos y valencianas y no nos permite desarrollar nuestras competencias, especialmente en materia social y promoción del empleo. Por eso es inaplazable reformarlo de manera inmediata.
 
