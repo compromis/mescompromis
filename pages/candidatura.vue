@@ -14,6 +14,8 @@
   import candidates from '@/content/candidates'
 
   export default {
+    scrollToTop: true,
+
     data () {
       return {
         candidates
