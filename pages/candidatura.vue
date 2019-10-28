@@ -11,7 +11,7 @@
 
 <script>
   import Candidate from '../components/Candidate'
-  import candidates from './candidatura/candidates'
+  import candidates from '@/content/candidates'
 
   export default {
     data () {
@@ -41,7 +41,8 @@
     watch: {
       '$route': function (route) {
         const candidate = route.path.replace(/(\/|candidatura)/g, '')
-        if (candidate) {
+        const viewportWidth = window.innerWidth || document.documentElement.clientWidth;
+        if (candidate && viewportWidth < 640) {
           setTimeout(() => { this.$scrollTo('#' + candidate, 300, { offset: 400 }) }, 550)
         }
       }

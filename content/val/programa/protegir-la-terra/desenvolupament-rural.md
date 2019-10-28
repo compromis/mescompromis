@@ -1,1 +1,11 @@
-Desenvolupament rural
+### Desenvolupament rural
+
+La transició ecològica de la societat ha d'incloure al Món Rural. En un context de canvi climàtic els entorns rurals són molt més resilients que les ciutats i seran claus per al futur, tant el del propi entorn rural com en el de les ciutats. Per això, cal començar a pensar en la nova ruralitat, la seua relació amb l'entorn natural i les relacions de simbiosis i sinergies que es poden establir amb les ciutats.
+
+Apostar per serveis públics en el Món Rural adaptats a la seua idiosincràsia és essencial per a revertir l'abandó i la despoblació. Els habitants de l'entorn rural paguen els seus impostos i tenen el mateix dret que la resta de la ciutadania a rebre aquests serveis públics bàsics (Sanitat, educació,serveis socials, mobilitat i connectivitat) per tot això proposem les següents mesures:
+
+1. Foment de programes per a potenciar les relacions Ciutats/Món Rural i aprofitar les sinergies entre tots dos. Potenciar el Món Rural per a garantir la millora de la qualitat de vida de les ciutats en un context de canvi climàtic i amb previsibles escenaris d'escassetat de recursos i energia. Desenvolupar la legislació que harmonitze les relacions del Món Rural amb el medi natural del qual són garants i principals valedors de la seua conservació, compatibilitzant les activitats que es desenvolupen en aquests entorns d'una forma realment sostenible. 
+2. Pla de promoció de les activitats rurals que generen oportunitats reals de desenvolupament econòmic i que permeten viure dignament de les activitats que es poden desenvolupar en l'entorn rural, especialment amb el foment de les dones rurals.
+3. Foment de l'economia social,de les relacions econòmiques amb la ciutat, de l'aprofitament sostenible de les activitats tradicionals de l'entorn rural i la promoció dels canals que permeten que es desenvolupen aquestes activitats. 
+4. Impuls d’una Llei de serveis socials en el món rural (sanitat, educació, serveis socials, mobilitat i connectivitat). És necessari trencar amb el cercle viciós de la despoblació invertint en serveis públics que atrauran població que busca en l'entorn rural una forma de vida millor.
+5. Establiment d'exempcions fiscals per a les persones professionals que decidisquen establir la seua seu laboral a pobles d'interior i en risc de despoblament. Implantació de fibra òptica als pobles menuts per a afavorir el treball de noves professions a les zones rurals.

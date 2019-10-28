@@ -1,321 +1,344 @@
----
-title: 'Protegim la terra / Emergència Climàtica'
----
+### Emergencia climática
+La emergencia climática es el reto más grande al cual tendremos que hacer frente como sociedad en las próximas décadas. Urge la necesidad de reducir las emisiones de gases de efecto invernadero para evitar escenarios de cambio climático catastróficos. Tenemos que actuar en un doble sentido: ir hacia una producción y consumo más responsable con el medio ambiente y desarrollar estrategias de bienestar basadas en reducir el consumo de recursos naturales y de energía, conservar y recuperar los espacios forestales, fluviales y agrarios y su biodiversidad, así como en la distribución justa de los costes y beneficios de esta transición ecológica necesaria e inaplazable.
 
-### 1. Emergència Climàtica
+En este sentido es clave el alineamiento de energía, clima y políticas ambientales con el objetivo de acelerar la transición a una economía sostenible, circular y competitiva.
 
-L’emergència climàtica és el repte més gran al qual haurem de fer front com a societat en les pròximes dècades. És urgent la necessitat de reduir les emissions de gasos d’efecte hivernacle per evitar escenaris de canvi climàtic catastròfic. Hem d’actuar en una doble via: anar cap a una producció i consum més responsable amb el medi ambient i desenvolupar estratègies de benestar encarades a reduir el consum de recursos naturals i d’energia, conservar i recuperar els espais forestals, fluvials i agraris i la seua biodiversitat, així com a la distribució justa dels costos i beneficis d’aquesta transició ecològica necessària i inajornable.
-En aquest sentit és clau l'alineament d’energia, clima i polítiques ambientals amb l'objectiu d'accelerar la transició a una economia sostenible, circular i competitiva.
+#### 1. Energía: Hacia una transición energética justa y sostenible
+##### Hacia una transición energética justa para combatir el cambio climático
+El Acuerdo de París sobre clima y energía adoptado en diciembre de 2015, pese a sus limitaciones que, indiscutiblemente, deberemos superar, define una hoja de ruta fundamentada en la transformación radical de la forma en que usamos la energía y la lucha contra el cambio climático para que la tierra no supere 1,5 °C de temperatura mediana.
 
-#### 1. Energia: Cap a una transició energètica justa i sostenible
-##### Cap a una transició energètica justa per combatre el canvi climàtic
-L'Acord de París sobre clima i energia adoptat en desembre de 2015, tot i les seues limitacions que per força haurem de superar, defineix un full de ruta fonamentat en la transformació radical de la forma en què usem l'energia i la lluita contra el canvi climàtic perquè la Terra no supere els 1,5ºC d’increment de temperatura mitjana.
+En el caso del estado español, además, se dan algunos factores propios que implica tener que actuar con la máxima urgencia, como por ejemplo sucede con la altísima tasa de dependencia energética que lastra la economía y desequilibra la balanza de pagos, el sistema eléctrico en manos de las compañías del oligopolio energético que provocan un encarecimiento desmesurado de la energía con uno de los recibos de electricidad más altos de Europa y la intolerable lacra de la pobreza energética.
 
-En el cas de l’estat espanyol, a més, s’hi donen alguns factors propis que demanen actuar amb la màxima urgència, com ara l'altíssima taxa de dependència energètica que llastra l’economia i desequilibra la balança de pagaments, un sistema elèctric en mans de les companyies de l’oligopoli energètic que provoquen un encariment desmesurat de l’energia amb un dels rebuts de l’electricitat més cars d’Europa i la intolerable xacra de la pobresa energètica.
+El imperativo de mitigar nuestras emisiones y la necesidad de adaptarse a los cambios ya en marcha exige una acción política decidida. El acuerdo de las fuerzas de progreso ha posibilitado un importante giro en el planteamiento de las políticas de transición energética y de lucha contra el cambio climático. Pero se necesita valentía para poder pasar de los hechos a los palabras. Todo aquello que hagamos en la próxima legislatura marcará el rumbo de una década clave para luchar contra el cambio climático. Y el que basura en la década 2020-2030 marcará el conjunto del siglo XX.
 
-L'imperatiu de mitigar les nostres emissions i la necessitat d'adaptar-nos als canvis ja en marxa exigeix una acció política decidida. L’acord de les forces de progrés ha possibilitat un important gir en el plantejament de les polítiques de transició energètica i de lluita contra el canvi climàtic. Però cal valentia per poder passar dels fets a les paraules. Tot allò que fem en la próxima legislatura marcarà el rumb d’una dècada clau per a lluitar contra el canvi climàtic. I el que fem en la década 2020-2030 marcarà el conjunt del segle XX. 
+En los últimos meses de la pasada legislatura, el acuerdo de las fuerzas de progreso ha posibilitado un importante giro en el planteamiento de las políticas de transición energética y de lucha contra el cambio climático. Hay que continuar aumentando los compromisos legislativos y las acciones por descarbonizar nuestra economía, con el objetivo de llegar a 2040 con un sistema energético 100% renovable.
 
-En els últims mesos de la passada legislatura, l'acord de les forces de progrés ha possibilitat un important gir en el plantejament de les polítiques de transició energètica i de lluita contra el canvi climàtic. Cal continuar augmentant els compromisos legislatius i les accions per descarbonitzar la nostra economia, amb l'objectiu d'arribar a 2040 amb un sistema energètic 100% renovable.
+Por eso, la próxima legislatura será clave para incrementar los esfuerzos, concretar y poner en marcha un marco de acuerdo político y social sobre siete ejes:
 
-Per això, la pròxima legislatura serà clau per a incrementar els esforços, concretar i posar en marxa un marc d'acord polític i social sobre set eixos:
+- Nueva legalidad para un nuevo marco del clima y la energía
+- Reforma global y urgente del sector energético
+- Plan de energías renovables para la transición energética
+- Almacenaje de energía
+- Autoconsumo y generación distribuida
+- Rehabilitación energética de viviendas y justicia energética para las personas
 
-- abandonar els combustibles fòssils i l’energia nuclear 
-- avançar ràpidament cap a la independència energètica 
-- implantar un sistema elèctric eficient, renovable i d’autoconsum 
-- transformar la mobilitat de combustió en elèctrica
-- abordar la rehabilitació energètica del parc d’habitatges, edificis i barris
-- descarbonitzar l’economia i transformar el sistema productiu sobre la base de la investigació, la innovació i la competitivitat
-- posar la ciutadania en l’eix central de les transformacions amb un sistema energètic transformat, autogestionable, participatiu i democràtic.
+##### Nueva legalidad para un nuevo marco del clima y la energía
 
-##### Una nova legalitat per a un nou marc del clima i l’energia
-En el primer any de legislatura:
+En el primer año de legislatura:
 
-- Transposició de les noves directives europees, com ara la Directiva 2018/844 d’eficiència energètica dels edificis, la Directiva 2018/2002 d’eficiència energètica i la Directiva 2018/2001 d’energies renovables, per ser tres instruments de fort contingut per a l’impuls econòmic i de lluita contra el canvi climàtic.
-- Adopció immediata de l’element clau de la governança energètica, com ara el Reglament (UE) 2018/1999 del Parlament Europeu i del Consell de l’11 de desembre de 2018 sobre la governança de la Unió de l’Energia i de l’Acció pel Clima.
-- Aprovació del Marc Estratègic d’Energia i Clima: Llei de Canvi Climàtic i Transició Energètica, Pla Integrat d’Energia i Clima 2021-2030, Estratègia de Transició Justa, i tots els instruments de planejament cridats a moure l’economia i crear ocupació en matèria de:
-  - Pla d’energies renovables integrant l’autoconsum
-  - Pla de transformació del sector de l’automoció cap a la mobilitat elèctrica
-  - Pla estratègic de rehabilitació energètica d’edificis, habitatges i barris
-  - Pla d’eficiència energètica per a tots els sectors de l’economia i la producció
-  - Pla d’adaptació al canvi climàtic i augment de la resiliència
-- Una Estratègia energètica per a la transició justa
+- transposición de las nuevas Directivas europeas, como por ejemplo la Directiva 2018/844 de eficiencia energética de los edificios, la Directiva 2018/2002 de eficiencia energética y la Directiva 2018/2001 de energías renovables, tres instrumentos de fuerte contenido para el impulso económico y de lucha contra el cambio climático.
+- adopción inmediata del elemento clave de la gobernanza energética como por ejemplo el Reglamento (UE) 2018/1999 del Parlamento Europeo y del Consejo del 11 de diciembre de 2018 sobre la gobernanza de la Unión de la Energía y de la Acción por el Clima.
+- aprobación del Marco Estratégico de Energía y Clima: Ley de Cambio Climático y Transición Energética, Plan Integrado de Energía y Clima 2021-2030, Estrategia de Transición Justa, y demás instrumentos que muevan la economía y creen ocupación en materia de:
+  - Plan de energías renovables integrando el autoconsumo
+  - Plan de transformación del sector de la automoción hacia la movilidad eléctrica
+  - Plan estratégico de rehabilitación energética de edificios, viviendas y barrios
+  - Plan de eficiencia energética para todos los sectores de la economía y la producción
+  - Plan de adaptación al cambio climático y aumento de la resiliencia
 
-En termes generals per als sectors energètics bruts i contaminants que hauran de ser tancats, el cessament de l’activitat ha d’estar acompanyada de plans de transició justa, reactivació econòmica i industrial de manera que les persones treballadores en els esmentats sectors no patisquen cap conseqüència negativa en les seues vides i puguen reincorporar-se a altres sectors d’activitat.
+- una Estrategia energética para la Transición Justa
 
-- La prohibició de les prospeccions marines, el fracking i la importació de gas procedent d’aquest tipus de tècniques extractives.
-- Pla de tancament progressiu de les centrals de carbó i d'abandonament de la mineria.
-- Pla de tancament programat de totes les centrals nuclears i de gestió dels residus conforme vaja caducant la seua llicència d’activitat 
-- Pla per acabar amb la xacra de la pobresa energètica incorporant la rehabilitació energètica, la modificació tarifaria i les renovables.
+En términos generales los sectores energéticos sucios y contaminantes que tendrán que ser cerrados, el cese de la actividad tiene que estar acompañada de planes de transición justa, reactivación económica e industrial de forma que las personas trabajadoras en los mencionados sectores no sufran ninguna consecuencia negativa en sus vidas y puedan reincorporarse a otros sectores de actividad.
 
-##### Reforma global i urgent del sector energètic
-El sector energètic a l’estat espanyol depèn fonamentalment de fonts de generació fòssil i nuclear, amb efectes adversos sobre el medi ambient, la salut i la seguretat. És per això que proposem:
+- La prohibición de las prospecciones marinas, el fracking y la importación de gas procedente de este tipo de técnicas extractivas.
+- Plan de cierre progresivo de las centrales de carbón y de abandono de la minería.
+- Plan de cierre programado de todas las centrales nucleares y de gestión de los residuos conforme vaya caducando su licencia de actividad.
+- Plan para acabar con la lacra de la pobreza energética incorporando la rehabilitación energética, la modificación tarifaría y las renovables.
 
-- Una transformació profunda del funcionament i la regulació del sector elèctric: auditoria del dèficit de tarifa i dels costos reals del sistema elèctric, eliminació dels oligopolis per a garantir els drets de la ciutadania i una retribució adequada dels excedents de l’autoconsum i l’autoconsum compartit.
-- Avançar cap a un sistema que tinga com a base els incentius fiscals per tal d’afavorir l’eficiència energètica i les fonts renovables d’energia.
-- Acabar amb les portes giratòries i els sous d’escàndol dels exministres fitxats per les empreses de l’oligopoli energètic.
-- Garantir als inversors un marc legislatiu d’estabilitat i àgil en els procediments administratius.
-- En el context de reforma del sector elèctric, remunicipalitzar les xarxes de distribució dels municipis com a garantia d’una major penetració de les renovables en l’àmbit local.
+##### Reforma global y urgente del sector energético
+El sector energético en el estado español depende fundamentalmente de fuentes de generación fósil y nuclear, con efectos adversos sobre el medioambiente, la salud y la seguridad. Es por ello que proponemos:
 
-##### Un Pla d’Energies Renovables per a la Transició Energètica
-El planejament renovable ha d’estar integrat en el sistema amb rang de llei, donat que l’evolució tecnològica i industrial dels sistemes d’aprofitament de les fonts d’energia renovables i l’existència d’un potencial energètic específicament alt fan de l’estat espanyol un lloc idoni per assolir un objectiu 100% renovable per a l’any 2040.
+- Una transformación profunda del funcionamiento y la regulación del sector eléctrico: auditoría del déficit de tarifa y de los costes reales del sistema eléctrico, eliminación de los oligopolios para garantizar los derechos de la ciudadanía y una retribución adecuada de los excedentes del autoconsumo y el autoconsumo compartido.
 
-- Desenvolupament d’un pla industrial i de R+ D+i de transferència de tecnologia a la indústria per fomentar la generació de valor tecnològic.
-- Desenvolupament d’un pla de formació en tots els àmbits tecnològics i de materials en els diferents nivells, des d’estudis de caràcter universitari a formació professional.
-- Adaptació de les xarxes de transport i distribució d’acord amb l’entrada en funcionament de centrals renovables i del tancament esgraonat i programat de les centrals convencionals.
-- Establiment d’un sistema retributiu suficient, convergent i d’acord amb les corbes d’aprenentatge i maduració de cada tecnologia.
-- Establiment d’una política fiscal activa perquè la transició cap a les energies renovables siga suportada per les energies no renovables.
-- Un nou pla eòlic que incloga la repotenciació d’instal·lacions tecnològicament superades, l’eòlica de baixa i mitjana potència, l’eòlica marina i el suport a les instal·lacions dels xicotets productors com ara municipis i polígons industrials.
-- Electrificació dels ports amb renovables tot utilitzant els molls i espigons per a instal·lacions eòliques i fotovoltaiques. 
-- Desenvolupar una normativa específica que facilite la integració de l’energia fotovoltaica en el sistema, ja que es tracta d’una tecnologia modular, distribuïda, de recurs disponible conegut i competitiva. 
-- El pla de desenvolupament de la fotovoltaica ha d’estar especialment centrat en la seua incorporació com a base de la generació distribuïda, compartida i en autoconsum.
-- Integració en la rehabilitació energètica amb l’objectiu d’aconseguir Edificis de Consum Qairebé Nul, on les fonts fòssils no siguen l’energia d’elecció.
-- Totes les renovables, com són biomassa, biogàs, geotèrmica, etc., requereixen plans i regulació específics per al seu desenvolupament i ubicació en el nou sistema energètic.
+- Avanzar hacia un sistema basado en los incentivos fiscales, para favorecer la eficiencia energética y las fuentes renovables de energía.
 
-##### Emmagatzematge d’energia
-El binomi renovables i emmagatzematge d’energia es mostra com una realitat inqüestionable i de gran futur i és la clau per a una penetració imparable de les renovables en el camí d’acomplir els acords de París sobre canvi climàtic i avançar cap a un món descarbonitzat.
+- Acabar con las puertas giratorias y los sueldos de escándalo de los ex-ministros fichados por las empresas del oligopolio energético.
 
-La conjunció renovables, emmagatzematge, cotxe elèctric i xarxes intel·ligents constitueix l’estratègia vertebral que hem de desenvolupar per a estabilitzar el subministrament i fer la xarxa més flexible i més fiable.
-- Per això, les universitats i empreses han de jugar un paper essencial amb l’impuls de l’administració, tot possibilitant estar presents en tots els centres de planificació, decisió i investigació a nivell internacional.
+- Garantizar a los inversores un marco legislativo de estabilidad y ágil en los procedimientos administrativos.
 
-##### Autoconsum i generació distribuïda
-En la nostra proposta energètica la ciutadania que consumeix ha d’assumir un paper predominant a l’hora de decidir de quina forma vol cobrir les seues necessitats energètiques en règim d’autoconsum i generació compartida donant cabuda a polígons industrials, centres comercials i illes de finques als barris en règim de balanç net i retribució adequada dels excedents.
+- En el contexto de reforma del sector eléctrico, remunicipalizar las redes de distribución de los municipios como garantía de una mayor penetración de las renovables a nivel local.
 
-El desenvolupament que proposem es basa en les següents propostes:
+##### Un Plan de Energías Renovables para la Transición Energética
+El planteamiento renovable ha de estar integrado en el sistema con rango de ley dado que la evolución tecnológica e industrial de los sistemas de aprovechamiento de las fuentes de energía renovables y la existencia de un potencial energético específicamente alto, hacen del estado español un lugar idóneo pasa
 
-- Elaborar el reglament recollit en el Reial decret llei RDL 15/2018 de mesures urgents per a la transició energètica i protecció dels consumidors.
-Aplicació del balanç net amb gestió administrativa simplificada que integre els drets del consumidor/productor a ser retribuït adequadament pels excedents d’energia que envie a la xarxa amb igualtat de condicions que la resta d’agents del sistema.
-- La no existència de limitacions ni en la dimensió de la instal·lació ni en potència ni per la relació entre l’energia generada i la consumida.
-- Garantir la possibilitat de l’emmagatzematge i, per tant, la minimització del seu consum respecte a la xarxa, aplicant bonificacions fiscals.
-- Els models de generació distribuïda i autoconsum estan en procés de transformació i representen una oportunitat per generar valor econòmic en el desenvolupament d’equipaments, sistemes de gestió i d’emmagatzematge, vehicles elèctrics, etc.
-- Donats els elevats consums energètics derivats del cicle integral de l’aigua, es vetlarà perquè la depuració, el dessalatge i en general el tractament i bombeig de l’aigua incorpore energies renovables.
+El planejament renovable ha d'estar integrat en el sistema amb rang de llei donat que l'evolució tecnològica i industrial dels sistemes d'aprofitament de les fonts d'energia renovables i l'existència d'un potencial energètic específicament alt, fan de l'estat espanyol un lloc idoni para lograr un objetivo 100% renovable para el año 2040.
 
-##### Rehabilitació energètica d’habitatges i justícia energètica per a les persones
-La mala qualitat dels habitatges és responsable del sobreconsum energètic dels edificis. Les famílies més desfavorides disposen dels habitatges que estan més mal aïllats i amb calefaccions ineficients. Això, junt amb l’elevat preu de l’energia, és la principal causa de la pobresa energètica, cosa que reclama accions de les administracions públiques.
+- Desarrollo de un plan industrial y de I+D+i de transferencia de tecnología a la industria para fomentar la generación de valor tecnológico.
+- Desarrollo de un Plan de formación, en todos los ámbitos tecnológicos y de materiales en los diferentes niveles, desde estudios de carácter universitario a la formación profesional.
 
-Accions per a la rehabilitació energètica: 
+- Adaptación de las redes de transporte y distribución de acuerdo con la puesta en marcha de centrales renovables y del cierre escalonado y programado de las centrales convencionales.
+- Establecimiento de un sistema retributivo suficiente, convergente y de acuerdo con las curvas de aprendizaje y maduración de cada tecnología
+- Establecimiento de una política fiscal para que la transición hacia las energías renovables sea soportada por las energías no renovables.
+- Un nuevo Plan eólico que incluya la repotenciación de instalaciones tecnológicamente superadas, la eólica de baja y media potencia, la eólica marina y el apoyo a las instalaciones de los pequeños productores como municipios y polígonos industriales.
+- Electrificación de los puertos con renovables utilizando los muelles y espigones para instalaciones eólicas y fotovoltaicas.
+- Desarrollo de una normativa específica que facilite la integración de la energía fotovoltaica en el sistema por tratarse de una tecnología modular, distribuida, de recurso disponible conocido y competitiva.
+- El plan de desarrollo de la fotovoltaica tiene que estar especialmente centrado en su incorporación como base de la generación distribuida, compartida y en autoconsumo.
+- Integración en la rehabilitación energética con el objetivo de conseguir Edificios de Consumo Casi Nulo, donde las fuentes fósiles no sean la energía de elección.
+- Todas las renovables como biomasa, biogás, geotérmica...etc., precisan de planes y regulación específica para su desarrollo y ubicación en el nuevo sistema energético.
 
-- Impuls per revitalitzar el sector de la construcció invertint en la rehabilitació integral i l’eficiència energètica dels edificis, per tendir a l’edifici de consum quasi nul tal com marca la nova Directiva 2018/844/UE, alhora que es reactiva l’economia i es crea ocupació en l’àmbit local.
-- Programa específic per a la rehabilitació energètica dels barris i les llars més vulnerables a partir del Pla de Rehabilitació d’Habitatges 2018-2021. 
-- Programa de capacitació per a les persones treballadores del sector que han perdut l’ocupació a partir de la crisi i per a joves desocupats
-- Incorporació de la Rehabilitació Energètica i Integral als programes de Formació Professional.
+##### Almacenaje de energía
+El binomio renovables y almacenaje de energía se está mostrando como una realidad incuestionable y de gran futuro y es la clave para una penetración imparable de las renovables en el camino para cumplir con los Acuerdos de Paris sobre cambio climático y avanzar hacia un mundo descarbonizado.
 
-Accions contra la pobresa energètica:
+La conjunción de renovables, almacenaje, coche eléctrico y redes inteligentes constituyen la estrategia vertebral que tenemos que desarrollar para estabilizar el suministro y hacer la red más flexible y más fiable.
 
-- Garantir la participació dels sectors socials més desfavorits i el dret fonamental a l’energia en un marc de transició energètica justa perquè puga produir-se una veritable i justa lluita contra el canvi climàtic.
-- Dotar-se d’instruments d’identificació de la pobresa energètica amb mapes de risc, per zones i per tipus de construcció. 
-- Adoptar les mesures tarifàries pertinents, de facturació, financeres i fiscals per acabar amb aquest tipus de pobresa.
-- Vincular les ajudes per a la millora de l’eficiència energètica dels habitatges a la renda disponible de les famílies. 
-- Garantir la impossibilitat de suspensió del subministrament energètic a habitatges durant el període hivernal, sense un informe previ dels Serveis Socials tal com garanteix la Renda Valenciana d’Inclusió.
-- Promulgació d’una llei contra la pobresa energètica i d’un pla per eradicar-la.
+Por eso, las universidades y empresas han de jugar un papel esencial bajo el impulso de la administración posibilitando estar presentes en todos los centros de planificación, decisión e investigación a nivel internacional.
 
-#### 2. Qualitat ambiental: cap a una economia circular
-##### Gestió segura i responsable dels residus 
-Un ús racional i sostenible dels recursos passa per una gestió dels possibles residus futurs. El principi que ha de regir la gestió de residus és, en primer lloc, la no generació de residus, tot implantant el ‘residu zero’ com a horitzó estratègic. Això és un repte i una oportunitat en la qual han de treballar de manera conjunta les administracions, els ciutadans i els agents econòmics.
+##### Autoconsumo y Generación distribuida
+En nuestra propuesta energética la ciudadanía tiene que asumir un papel predominante a la hora de decidir de qué forma quiere cubrir sus necesidades energéticas en régimen de autoconsumo y generación compartida dando cabida a polígonos industriales, centros comerciales e islas de fincas a los barrios, en régimen de balance limpio y retribución adecuada de los excedentes.
 
-Aquestes polítiques seran clau per a la transició ecològica de la societat i una oportunitat de generació de fins a 500.000 llocs de treball en aquests nous sectors.
+El desarrollo que proponemos se basa en las siguientes propuestas:
 
-- Impuls de l’estratègia estatal ‘residu zero’ com a marc d'actuació mínim per a les comunitats autònomes, tot implementant els sistemes de control i seguiment d'indicadors harmonitzats en la gestió dels fluxos de residus i de les estratègies d'educació i conscienciació dels ciutadans i la implicació dels actors econòmics. Mesures de foment de sistemes de control de la generació de residus per a implementar formes de pagament per generació realment justos que contribuisquen a la reducció efectiva dels residus.
-- Promoció de l'economia circular (inclosos incentius fiscals) per a facilitar la transició ecològica de tots els agents econòmics, incentivant l’ecodisseny i la no obsolescència programada.
-- Foment de la gestió sostenible dels residus sobre la base dels principis de proximitat i descentralització per a la implementació de les infraestructures necessàries, incloent-hi un marc estatal que limite la transferència dels residus, imposant taxes i costos extres per quilòmetre recorregut.
-- Adequació dels sistemes integrats de gestió (SIG) d'envasos als objectius mínims marcats per la UE, tot implementant mesures que asseguren la transparència del sistema i els seus costos reals, inclosos els generats per la recollida i la neteja dels ajuntaments. Treballarem per a la creació d’un nou marc normatiu que propicie que sistemes més eficients per criteris ambientals siguen els que es potencien per arribar a objectius de fins al 90% de reciclatge d'envasos.
-- Transposició a l’ordenament jurídic estatal les noves directives del paquet d’economia circular de la UE (DOUE 14/06/2019) en els primers 100 dies de govern, per tal d’ajudar els ajuntaments en la millora de la gestió.
-- Foment l’activitat de preparació per a la reutilització en envasos de vidre i altres productes com a mecanisme de foment de l’economia circular en els àmbits local, autonòmic i estatal.
-- Aplicació d’un cànon de penalització de l’abocament de residus municipals que siga finalista i redunde en la millora econòmica de l’incentiu per a la reducció, reutilització i recollides selectives de qualitat. Legislar per tal que siga un cànon cedit a les comunitats autònomes en els primers 100 dies de govern.
-  1. Assegurament de  la gestió eficient i transparent dels residus declarats servei públic de titularitat autonòmica. Realitzarem controls i seguiments efectius del bon funcionament de les instal·lacions de residus.
-  2. Construcció de dades fiables, contrastables, de domini públic, actualitzades i actualitzables en tot allò relacionat amb la gestió de residus i la seua afecció en els ecosistemes.
-  3. Difusió de campanyes d’educació destinades a la població en general i especialment als diferents sectors més implicats en la producció de residus, per tal de fomentar-ne la reducció i la correcta gestió. També farem sensibilització sobre els impactes que aquests generen en el medi ambient i les seues solucions.
-  4. Promoció de mesures per a la cooperació d’empreses distribuïdores i productores amb l’objectiu de minimitzar l’envasament i embalatge.
-  5. Redimensió de l’entitat de macroplantes de tractament per a reduir al màxim la distància entre punts d’origen de producció de residus i punts de tractament. Potenciació de la separació en origen.
-  6. Reconeixement de la realitat dels sòls contaminats, especialment els que afecten directament la salut humana, per mitjà de plans específics de descontaminació i de confinament o control en els casos en els quals no puga donar-se un tractament definitiu a curt termini.
+- Elaborar el reglamento recogido en El Real decreto ley RDL 15/2018 de medidas urgentes para la transición energética y protección de los consumidores.
 
-Impuls d’un pla per a la recollida selectiva generalitzada de residus urbans amb mesures de suport als ajuntaments (assessorament legal i tècnic, ajudes) per què es puguen adoptar les actuacions necessàries, com per exemple:
+- Aplicación del balance limpio con gestión administrativa simplificada que integre los derechos del consumidor/productor a ser retribuido adecuadamente por los excedentes de energía que envía a la red en igualdad de condiciones que el resto de agentes del sistema.
 
-Introducció de l’obligatorietat de la recollida separada de matèria orgànica i recollida selectiva de matèria orgànica en origen.
-Desenvolupament normatiu i fiscal de foment de la separació en origen.
-Estudi i desenvolupament de la implantació de la recollida separada de matèria orgànica dels residus urbans, amb fiscalitat positiva per a aquells ajuntaments i entitats que la desenvolupen.
-Desenvolupament l’economia circular que garantisca una reducció de l’ús dels recursos naturals. Centrarem el sistema de gestió en la reducció en origen i la recuperació de materials i dipòsits als abocadors per tal d’acomplir els objectius europeus de reciclatge:
-Com a mesura urgent, prohibició d’utensilis de plàstic d’un sol ús abans de l’any 2021 (coberts i plats de plàstic, bastonets de cotó, canyetes o envasos de menjar i beguda de poliestirè,etc.) al mercat així com en bars i restaurants.
-10% de reducció de residus respecte de 2010.
-5% de reutilització de Residus d’Aparells Elèctrics i Electrònics (RAEE).
-50% de reciclatge de residus domèstics i comercials.
-70% de valorització de Residus de la Construcció i Demolició (RCD).
+- La no existencia de limitaciones ni en la dimensión de la instalación, ni en la potencia, ni por la relación entre la energía generada y la consumida.
 
-Implantació de mesures proactives de reducció de residus, tals com:
-Compra pública responsable.
-Actuacions contra l’obsolescència programada.
-Foment de la compra a granel.
-Promoció del consum dels productes locals.
+- Garantizar la posibilidad del almacenamiento y por tanto la minimización de su consumo respecto a la red, aplicando bonificaciones fiscales.
 
-Promoció i bonificació de les polítiques i actuacions de residu zero (compostatge comunitari, reutilització d’envasos, etc.)
-Eliminació de la incineració de residus urbans de qualsevol sistema de gestió, potenciant la recuperació, el reciclatge o la biometanització.
-Potenciació l’ecoeficiència en el sistema de producció i consum, incloent-hi l’anàlisi del cicle de vida dels productes i els indicadors derivats en l’etiquetat, tot indicant-ne la capacitat de reciclabilitat.
-Potenciar la xarxa de reparació, mercat de segona mà i reducció de les bosses de plàstic d’un sol ús, tal com indica la legislació europea.
-Impuls  als sistemes de recollida, recuperació, reciclatge i eliminació que millor fomenten la qualitat i els rendiments de separació de la matèria recuperada.
-Desenvolupament del sector del reciclatge de residus industrials com a sector de l’economia verda, bo i evitant la incineració i el dipòsit en abocador.
-Redefinició de la funció dels punts nets, incloent-hi els punts nets mòbils, per a millorar la quantitat i la qualitat dels productes recollits.
-Promoció de l'economia circular en la gestió dels residus agropecuaris, i els considerarem com un recurs i no com a residu.
-Desenvolupament d’un pla estatal d’energies renovables relacionat amb la gestió global dels residus: fotovoltaica, biometà, etc.
-Ús de Fons Europeus per tal de contribuir al desenvolupament de nous sistemes de reducció, reutilització, recollida i tractament de residus.
-Qualitat de l’aire
-Increment de la xarxa de mesurament de la contaminació atmosfèrica en col·laboració amb les comunitats autònomes i els ajuntaments; i complement de la publicació de les dades de manera accessible i, sobretot, de fàcil comprensió per a la població, per tal de donar una informació adequada i actualitzada puntualment de les superacions dels llindars de protecció.  
-Impuls de l’elaboració estatal dels Plans de Qualitat de l’Aire de les aglomeracions urbanes i millorarem els existents. A més, crearem una Xarxa Estatal de Qualitat de l’Aire.
-Per tal d’incorporar tecnologies més netes als sistemes productius industrials, promocionarem les ajudes per a la reconversió i l’adequació de les empreses existents, així com per a noves empreses o activitats que incorporen tecnologies no contaminants o més eficients en l’ús de recursos naturals bàsics com ara aigua, energia o matèries primeres.
-Increment de les despeses en R+D+i vinculades a la lluita contra la contaminació i la producció de residus, la promoció de la reutilització, el foment del reciclatge, el manteniment en bon estat dels recursos hídrics, les energies renovables de menor impacte, l’edificació sostenible i la mobilitat no contaminant.  
-Impulsarem la comptabilitat ambiental i les inversions verdes en les empreses, tot incrementant els avantatges fiscals i de contractació amb l’Administració per a les empreses compromeses amb el control i la reducció de la contaminació.
-Establiment d’incentius fiscals per a les empreses que realitzen l'avaluació ambiental contínua (amb indicadors de millora) per augmentar la competitivitat de les empreses que milloren els estàndards ambientals mínims.
-Desenvoluparem ajudes a la investigació pública de tecnologies i processos industrials adreçats a la minimització de la contaminació, la reutilització de subproductes i la substitució i eliminació de les substàncies contaminants nocives dels processos industrials.
-Promourem una fiscalitat ambiental basada en incentius, reformant els tributs ja existents per tal de transformar les activitats potencialment contaminants i penalitzar els consums malbaratadors de recursos naturals. La finalitat no és l’increment de la pressió fiscal, sinó la seua redistribució i reorientació ecològica de manera que alleugeresca les càrregues sobre les activitats més sostenibles i les incremente sobre les que són clarament insostenibles.
-Revisió i ampliació de la normativa sobre contaminació acústica perquè la seua aplicació es traduesca en la millora efectiva urbana i urbanística.
-Prevenció de danys ambientals i protecció dels recursos naturals
-L’estratègia i les mesures adreçades a la prevenció de danys i a la protecció dels recursos naturals està íntimament vinculada amb la preservació de les cobertes de vegetació, la connectivitat dels hàbitats naturals i la biodiversitat, pel seu valor intrínsec i per la seua contribució al benestar humà.
-Modificació de la Llei d’Avaluació Ambiental perquè siguen vinculants els informes que emet la Generalitat en la fase de consultes dels procediments d’avaluació ambiental de plans, programes i projectes de competència estatal que es desenvolupen al territori valencià i perquè s’hi contemplen processos de mediació per a la resolució de situacions de discrepància entre el govern espanyol i la Generalitat.
-Increment del grau de col·laboració del Seprona i de les fiscalies ambientals.
-Potenciació del canals per a facilitar l’efectiva coordinació del Ministeri Fiscal amb la Generalitat.
-Establiment d'incentius fiscals per a les empreses que realitzen l'avaluació ambiental contínua (amb indicadors de millora) per a augmentar la competitivitat de les empreses que milloren els estàndards ambientals mínims.
-Per tal d’evitar el dumping ambiental en el marc de l’Estat espanyol, s’establirà un fons compensatori a favor d’aquelles comunitats autònomes amb programes més ambiciosos en matèria de protecció ambiental i de la natura.
-Crearem un nou Índex de Disponibilitat de Recursos Ambientals com a indicador de referència que s’afegesca als indicadors tradicionals de la comptabilitat macroeconòmica (PIB, IPC, renda per càpita), tant en l’àmbit de l´Estat com en el de les diferents comunitats autònomes. Aquest indicador incorporarà sèries de dades estables i homogènies sobre l’estat i l´evolució dels paràmetres més destacats de qualitat ambiental, nivells de contaminació, disponibilitat i qualitat de recursos ambientals
-Impulsarem la revisió de lleis bàsiques de Muntanyes, de Costes i d’Avaluació Ambiental, i la modificació dels apartats que no garantesquen la protecció adequada de la biodiversitat i el medi natural.
-Millorarem i estendrem els sistemes de detecció de focs mitjançant infrarojos i altres modalitats de detecció remota, i incrementarem les dotacions aèries de lluita contra incendis, en col·laboració amb les comunitats autònomes.
-Desenvoluparem ajudes específiques per a la millora dels ecosistemes forestals per tal d’aconseguir boscos més pluriestratificats i madurs, amb major biodiversitat i més resilients al foc.
-Implement del Fons Forestal Estatal, a l’objecte d’incentivar les externalitats productives dels terrenys forestals ordenats, com a sistema de pagament pels serveis ambientals o beneficis ecosocials que procuren aquestes àrees al conjunt de la societat. Aquest fons reforçarà les capacitats de gestió sostenible i de conservació dels boscos de les comunitats autònomes, els municipis i els propietaris forestals i crearà ocupació al món rural, ajudant en gran mesura a evitar-ne el despoblament.
-Impuls, amb criteris científics interdisciplinaris, les institucions d’investigació  dedicades a la gestió forestal sostenible i la restauració d’hàbitats naturals, i incrementarem la col·laboració entre les universitats, els centres públics d’investigació i les Administracions.
-Increment de les inversions i els equips d’investigació dedicats a la prevenció i lluita contra la desertificació, un tema prioritari davant dels efectes del canvi climàtic.
+- Los modelos de generación distribuida y autoconsumo están en proceso de transformación y representan una oportunidad para generar valor económico en el desarrollo de equipaciones, sistemas de gestión y de almacenamiento, vehículos eléctricos..., etc.
 
-Protecció de la costa i del medi marí
-Delimitació i fitació de les zones de domini públic marítim-terrestre, bo i revisant d’ofici les delimitacions dubtoses o contradictòries.
-Increment de la xarxa de mesurament de la contaminació aquàtica i, en col·laboració amb comunitats autònomes i ajuntaments, aplicarem un major rigor en les concessions administratives per a la utilització de l’espai marítim-terrestre, que sols hauran de fer-se en casos excepcionals d’interès general. 
-Limitació de la construcció d’infraestructures que modifiquen els corrents marins i  que causen un impacte negatiu sobre les costes.
-Tenint especial consideració respecte als efectes del canvi climàtic i l'augment del nivell del mar, es desenvoluparà una Planificació Estratègica Marina per al conjunt de l´Estat que fixarà les bases per a les diferents activitats humanes en el medi marí, primant la integració d’activitats sostenibles i la protecció dels ecosistemes.  
-Foment de la divulgació de les àrees marines protegides i del seus valors naturals en la societat, i les inclourem en les estratègies de promoció turística i d’educació ambiental. També afavorirem l’increment de l’impacte positiu d’aquestes àrees en les poblacions costaneres d’influència.
-Treballar amb els diferents agents implicats per a reduir els abocaments al mar.
-Prohibició per a nous sondejos, prospeccions i explotacions d’hidrocarburs.
+- Dado el elevado consumo energético derivados del ciclo integral del agua, se velará por que la depuración, desalación y en general el tratamiento y bombeo del agua incorpore energías renovables.
 
-Biodiversitat i territori
-Establiment de mesures cautelars de protecció de les zones LIC (Llocs d’Interès Comunitari) i ZEPA (Zones d’Especial Importància per a les Aus) de la Xarxa Natura 2000, mentre no compten amb la corresponent norma de gestió i hagen estat declarades ZEC (Zones d’Especial Conservació) per les comunitats autònomes.
-Foment de la delimitació de les vies ramaderes i suspendre cautelarment qualsevol procés de modificació d’amplària o traçat que afecte les vies que encara no ha estat delimitades.
-Delimitar i fitar les vies ramaderes encara pendents i suspendre cautelarment qualsevol procés de modificació d’amplària o traçat que afecte vies encara no delimitades.
-Desenvolupar un règim d’ajudes destinades al turisme rural o de natura, la rehabilitació, la restauració i la millora paisatgística i a d’altres activitats tradicionals compatibles amb la conservació dels ecosistemes rurals i forestals.
+##### Rehabilitación energética de viviendas y justicia energética para las personas
+
+El mal acondicionamiento de las viviendas es responsable del sobreconsumo energético de los edificios. Las familias más desfavorecidas disponen de viviendas peor aisladas y con calefacciones ineficientes, todo ello junto al elevado precio de la energía es la principal causa de la pobreza energética, cosa que demanda acciones de las administraciones públicas.
+
+Acciones para la rehabilitación energètica:
+
+- Impulso para revitalizar el sector de la construcción invirtiendo en la rehabilitación integral y la eficiencia energética de los edificios, para tender al edificio de consumo casi nulo como marca la nueva Directiva 2018/844/UE, a la vez que se reactiva la economía y se crea ocupación en el ámbito local.
+- Programa específico para la rehabilitación energética de los barrios y hogares más vulnerables a partir del Plan de Rehabilitación de Viviendas 2018-2021.
+- Programa de capacitación para las personas trabajadoras del sector que han perdido la ocupación a raíz de la crisis y para jóvenes desocupados.
+- Incorporación de la Rehabilitación Energética e Integral a los programas de Formación Profesional.
+
+Acciones contra la pobreza energética:
+- Garantizar la participación de los sectores sociales más desfavorecidos y el derecho fundamental a la energía en un marco de transición energética justa para que pueda producirse una verdadera y justa lucha contra el cambio climático.
+- Dotar de instrumentos de identificación de la pobreza energética con mapas de riesgo, por zonas y por tipos de construcción.
+- Adoptar las medidas tarifarias pertinentes, de facturación, financieras y fiscales para acabar con este tipo de pobreza.
+- Vincular las ayudas para la mejora de la eficiencia energética de las viviendas a la renta disponible de las familias.
+- Garantizar la imposibilidad de suspensión del suministro energético a viviendas durante el periodo invernal, sin un informe previo de los Servicios Sociales tal y como garantiza la Renta Valenciana de inclusión.
+- Promulgación de una Ley contra la pobreza energética y un Pla para erradicarla.
 
 
-Ajudes adreçades a municipis de l’interior de menys de 5.000 habitants per a la recuperació del patrimoni històric, cultural i natural amb l’objectiu de lluitar contra el despoblament rural i potenciar-ne l’atractiu turístic.
-Disseny i implementació d’un pla de rescat ecològic que incloga el conjunt de zones degradades amb l’objectiu d’augmentar la conservació d’espècies i hàbitats i la restauració ambiental.
-Desenvolupament de l’estratègia estatal de la infraestructura verda i de la connectivitat i restauració ecològica, inclosa en la modificació de la llei 33/2015 que modifica la llei 42/2007 de patrimoni natural i de la biodiversitat.
-Foment de la lluita contra l’entrada d’espècies exòtiques invasores i implementarem mitjans per a millorar l’eficàcia en la seua eradicació i control.
-Educació ambiental, formació i participació
-Desenvolupar majors continguts i recursos d'educació ambiental en el currículum escolar, i impulsar la formació del professorat.
-Impulsar campanyes de comunicació que s'emmarquen en els objectius de l'economia circular i baixa en carboni, amb missatges directes que ajuden la societat a canviar cap a hàbits més sostenibles.
-Dirigir campanyes als joves per a connectar amb els recents moviments de reivindicació ambiental i de lluita contra el canvi climàtic, mitjançant el desenvolupament de recursos específics i, especialment, en les xarxes socials.
-Desenvolupar programes de formació i jornades de difusió de les tecnologies netes, les ecoetiquetes, l'agricultura i la ramaderia ecològiques i d’altres certificacions ambientals que permeten un consum més conscient.
-Fomentar els fòrums de debat i els òrgans de participació ambiental, de manera que s'aconseguesca major implicació de la societat en el procés de transició ecològica.
-Incentivar els programes de voluntariat ambiental.
 
-Aigua  
+#### 2. Calidad ambiental: hacia una economía circular
+##### Gestión Segura y responsable de los residuos
+Un uso racional y sostenible de los recursos pasa por una gestión de los posibles residuos futuros. El principio que tiene que regir la gestión es en primer lugar la no generación de residuos implantando el 'Residuo cero' como horizonte estratégico, esto es un reto y una oportunidad en la cual tienen que trabajar de manera conjunta las administraciones, los ciudadanos y los agentes económicos.
 
-L’aigua és essencial per a la vida, és fràgil davant de la contaminació i el deteriorament dels ecosistemes i és un recurs renovable però no infinit. És un bé comú i públic, un patrimoni ecosocial que cal gestionar, conservar i protegir perquè els nostres fills i filles en puguen gaudir i satisfer les seues necessitats. El model econòmic dominant de producció i consum ha intensificat l’ús d’aigua dolça i la seua contaminació, així com les emissions de gasos d’efecte hivernacle que ja estan provocant un canvi climàtic a escala planetària.  
-El canvi climàtic se suma a les pressions prèvies sobre els rius i aqüífers de les elevades demandes d’aigua per a l’agricultura, la producció d’electricitat, els usos urbans, industrials i turístics preexistents. Els seus efectes ja són manifestos en l’actualitat en la península Ibèrica: increment de les temperatures, reducció de les precipitacions, major variabilitat en les pluges dels períodes nivals, períodes de sequera més perllongats, episodis més freqüents de pluges torrencials i reducció de la disponibilitat de recursos hídrics naturals.
-Cal abordar la política i la gestió de l’aigua des d’una perspectiva de sostenibilitat, equitat, transparència i participació social per adaptar els nostres usos de l’aigua als efectes del canvi climàtic i recuperar la salut dels rius i aqüífers. Tot això, amb l’objectiu de fer una transició hidrològica i climàtica justa del nostre model socioeconòmic i reduir la vulnerabilitat ambiental, social i econòmica de les persones i els territoris.
-Per abordar aquests reptes, proposem un ventall de mesures agrupades 7 eixos d’actuació:
-Adaptar el marc normatiu estatal per a una gestió sostenible, eficaç i justa de l’aigua
-Control públic, transparència, accés a la informació i participació ciutadana efectiva en la gestió de l’aigua
-Coordinació i col·laboració eficaç entre administracions
-Planificar els usos de l’aigua tenint en compte els drets humans essencials i el canvi climàtic
-Protegir i recuperar del bon estat de rius, zones humides i aqüífers
-Adaptar els usos de l’aigua al canvi climàtic
-Adaptar la disponibilitat d’aigua al canvi climàtic  
-Adaptar el marc normatiu estatal per a una gestió sostenible, eficaç i justa de l’aigua
-Elaborar una llei de transició hidrològica basada en l’aplicació de la Directiva Marc de l’Aigua (DMA) i les seues directives europees filles, per recuperar i conservar el bon estat de rius, aqüífers, llacs, estuaris i aigües costaneres, garantir l’ús sostenible de l’aigua en cada conca, garantir l’aplicació de mesures de mitigació i adaptació als efectes del canvi climàtic i reconèixer i garantir l’exercici del dret humà essencial d’accés a l’aigua potable i el sanejament a totes les persones. 
-Desenvolupar un marc normatiu estatal que enfortesca les capacitats dels ajuntaments per portar a terme una gestió pública, sostenible, eficaç, equitativa, eficient, sostenible, transparent i participativa dels serveis públics essencials d’abastiment d’aigua potable i sanejament. Regular la durada màxima dels contractes de concessió i la destinació del cànon concessional per tal que revertesca en inversions en el cicle urbà de l’aigua i es garantesca el control efectiu públic dels serveis i la possibilitat de reversió de la concessió sense costos abusius.  
-Adaptar la normativa sobre reutilització d’aigües regenerades per impulsar-ne la  utilització sostenible i assequible als diversos usos (en particular, l’agrícola). 
-Millorar la regulació dels contractes de cessió i els centres d’intercanvi de drets d’ús d’aigua per tal de garantir que l’aplicació d’aquests instruments no genera especulació i mercantilització dels drets concessionals d’ús privatiu d’aigua,  o empitjorament de l’estat de les masses d’aigua cedents, que no soscava la facultat de l’Administració per reassignar recursos entre usos, o que compta amb un control administratiu i públic efectiu i són mecanismes transparents amb accés públic a tota la informació sobre la seua aplicació. Circumscriure l’aplicació d’aquestes mesures a la gestió de sequeres i garantir l’aplicació estricta de l’article 69.1 de la Llei d’aigües.
-Reformar la composició dels Consells de l’Aigua de les demarcacions hidrogràfiques, incorporant-hi els sectors marginats en els esmentats òrgans de participació: activitats recreatives, de turisme fluvial, usos no econòmics dels rius i col·lectius socials que promouen l’ús sostenible de l’aigua i la defensa dels rius i els aqüífers.
-Control públic, transparència, accés a la informació i participació ciutadana efectiva en la gestió de l’aigua
-Promoure l’educació ambiental i campanyes d’informació, comunicació i sensibilització de la població, així com de sectors concrets, en relació amb qüestions com ara el caràcter de bé públic, patrimoni ecosocial i la multiplicitat de dimensions de l’aigua, la importància de la conservació dels ecosistemes fluvials i els aqüífers per al benestar humà present i futur, les bones pràctiques en l’ús de l’aigua i el territori per a fer front als efectes previstos del canvi climàtic sobre el cicle hidrològic, la prevenció de la contaminació, el dret humà d’accés a l’aigua potable i el sanejament, o la importància de la participació pública en la gestió i planificació de l’aigua.    
-Establir mecanismes de transparència i rendició de comptes per a tots els gestors i usuaris de l’aigua (administracions públiques, comunitats de regants, empreses hidroelèctriques, empreses subministradores d’aigua, etc.) que garantesquen l’accés públic i el control extern efectiu de la gestió de l’aigua i dels diversos usos de l’aigua per mitjà del subministrament actiu i continu d’informació sobre els volums utilitzats, procedència i destinació de l’aigua, costos i preus, qualitat de les aigües, efectes ambientals, estat de les masses d’aigua, etc.
-Fomentar i garantir l’accés efectiu a la informació, així com la participació pública real, efectiva i transparent en la planificació i en la gestió de l’aigua, per tal d’evitar l’opacitat i l’arbitrarietat.
-Garantir que el registre públic d’aigües i el catàleg d’aigües privades està actualitzat i consolidat, en particular, abans de portar a terme centres d’intercanvi de drets d’ús d’aigua o contractes de cessió de drets d’ús d’aigua entre usuaris. Garantir l’accés públic als registres de drets concessionals i de drets privats d’aigua i volums efectivament utilitzats pels usuaris, mitjançant les webs oficials de les confederacions hidrogràfiques.
-Realitzar un control efectiu de tots els usos de l’aigua, en particular de les extraccions d’aigües subterrànies, així com dels perímetres de regadiu per tal d’evitar usos il·legals.
-Portar a terme controls periòdics i permanents necessaris perquè, en els casos que l’ús efectiu de l’aigua siga inferior als drets d’ús d’aigua reconeguts, es procedesca a la revisió concessional per adaptar els drets d’ús d’aigua atorgats als usos efectius, i sempre amb una perspectiva d’ús sostenible i ambiental a llarg termini de les masses d’aigua, incloent-hi els efectes del canvi climàtic.
-Abordar un procés de diàleg i consens social a escala estatal per a la consecució d’un acord estatal per a la gestió sostenible de l’aigua davant del canvi climàtic, prenent com a referència la Directiva Marc de l’Aigua i propostes com, per exemple, les de l’Acord social per l’aigua, en defensa dels nostres rius i per l’aigua pública.
-Coordinació i col·laboració eficaç entre administracions
-Crear procediments operatius per tal de garantir l’efectivitat de la coordinació i cooperació entre les autoritats estatals, autonòmiques i municipals en matèria de planificació i gestió de l’aigua, dins de cada demarcació hidrogràfica, amb l’objectiu de garantir la coherència i sostenibilitat a llarg termini dels usos de l’aigua, del cicle hidrològic i els ecosistemes dependents.
-En els casos de reutilització d’aigües regenerades, millorar la coordinació de les  Confederacions Hidrogràfiques amb les autoritats competents autonòmiques i agilitzar la concessió dels cabals regenerats, bo i disminuint les pressions sobre les masses d’aigua.
-A l’hora d’emetre informes relatius a la disponibilitat d’aigua requerits pels instruments de planificació urbanística, les Confederacions Hidrogràfiques tindran en compte els efectes del canvi climàtic sobre el territori objecte de planificació a l’hora calcular la disponibilitat d’aigua.
-Planificar els usos de l’aigua tenint en compte els drets humans essencials i el canvi climàtic
-Garantir que l’aigua de millor qualitat disponible en cada conca hidrogràfica es dedica de manera prioritària a la producció d’aigua potable, per davant de la resta d’usos. Protegir aquestes masses d’aigua i prevenir la seua contaminació, així com garantir fonts de subministrament alternatives d’aigua d’alta qualitat per a la producció d’aigua potable en casos d’escassetat d’aigua.
-Incorporar el millor coneixement disponible relatiu als efectes previstos del canvi climàtic sobre l’evolució de les temperatures i el règim de precipitacions i hidrològic (patrons de precipitacions per subconques, disponibilitat de recursos hídrics superficials i subterranis) a escala de conca fluvial en el cicle de planificació 2021-2027 i en l’elaboració dels plans de sequera de les demarcacions hidrogràfiques.
-Portar a terme els estudis científics necessaris per determinar dels cabals ecològics (rius), els requeriments ambientals (llacs i zones humides) i les restriccions ambientals (masses d’aigua subterrània) i establir uns règims de cabals ecològics efectius en els plans hidrològics de conca per aconseguir el bon estat de les masses d’aigua i l’ús sostenible de l’aigua.
-Revisar la viabilitat i la sostenibilitat del catàleg d’obres previstes en els plans hidrològics de conca tenint en compte el millor coneixement disponible sobre els efectes del canvi climàtic relatiu a la disponibilitat i gestió dels recursos hídrics en cada conca hidrogràfica.
-Posar en marxa un pla d’inversions per portar a terme aquelles obres i actuacions de la planificació hidrològica que siguen viables en un context de canvi climàtic per tal de pal·liar la reducció de recursos hídrics i prevenir els efectes negatius del canvi climàtic.
-Incorporar els plans especials d’alerta i eventual sequera dins del procés de planificació hidrològica i sotmetre’ls, com a mínim, al mateix nivell d’exigència pel que fa a la participació pública exigida per a la planificació hidrològica.
-Avaluar l’efectivitat de les actuacions realitzades del Pla de Xoc de Modernització de Regadius sota criteris d’estalvi d’aigua, d’eficiència en l’ús de l’aigua i de repercussió ambiental, social i de viabilitat econòmica, tenint en compte el millor coneixement disponible sobre els efectes del canvi climàtic sobre el cicle hidrològic.
-Revisar el Pla Nacional de Regadius tenint en compte  el millor coneixement disponible sobre els efectes previstos del canvi climàtic sobre l’evolució de les temperatures i el règim de precipitacions i hidrològic (patrons de precipitacions i infiltració per subconques, disponibilitat de recursos hídrics superficials i subterranis) per tal de prevenir la realització d’inversions (i la creació d’expectatives) que deriven en la sobreexplotació de les masses d’aigua superficial i subterrànies, així com les pèrdues econòmiques futures derivades de la inviabilitat de la mateixa inversió.
-Posar en marxa un pla plurianual d’investigació i seguiment de les aigües subterrànies per assolir un coneixement detallat dels aqüífers i del seu funcionament, i identificar les possibilitats i les condicions d’utilització sostenible a llarg termini d’aigües subterrànies. Incorporar aquest coneixement i les actuacions que se’n desprenguen a la planificació i la gestió de l’aigua per tal de garantir l’ús sostenible de les aigües subterrànies a llarg termini.
-Promoure el desenvolupament de plans de gestió de la demanda dels usos urbans, incloent-hi la formulació de plans municipals de gestió de l’aigua en períodes de sequera, per tal de garantir el dret humà essencial d’accés a l’aigua potable i el sanejament, fomentar l’estalvi i ús eficient de l’aigua, conservar la qualitat de l’aigua, afavorir la reutilització de les aigües regenerades en l’àmbit urbà i l’adaptació dels serveis urbans del cicle urbà de l’aigua al canvi climàtic.
-En relació amb la gestió dels riscos d’inundació en les zones urbanes, promoure l’elaboració de plans municipals de prevenció i gestió d’inundacions, així com l’adopció de mesures de prevenció i gestió d’inundacions basades en la natura, els sistemes urbans de drenatge sostenible i l’ordenació dels usos del territori que evite les construccions en zones inundables.
-Protegir i recuperar del bon estat de rius, zones humides i aqüífers
+Estas políticas serán claves para la transición ecológica de la sociedad y una oportunidad de generación de hasta 500.000 empleos en estos nuevos sectores.
 
-Prevenir i corregir les fonts de contaminació puntual i difusa, tant en les aigües superficials com en les subterrànies.
-Incrementar els recursos humans, materials i pressupostaris de les confederacions hidrogràfiques per millorar la caracterització i el seguiment de l’estat de les masses d’aigua, de les pressions i dels impactes sobre les masses d’aigua, així com per portar a terme actuacions de recuperació del seu bon estat.
-Realitzar actuacions de restauració morfològica i ecològica dels llits i boscos de ribera  per millorar l’estructura i la funcionalitat dels ecosistemes aquàtics. Identificar i eliminar els assuts i preses en desús dels rius, i realitzar la permeabilització dels assuts i preses en ús per garantir la connectivitat longitudinal dels rius. 
-Prevenir la introducció, així com desenvolupar plans de control i eliminació, d’espècies de flora i fauna invasores dels ecosistemes aquàtics. 
-Procedir a la tramitació de la caducitat de concessions quan haja finalitzat el període de concessió o no s’estiga produint l’aprofitament autoritzat, d’acord amb els requisits de la legislació vigent.
-Des de les Confederacions Hidrogràfiques, elaborar plans de recuperació ecològica, socioeconòmica i patrimonial de les principals conques fluvials que travessen la Comunitat Valenciana, començant per les conques del Xúquer, Vinalopó, Segura, Túria, Palància, Mijares i Serpis, en col·laboració amb les autoritats autonòmiques i municipals, comptant amb la participació de la població i de totes les parts interessades.
-Treballarem en la planificació dels usos, gestió i conservació del parc natural de l’Albufera i reivindicarem al Ministeri de Medi Ambient que garantesca aigua suficient del Xúquer per a l’Albufera i acabe el col·lector oest i instal·lacions associades, obres paralitzades per la corrupció en Acuamed, evitant així que arribe aigua contaminada al llac i afavorint la reutilització d’aigua en l’agricultura.
- 
-Finalitzar i mantenir actualitzat l’inventari de pous, procedint al tancament dels pous no autoritzats, i realitzar un seguiment i control de les extraccions d’aigües subterrànies en totes les masses d’aigua subterrània; prioritàriament, en les que es troben en mal estat quantitatiu. 
-En les masses d’aigua en mal estat quantitatiu o en risc d’estar-ho, deixar d’atorgar drets d’ús d’aigües subterrànies i establir plans d’explotació vinculants que reduesquen les extraccions per tal de recuperar gradualment el bon estat de la massa d’aigua, que contemplen la seua substitució per recursos d’un altre origen o bé la recuperació dels drets d’ús d’aigua que superen els recursos disponibles, bo i garantint, en tot cas, la sostenibilitat de les alternatives que s’adopten. 
-Elaborar les normes d’explotació dels aqüífers compartits per dos o més demarcacions (com és el cas de l’aqüífer Villena-Jumilla o Vega Media del Segura, per exemple) amb l’objectiu de garantir la disponibilitat i la qualitat de l’aigua i el seu ús sostenible i equitatiu a llarg termini.
-Recuperar l’espai fluvial mitjançant mesures de gestió i ordenació del territori i l’ús d’infraestructures verdes per millorar la protecció de la població davant els riscos d’inundació.
-Promoure projectes d’investigació i aplicació de recàrrega artificial d’aqüífers.
-Prohibir l’aplicació de tècniques de fractura hidràulica (fracking) o similars, ja siga exploratòries o d’explotació, que puguen generar fenòmens de contaminació dels recursos hídrics subterranis, el deteriorament dels ecosistemes aquàtics continentals o marins, o l’increment dels riscos geològics.
-Adaptar dels usos de l’aigua al canvi climàtic
-Realitzar auditories dels perímetres de regadiu en totes les zones regables per tal de detectar transformacions a regadiu que no compten amb títol jurídic o no s’hagen realitzat d’acord amb la legalitat, i procedir a la corresponent reversió. De manera prioritària, en els casos en què aquest ús depèn de masses d’aigua en mal estat o en risc d’estar-ho o de recursos externs o afecte a espais naturals protegits.
-Evitar l’extensió de la superfície de regadiu en les zones que es troben en situació d’estrès hídric o en risc d’estar-ho tenint en compte les previsions dels efectes del canvi climàtic.
-Crear un fons econòmic plurianual per a l’adaptació de l’agricultura i la ramaderia davant els efectes del canvi climàtic sobre els recursos hídrics amb l’objectiu de reduir la vulnerabilitat socioeconòmica i ambiental d’aquest sector i garantir-ne la viabilitat a llarg termini. Aquest fons servirà per realitzar diagnòstics de situació i dissenyar i executar plans d’adaptació de l’agricultura i la ramaderia a escala comarcal davant dels efectes del canvi climàtic que contemplen la conservació dels recursos hídrics (reducció de contaminació, optimització de l’ús de l’aigua, maximització del serveis ambientals vinculats a l’aigua) i beneficien la conservació de l’estructura del sòl fèrtil i la seua capacitat de retenció d’aigua, la reconversió varietal i cap a cultius més ben adaptats al canvi climàtic, i la millora de la posició dels productors en la cadena de valor de la cadena alimentària per garantir la rendibilitat i la viabilitat de l’activitat agrària i el desenvolupament rural.  
-Adoptar mesures per prevenir la contaminació difusa provinent de l’agricultura, tals com buffer bands en les masses d’aigua superficials i perímetres de protecció en les masses d’aigua subterrània, i implementar mesures des de l’administració, amb la col·laboració activa dels sindicats agraris, comunitats de regants, centres d’investigació i universitats, i serveis d’extensió agrària, per facilitar informació, sensibilitzar i donar formació contínua als llauradors i llauradores per garantir la gestió correcta d’adobs i productes fitosanitaris i la conservació dels recursos hídrics.  
-Passar dels projectes o programes de modernització de regadius a projectes o programes de millora de la viabilitat i adaptació dels sistemes de reg davant dels efectes del canvi climàtic. Cal superar la perspectiva actual de mera transformació del sistema de reg per gravetat en un sistema de reg per degoteig. Els projectes de millora i adaptació dels sistemes de reg han d’incloure l’anàlisi de les inversions, les alternatives tècniques (incloent-hi auditories hídriques i energètiques), les mesures de formació i de gestió adaptades al context geogràfic, climàtic, ecològic, socioeconòmic i patrimonial on hagen d’implementar-se, així com mesures de seguiment, per tal d’evitar efectes perversos sobre les masses d’aigua, la biodiversitat i l’activitat agrària, que, fins i tot, en puguen posar en perill la continuïtat.
-Realitzar un seguiment i avaluar ex ante i ex post els projectes de reg localitzat a escala de zona regable i de la seua interrelació amb la resta de la conca. La implementació de canvis en els sistemes de reg cap sistemes estalviadors d’aigua han d’anar acompanyats de la revisió dels volums d’aigua concedits per fer efectiu l’estalvi d’aigua.   
-Articular mecanismes de gestió en les comunitats de regants per evitar que pràctiques com ara la fertirrigació centralitzada impedesquen el desenvolupament de projectes d’agricultura ecològica.
-En els sistemes de regadiu tradicional, promoure el manteniment i la renaturalització dels sistemes de reg per gravetat (que actuen com a sistemes de distribució i drenatge d’aigua) que potencien la biodiversitat i les funcions ecològiques d’aquests espais agraris d’alt valor ecològic així com la posada en valor del coneixement agrari i el patrimoni hidràulic. 
-Posar en marxa mesures de foment i protecció de l’agricultura de secà, propiciant iniciatives d’investigació, desenvolupament i innovació vinculades als conreus de secà, que afavoreixen la seua continuïtat i la competitivitat i rendibilitat dels productes agraris. 
-Reduir la vulnerabilitat dels recursos necessaris per al manteniment dels regadius tradicionals en la Vega Baja del Segura, evitant la translació dels desequilibris del sistema Tajo-Segura al sistema Segura. Portar a terme les mesures necessàries per evitar i eliminar la contaminació per plàstics i altres residus i garantir una bona qualitat de l’aigua en la conca baixa del Segura, així com el manteniment de les funcions ecològiques, a banda d’agrícoles, dels sistemes de regadiu tradicional.
-Exhaurir totes les mesures de gestió de la demanda d’aigua abans de proposar i/o posar en marxa noves obres hidràuliques que signifiquen un deteriorament addicional del cicle hidrològic i de les masses d’aigua que en formen part.
-Modificar l’actual repercussió del costos dels serveis de l’aigua perquè incentive l’ús sostenible a llarg termini dels recursos hídrics i el bon estat de les masses d’aigua i tinga en compte el principi d’equitat.
-Adaptar la disponibilitat d’aigua al canvi climàtic
-Realitzar una anàlisi de les possibilitats de dessalobració i reutilització d’aigües regenerades per a usos agraris i usos municipals (neteja viària, manteniment de parcs i jardins) i potenciar l’ús d’aquests recursos hídrics no convencionals de manera prioritària, així com posar en marxa al nivell òptim de capacitat les plantes dessaladores existents, incorporant fonts d’energia renovables, per a satisfer demandes urbanes en zones costaneres, de manera que es reduesquen els costos mitjans de disposició d’aigua i s’alliberen recursos per a usos agraris, una vegada garantits els cabals ecològics i les reserves ambientals. 
-Elaborar, en col·laboració amb les comunitats autònomes, un pla estatal de depuració d’aigües residuals i reutilització d’aigües regenerades i dotar-lo de finançament suficient per mitjà d’inversions estatals territorialitzades. 
-Incorporar tots els recursos no convencionals existents en cada conca en la planificació hidrològica corresponent, de manera consistent, per reduir les pressions en les masses d’aigua. 
-Establir mecanismes necessaris per tal de garantir l’autonomia financera dels municipis de la província de Castelló i València afectats per la construcció  d’infraestructures de dessalatge sense demanda i incorporar aquestes infraestructures a la planificació hidrològica com a mesura per a substituir extraccions superficials i subterrànies i recuperar el bon estat de masses d’aigua. 
-Portar a terme les inversions i actuacions a càrrec de l’administració general de l’estat necessàries per a la plena operativitat del transvasament Xúquer-Vinalopó amb presa d’aigües en l’Assut de la Marquesa.
-Establir i aplicar les normes d’explotació del transvasament Xúquer-Vinalopó d’acord amb les condicions de finançament europees i amb un esquema de costos assumible pels beneficiaris
-Aplicar el pla d’ordenació d’extraccions i explotació dels aqüífers sobreexplotats del Vinalopó perquè els recursos transvasats substituesquen les extraccions per a usos agraris, s’impedesca l’increment de les extraccions per a d’altres usos i es revertesca la sobreexplotació de les aigües subterrànies. 
-Articular l’ús conjunt del transvasament Tajo-Segura i dels recursos hídrics no convencionals que complementen els recursos transvasats en cada moment, de manera que es puguen garantir les demandes agràries i urbanes del sud alacantí amb aigua de qualitat adequada a cada ús i amb un cost assumible per part dels usuaris. Garantir que les aigües del transvasament no s’utilitzen fora dels perímetres de reg legalment establerts.
-Analitzar i posar en marxa, en col·laboració amb els governs autonòmics, alternatives a mitjà termini per als territoris dependents del transvasament Tajo-Segura, articulant l'ús sostenible de recursos hídrics convencionals i de recursos hídrics no convencionals (dessalobració, reutilització d’aigües regenerades i dessalatge d’aigua marina), obtinguts fent servir energies renovables, de manera que es puguen garantir les demandes amb aigua de qualitat adequada a cada ús amb un cost assumible per part dels usuaris i minimitzant la petjada de carboni. 
-Crear ajudes directes a xicotets productors agraris (agricultura i ramaderia familiar) per pal·liar els costos socials i econòmics de l’absència continuada de precipitacions en les èpoques de sequera, en forma de compensació directa de rendes, sense perjudici de la normativa europea, en lloc d’utilitzar la rebaixa o exempció general dels preus de l’aigua.
-Estudiar detalladament el funcionament dels aqüífers per garantir l’ús sostenible dels recursos subterranis disponibles (és a dir, prevenint tot risc de sobreexplotació i deteriorament de la seua qualitat), desenvolupant projectes d’investigació i explotació públics a llarg termini, amb control públic efectiu, especialment en el cas de les masses d’aigua subterrània amb drenatge al mar, de manera que es puga incrementar l’oferta d’aigua sense posar en perill el bon estat de les masses d’aigües subterrànies i que es puguen reduir les pressions sobre les masses d’aigua superficial, en particular, si no estan en bon estat.
+- Impulso de la Estrategia estatal 'Residuo Cero' como marco de actuación mínimo para las comunidades autónomas implementando los sistemas de control y el seguimiento de indicadores armonizados en la gestión de los flujos de residuos y de las estrategias de educación y concienciación de los ciudadanos y la implicación de los actores económicos. Medidas de fomento de sistemas de control de la generación de residuos para implementar formas de pago por generación realmente justos que contribuyan a la reducción efectiva de los residuos.
+- Promoción de las políticas activas para la promoción de la economía circular (incluidos incentivos fiscales) para facilitar la transición ecológica de todos los agentes económicos, incentivando el ecodiseño y la no obsolescencia programada.
+- Fomento de la gestión sostenible de los residuos en base a los principios de proximidad y descentralización para la implementación de las infraestructuras necesarias incluido un marco estatal que limite la transferencia de los residuos, imponiendo tasas y costes extras por km recorrido.
+- Adecuación de los sistemas integrados de gestión (SIG) de Envases a los objetivos mínimos marcados por la UE implementando medidas que aseguren la transparencia de estos sistemas y sus costes reales, incluidos los generados por la recogida y la limpieza de los ayuntamientos. Creación de un nuevo marco normativo que propicie sistemas más eficientes que esté regido por criterios ambientales sean los que se potencian para llegar a objetivos de hasta el 90% de reciclaje de envases.
+- Trasposición al ordenamiento jurídico estatal las nuevas directivas del paquete de Economía circular de la UE (DOUE 14/06/2019) en los primeros 100 días de gobierno, para ayudar los ayuntamientos en la mejora de la gestión.
+- Fomento de la actividad de preparación para la reutilización en envases de vidrio y otros productos, como mecanismo de fomento de la economía circular a nivel local, regional y estatal.
+- Asegurar la gestión eficiente y transparente de los residuos declarados servicio público de titularidad autonómica. Realizaremos controles y seguimientos efectivos del buen funcionamiento de las instalaciones de residuos.
+- Construir datos fiables, contrastables, de dominio público, actualizados y actualizables en todo aquello relacionado con la gestión de residuos y su afección en los ecosistemas.
+- Difusión de campañas de educación, destinadas a la población en general y especialmente a los diferentes sectores más implicados en la producción de residuos, para fomentar la reducción y la correcta gestión de los mismos, así como sensibilizaremos sobre los impactos que estos generan en el medio ambiente y sus soluciones.
+- Promoción de medidas para la cooperación de empresas distribuidoras y productoras con el objetivo de minimizar el envasado y embalaje.
+- Redimensión de la entidad de macro-plantas de tratamiento para reducir al máximo la distancia entre puntos de origen de producción de residuos y puntos de tratamiento de los mismos. Potenciaremos la separación en origen.
+- Afrontar la realidad de los suelos contaminados, especialmente los que afectan directamente a la salud humana, por medio de planes específicos de descontaminación y de confinamiento o control en los casos en los cuales no pueda darse un tratamiento definitivo a corto plazo.
+- Impulso de un Pla para la recogida selectiva generalizada de residuos urbanos con medidas de apoyo a los ayuntamientos (asesoramiento legal y técnico, ayudas) para adoptar las actuaciones necesarias como, por ejemplo:
+    - Introducción de la obligatoriedad de la recogida separada de materia orgánica y recogida selectiva de materia orgánica en origen.
+    - Desarrollo normativo y fiscal de fomento de la separación en origen.
+    - Estudio y desarrollo de la implantación de la recogida separada de materia orgánica de los residuos urbanos, con fiscalidad positiva para aquellos ayuntamientos y entidades que la desarrollan.
+- Desarrollo la Economía Circular que garantice una reducción del uso de los recursos naturales. Centraremos el sistema de gestión en la reducción en origen y la recuperación de materiales y depósitos a los vertederos, para cumplir los objetivos europeos de reciclaje:
+    - Como medida urgente, prohibición de utensilios de plástico desechable antes del año 2021 (cubiertos y platos de plástico, palillos de algodón, pajitas o envases de comida y bebida de poliestireno..., etc.) al mercado, así como en bares y restaurantes.
+    - 10% de reducción de residuos respecto de 2010
+    - 5% de reutilización de Residuos de Aparatos Eléctricos y Electrónicos (RAEE).
+    - 50% reciclaje residuos domésticos y comerciales.
+    - 70% valorización Residuos de la Construcción y Demolición (RCD).
 
-4. Benestar animal
-Els animals han de rebre un tracte digne que no ens faça avergonyir de la nostra pròpia condició. 
-L’elaboració d’una llei estatal de benestar animal: 
-Reconeixement dels animals com a éssers amb la capacitat de sentir perquè deixen d'estar qualificats com a objectes.
-Inhabilitació especial per a la convivència amb animals en la pena prevista per al delicte de maltractament animal.
-Sacrifici zero en els centres de recollida d’animals abandonats, i desenvolupament de mesures per a garantir l’efectivitat en relació amb la identificació, esterilització, adopció de gossos i control de les gateres.
+- Implantación de medidas proactivas de reducción de residuos tales como:
+    - Compra pública responsable
+    - Actuaciones contra la obsolescencia programada
+    - Fomento de la compra a granel
+    - Promoción del consumo de los productos locales
 
-Educació com a política preventiva:
-Inclusió en el currículum escolar obligatori de l’empatia cap als animals.
-Realitza campanyes públiques de sensibilització, respecte i convivència entre éssers humans i animals que eviten qualsevol tipus de violència o maltractament.
+- Promoción y bonificación de las políticas y actuaciones de residuo cero (compostaje comunitario, reutilización envases, etc.)
+- Eliminación de la incineración de residuos urbanos de cualquier sistema de gestión, potenciando la recuperación, el reciclaje o la biometanización.
+- Potenciación de la eco-eficiencia en el sistema de producción y consumo, incluyendo el análisis del ciclo de vida de los productos y los indicadores derivados en el etiquetado, indicando su capacidad de reciclabilidad.
+- Potenciar la red de reparación, mercado de segunda mano y reducción de las bolsas de plástico desechable, como indica la legislación europea.
+- Impulso de los sistemas de recogida, recuperación, reciclaje y eliminación que mejor fomentan la calidad y los rendimientos de separación de la materia recuperada.
+- Desarrollo del sector del reciclaje de residuos industriales, como sector de la economía verde, evitando la incineración y el depósito en vertedero.
+- Redefinición de la función de los puntos limpios, incluyendo los puntos limpios móviles, para mejorar la cantidad y la calidad de los productos recogidos.
+- Promoción la economía circular en la gestión de los residuos agropecuarios, considerándolos como un recurso y no como residuo.
+- Desarrollo de un Plan estatal de energías renovables relacionado con la gestión global de los Residuos: fotovoltaica, biometano,etc.
+- Uso de Fondos Europeos para contribuir al desarrollo de nuevos sistemas de reducción, reutilización, recogida y tratamiento de Residuos.
 
-Eliminació del reconeixement legal dels espectacles taurins com a patrimoni cultural comú de tots els espanyols i les espanyoles. Modificació de la llei 18/2013 de 12 novembre, per a la regulació de la tauromàquia com a patrimoni cultural.
-Subvenció zero per als espectacles amb animals que no asseguren el seu benestar.
-Eliminació de qualsevol excepció sobre sacrifici amb atordiment d'animals.
-Revisió i regulació de tots els espectacles que impliquen confinament dels animals i/o maltractament.
-Revisió i regulació del zoològics i aquaris des d’una perspectiva de benestar animal i no exclusivament com a negocis d’entreteniment.
-Reducció de l’IVA dels serveis veterinaris.
-Obligatorietat de l'adopció d'estàndards de benestar animal com ara la densitat adequada per a cada espècie en peixos de piscifactoria, i la reducció i millora del temps de transport d'animals vius.
-Millora en l'etiquetatge i contingut de la informació sobre els productes d'origen animal. 
-Exigirem la millora de les condicions de vida dels animals de granja i laboratori, així com en la inspecció i avaluació de les llicències d'apertura de macrogranges.
-Promoció de mètodes alternatius a l'experimentació amb animals i fomentarem les granges ecològiques de ramaderia extensiva i sostenible.
-Foment de la inversió econòmica i científica per al desenvolupament d'alternatives i mètodes per a la reducció i adaptació de l'ús de l'experimentació amb animals.
-Impuls de l'elaboració d'un estudi de viabilitat sobre la possibilitat de prohibir la utilització d'animals salvatges en circs en una legislació d'àmbit estatal sobre la base de seguretat, sanitat i protecció dels animals.
-Establiment d'un grup de treball interministerial amb l'objectiu d'establir un llistat positiu d'espècies objecte de comerç i tinença com a animals de companyia en coordinació amb la resta d'administracions públiques implicades i de forma consensuada entre totes les parts interessades.
+##### Calidad del aire
+- Incremento la red de medición de la contaminación atmosférica en colaboración con las comunidades autónomas y ayuntamientos; y complementaremos la publicación de los datos de manera accesible y sobre todo de fácil comprensión para la población, para dar una información adecuada y actualizada puntualmente de las superaciones de los umbrales de protección.
+- Impulso de la elaboración estatal de los Planes de Calidad del Aire de las aglomeraciones urbanas y mejoraremos los existentes. Llevaremos a cabo la creación de una Red Estatal de Calidad del Aire.
+- Para incorporar tecnologías más limpias a los sistemas productivos industriales, se velará por la promoción de las ayudas por la reconversión y adecuación de las empresas existentes, así como para nuevas empresas o actividades que incorporen tecnologías no contaminantes o más eficientes en el uso de recursos naturales básicos como por ejemplo agua, energía o materias primas.
+- Incremento de los gastos en I+D+i vinculado a la lucha contra la contaminación y la producción de residuos, la promoción de la reutilización, el fomento del reciclaje, el mantenimiento en buen estado de los recursos hídricos, las energías renovables de menor impacto, la edificación sostenible y la movilidad no contaminante.
+- Impulso de la contabilidad ambiental y las inversiones verdes en las empresas, incrementando las ventajas fiscales y de contratación con la Administración por aquellas empresas comprometidas con el control y reducción de la contaminación.
+- Establecimiento de incentivos fiscales para las empresas que realizan la evaluación ambiental continúa (con indicadores de mejora) para aumentar la competitividad de las empresas que mejoran los estándares ambientales mínimos.
 
+##### Prevención de daños ambientales y protección de los recursos naturales
+La estrategia y las medidas dirigidas a la prevención de daños y la protección de los   recursos naturales está íntimamente vinculada con la preservación de las cubiertas de vegetación, la conectividad de los hábitats naturales y biodiversidad, por su valor intrínseco y por su contribución al bienestar humano.
+
+- Modificación de la Ley de Evaluación Ambiental para que sean vinculantes los informes que emite la Generalitat en la fase de consultas de los procedimientos de evaluación ambiental de planes, programas y proyectos de competencia estatal que se desarrollan en el territorio valenciano y se contemplan procesos de mediación para la resolución de situaciones de discrepancia entre el gobierno español y la Generalitat.
+- Incremento del grado de colaboración del Seprona y de las Fiscalías ambientales.
+- Potenciación de los canales para facilitar la efectiva coordinación del Ministerio Fiscal con la Generalitat.
+- Establecimiento de incentivos fiscales para las empresas que realicen la evaluación ambiental continúa (con indicadores de mejora) para aumentar la competitividad de las empresas que mejoran los estándares ambientales mínimos.
+- Para evitar el dumping ambiental en el marco del Estado español, estableceremos un fondo compensatorio a favor de aquellas comunidades autónomas con programas más ambiciosos en materia de protección ambiental y de la naturaleza.
+- Creación de un nuevo Índice de Disponibilidad de Recursos Ambientales, como indicador de referencia que se añada a los indicadores tradicionales de la contabilidad macroeconómica (PIB, IPC, renta per cápita), tanto al ámbito del Sido cómo en al de las diferentes comunidades autónomas. Este indicador incorporará series de datos estables y homogéneos sobre el estado y la evolución de los parámetros más destacados de calidad ambiental, niveles de contaminación, disponibilidad y calidad de recursos ambientales.
+- Impulso de la revisión de leyes básicas de Montes, de Costas y de Evaluación Ambiental y la modificación de los apartados que no garanticen la protección adecuada de la Biodiversidad y el Medio natural.
+- Mejora y extensión de los sistemas de detección de fuegos mediante infrarrojos y otras modalidades de detección remota e incrementaremos las dotaciones aéreas de lucha contraincendios, en colaboración con las comunidades autónomas.
+- Desarrollo ayudas específicas para la mejora de los ecosistemas forestales, para conseguir bosques más pluriestratificados y maduros, con mayor biodiversidad y más resilientes al fuego.
+- Implementación del Fondo Forestal Estatal, con el objeto de incentivar las externalidades productivas de los terrenos forestales ordenados, como sistema de pago por los servicios ambientales o beneficios ecosociales que procuran estas áreas al conjunto de la sociedad. Un fondo que reforzará las capacidades de gestión sostenible y de conservación de los bosques de las comunidades autónomas, los municipios y los propietarios forestales y que creará ocupación al mundo rural, ayudando en gran medida a evitar el despoblamiento.
+- Impulso con criterios científicos interdisciplinarios, las instituciones de investigación dedicadas a la gestión forestal sostenible y a la restauración de hábitats naturales e incrementaremos la colaboración entre las Universidades, los centros públicos de investigación y las Administraciones.
+- Incremento de las inversiones y los equipos de investigación dedicados a la prevención y lucha contra la desertificación, un tema prioritario ante los efectos del cambio climático.
+
+##### Protección de la costa y del medio marino
+- Efectuaremos la delimitación y apeo de las zonas de dominio público marítimo-terrestre, revisando de oficio las delimitaciones dudosas o contradictorias.
+- Incrementaremos la red de medición de la contaminación acuática y, en colaboración con comunidades autónomas y ayuntamientos.
+- Aplicaremos un mayor rigor en las concesiones administrativas para utilización del espacio marítimo-terrestre, que solo tendrán que hacerse en casos excepcionales de interés general.
+- Limitaremos la construcción de infraestructuras que modifican las corrientes marinas que causan un impacto negativo sobre las costas.
+- Teniendo especial consideración respecto a los efectos del cambio climático y el aumento del nivel del mar, desarrollaremos una Planificación Estratégica Marina para el conjunto del Sido que fije las bases de las diferentes actividades humanas en el medio marino, primando la integración de actividades sostenibles y la protección de los ecosistemas.
+- Fomentaremos la divulgación de las áreas marinas protegidas y sus valores naturales en la sociedad, y las incluiremos en las estrategias de promoción turística y de educación ambiental. Así como favoreceremos el incremento del impacto positivo de estas áreas en las poblaciones costeras de influencia.
+- Trabajaremos con los diferentes agentes implicados para reducir los vertidos al mar.
+- Estableceremos la prohibición para nuevos sondeos, prospecciones y explotaciones de hidrocarburos.
+
+##### Biodiversidad y Territorio
+- Estableceremos medidas cautelares de protección de las zonas LIC (Lugares de Interés Comunitario) y ZEPA (Zonas de especial importancia para las aves) de la Red Natura 2000, mientras no cuenten con la correspondiente norma de gestión y hayan sido declaradas ZEC (zonas de especial conservación) por las comunidades autónomas.
+- Fomentaremos la delimitación de las vías ganaderas y suspenderemos cautelarmente cualquier proceso de modificación de anchura o trazado que afecte las vías que todavía no ha sido delimitadas.
+- Delimitaremos y acotaremos las vías ganaderas todavía pendientes y suspenderemos cautelarmente cualquier proceso de modificación de anchura o trazado que afecte a vías todavía no delimitadas.
+-Desarrollaremos un régimen de ayudas destinadas al turismo rural o de naturaleza, la rehabilitación, la restauración y la mejora paisajística y a otras actividades tradicionales compatibles con la conservación de los ecosistemas rurales y forestales.
+- Promoveremos ayudas dirigidas a municipios del interior de menos de 5.000 habitantes para la recuperación del patrimonio histórico, cultural y natural con el objetivo de luchar con el despoblamiento rural y atractivo turístico
+- Diseñaremos e implementaremos un plan de rescate ecológico que incluya el conjunto de zonas degradadas con el objetivo de aumentar la conservación de especies y hábitats y la restauración ambiental.
+- Promoveremos el desarrollo de la estrategia estatal de la infraestructura verde y de la conectividad y restauración ecológica, incluida en la modificación de la ley 33/2015 que modifica la ley 42/2007 de patrimonio natural y de la biodiversidad.
+- Fomentaremos la lucha contra la entrada de especies exóticas invasoras e implementaremos medios para mejorar la eficacia en la erradicación y control.
+
+##### Educación ambiental, formación y participación
+- Desarrollaremos mayores contenidos y recursos de educación ambiental en el currículum escolar e impulsaremos la formación del profesorado.
+- Impulsaremos campañas de comunicación que se enmarcan en los objetivos de la economía circular y baja en carbono, con mensajes directos que ayudan la sociedad a cambiar hacia hábitos más sostenibles.
+- Dirigiremos campañas a los jóvenes para conectar con los recientes movimientos de reivindicación ambiental y de lucha contra el cambio climático, mediante el desarrollo de recursos específicos y especialmente de las redes sociales.
+- Desarrollaremos programas de formación y jornadas de difusión de las tecnologías limpias, los eco-hashtags, la agricultura y ganadería ecológica y otras certificaciones ambientales que permiten un consumo más consciente.
+- Fomentaremos los foros de debate y los órganos de participación ambiental, de forma que se consiga mayor implicación de la sociedad en el proceso de transición ecológica.
+- Incentivaremos los programas de voluntariado ambiental.
+
+#### 3. Aigua
+El agua es esencial para la vida, es frágil frente la contaminación y el deterioro de los ecosistemas y es un recurso renovable pero no infinito. Es un bien común y público, un patrimonio ecosocial que tiene que ser gestionado, conservado y protegido para que nuestros hijos e hijas puedan disfrutarlo y satisfacer sus necesidades. El modelo económico dominante de producción y consumo ha intensificado el uso del agua dulce y su contaminación, así como las emisiones de gases de efecto invernadero que ha están provocando un cambio climático a escala planetaria.
+
+El cambio climático se suma a las presiones previas sobre los ríos y acuíferos de las elevadas demandas de agua para la agricultura, la producción de electricidad, los usos urbanos, industriales y turísticos preexistentes. Sus efectos ya son manifiestos en la actualidad en la península ibérica: incremento de las temperaturas, reducción de las precipitaciones, mayor variabilidad de las lluvias de los periodos nivales, periodos de sequía más prolongados, episodios más frecuentes de lluvias torrenciales, y reducción de la disponibilidad de recursos hídricos naturales.
+
+Hay que abordar la política y la gestión del agua desde una perspectiva de sostenibilidad, equidad, transparencia y participación social para adaptar nuestros usos del agua a los efectos del cambio climático y recuperar la salud de los ríos y acuíferos. Todo esto con el objetivo de hacer una transición hidrológica y climática justa de nuestro modelo socio-económico y reducir la vulnerabilidad ambiental, social y económica de las personas y los territorios.
+
+Para abordar estos retos, proponemos un abanico de medidas agrupadas 7 ejes de actuación:
+
+- Adaptar el marco normativo estatal para una gestión sostenible, eficaz y justa del agua
+- Control público, transparencia, acceso a la información y participación ciudadana efectiva en la gestión del agua
+- Coordinación y colaboración eficaz entre administraciones
+- Planificar los usos del agua teniendo en cuenta los derechos humanos esenciales y el cambio climático
+- Proteger y recuperar del buen estado de las ríos, zonas húmedas y acuíferos
+- Adaptar de los usos del agua al cambio climático
+- Adaptar la disponibilidad de agua al cambio climático
+
+##### Adaptar el marco normativo estatal para una gestión sostenible, eficaz y justa del agua
+- Elaborar una ley de transición hidrológica, basada en la aplicación de la Directiva Marco del agua (DMA) y sus directivas europeas, para recuperar y conservar el buen estado de los ríos, acuíferos, lagos, estuarios y aguas costeras, garantizar el uso sostenible del agua en cada cuenca, garantizar la aplicación de medidas de mitigación y adaptación a los efectos del cambio climático, y reconocer y garantizar el ejercicio del derecho humano esencial de acceso al agua potable y el saneamiento a todas las personas.
+
+- Desarrollar un marco normativo estatal que fortalezca las capacidades de los ayuntamientos para llevar a cabo una gestión pública, sostenible, eficaz, equitativa, eficiente, sostenible, transparente y participativa de los servicios públicos esenciales de abastecimiento de agua potable y saneamiento. Regular la duración máxima de los contratos de concesión y el destino del canon concesional para que revierta en inversiones en el ciclo urbano del agua y se garantice el control efectivo público de los servicios y la posibilidad de reversión de la concesión sin costes abusivos.
+
+- Adaptar la normativa sobre reutilización de aguas regeneradas para impulsar su utilización sostenible y asequible a los varios usos –en particular, el agrícola.
+
+- Mejorar la regulación de los contratos de cesión y los centros de intercambio de derechos de uso de agua para garantizar que la aplicación de estos instrumentos no genere especulación y mercantilización de los derechos concesionales de uso privativo de agua,  empeoramiento del estado de las masas de agua cedentes o socava la facultad de la administración para reasignar recursos entre usos; que cuenta con un control administrativo y público efectivo y son mecanismos transparentes de acceso público a toda la información sobre su aplicación. Circunscribir la aplicación de estas medidas a la gestión de sequías y garantizar la aplicación estricta del artículo 69.1 de la ley de aguas.
+
+- Reformar la composición de los Consejos del agua de las demarcaciones hidrográficas, incorporando a los sectores marginados en dichos órganos de participación: actividades recreativas, de turismo fluvial, usos no económicos de los ríos y colectivos sociales que promueven el uso sostenible del agua y la defensa de los ríos y los acuíferos.
+
+##### Control público, transparencia, acceso a la información y participación ciudadana efectiva en la gestión del agua
+- Promover la educación ambiental y campañas de información, comunicación y sensibilización de la población, así como de sectores concretos, en relación con cuestiones como el carácter de bien público, patrimonio ecosocial y la multiplicidad de dimensiones del agua, la importancia de la conservación de los ecosistemas fluviales y los acuíferos para el bienestar humano presente y futuro, las buenas prácticas en el uso del agua y el territorio para hacer frente a los efectos previstos del cambio climático sobre el ciclo hidrológico, la prevención de la contaminación, el derecho humano de acceso al agua potable y el saneamiento, o la importancia de la participación pública en la gestión y planificación del agua.
+- Establecer mecanismos de transparencia y rendición de cuentas para todos los gestores y usuarios del agua (administraciones públicas, comunidades de regantes, empresas hidroeléctricas, empresas suministradoras de agua, etc.) que garanticen el acceso público y el control externo efectivo de la gestión del agua y de los varios usos del agua a través del suministro activo y continuo de información sobre los volúmenes utilizados, procedencia y destino del agua, costes y precios, calidad de las aguas, efectos ambientales, estado de las masas de agua, etc.
+- Fomentar y garantizar el acceso efectivo a la información así como la participación pública real, efectiva y transparente en la planificación y en la gestión del agua, para evitar la opacidad y la arbitrariedad.
+- Garantizar que el registro público de aguas y el catálogo de aguas privadas esté actualizado y consolidado, en particular, antes de llevar a cabo centros de intercambio de derechos de uso de agua o contratos de cesión de derechos de uso de agua entre usuarios. Garantizar el acceso público a los registros de derechos concesionales y de derechos privados de agua y volúmenes efectivamente utilizados por los usuarios, a través de las webs oficiales de las confederaciones hidrográficas.
+- Realizar un control efectivo de todos los usos del agua, en particular, de las extracciones de aguas subterráneas, así como de los perímetros de regadío para evitar usos ilegales.
+- Llevar a cabo controles periódicos y permanentes necesarios para que, en los casos que el uso efectivo del agua sea inferior a los derechos de uso de agua reconocidos, proceder a la revisión concesional para adaptar los derechos de uso de agua otorgados a los usos efectivos y siempre con una perspectiva de uso sostenible y ambiental a largo plazo de las masas de agua, incluyendo los efectos del cambio climático.
+- Abordar un proceso de diálogo y consenso social a escala estatal para la consecución de un acuerdo estatal por la gestión sostenible del agua ante el cambio climático tomando como referencia la Directiva Marco del agua y propuestas como las del Acuerdo social por el agua, en defensa de nuestros ríos y por el agua pública.
+
+##### Coordinación y colaboración eficaz entre administraciones
+- Crear procedimientos operativos para garantizar la efectividad de la coordinación y cooperación entre las autoridades estatales, autonómicas y municipales en materia de planificación y gestión del agua, dentro de cada demarcación hidrográfica, con el objetivo de garantizar la coherencia y sostenibilidad a largo plazo de los usos del agua, del ciclo hidrológico y los ecosistemas dependientes.
+- En los casos de reutilización de aguas regeneradas, mejorar la coordinación de las Confederaciones Hidrográficas con las autoridades competentes autonómicas y agilizar la concesión de los caudales regenerados, disminuyendo las presiones sobre las masas de agua.
+- A la hora de emitir informes relativos a la disponibilidad de agua requeridos por los instrumentos de planificación urbanística, las Confederaciones Hidrográficas tendrán en cuenta los efectos del cambio climático sobre el territorio objeto de planificación a la hora calcular la disponibilidad de agua.
+
+##### Planificar los usos del agua teniendo en cuenta los derechos humanos esenciales y el cambio climático
+- Garantizar que el agua de mejor calidad disponible en cada cuenca hidrográfica se dedique de manera prioritaria a la producción de agua potable, por delante del resto de usos. Proteger estas masas de agua y prevenir su contaminación, así como garantizar fuentes de suministro alternativas de agua de alta calidad para la producción de agua potable en casos de escasez de agua.
+- Incorporar el mejor conocimiento disponible relativo a los efectos previstos del cambio climático sobre la evolución de las temperaturas y el régimen de precipitaciones e hidrológico (patrones de precipitaciones por subcuencas, disponibilidad de recursos hídricos superficiales y subterráneos) a escala de cuenca fluvial en el ciclo de planificación 2021-2027 y en la elaboración de los planes de sequía de las demarcaciones hidrográficas.
+- Llevar a cabo los estudios científicos necesarios para determinar los caudales ecológicos (ríos), los requerimientos ambientales (lagos y zonas húmedas) y las restricciones ambientales (masas de agua subterránea) y establecer unos regímenes de caudales ecológicos efectivos en los planes hidrológicos de cuenca para conseguir el buen estado de las masas de agua y el uso sostenible del agua.
+- Revisar la viabilidad y sostenibilidad del catálogo de obras previstas en los planes hidrológicos de cuenca teniendo en cuenta el mejor conocimiento disponible sobre los efectos del cambio climático relativo a la disponibilidad y gestión de los recursos hídricos en cada cuenca hidrográfica.
+- Poner en marcha un plan de inversiones para llevar a cabo aquellas obras y actuaciones de la planificación hidrológica que sean viables en un contexto de cambio climático para paliar la reducción de recursos hídricos y prevenir los efectos negativos del cambio climático.
+- Incorporar los planes especiales de alerta y eventual sequía dentro del proceso de planificación hidrológica y someterlos, como mínimo, al mismo nivel de exigencia en cuanto a la participación pública exigida para la planificación hidrológica.
+- Evaluar la efectividad de las actuaciones realizadas del Plan de Choque de Modernización de Regadíos bajo criterios de ahorro de agua, de eficiencia en el uso del agua y de repercusión ambiental, social y de viabilidad económica, teniendo en cuenta el mejor conocimiento disponible sobre los efectos del cambio climático sobre el ciclo hidrológico.
+- Revisar el Pla Estatal de Regadíos teniendo en cuenta  el mejor conocimiento disponible sobre los efectos previstos del cambio climático sobre la evolución de las temperaturas y el régimen de precipitaciones e hidrológico (patrones de precipitaciones e infiltración por subcuencas, disponibilidad de recursos hídricos superficiales y subterráneos) para prevenir la realización de inversiones –y la creación de expectativas- que derivan en la sobreexplotación de las masas de agua superficial y subterráneas así como las pérdidas económicas futuras derivadas de la inviabilidad de la propia inversión.
+- Poner en marcha un plan plurianual de investigación y seguimiento de las aguas subterráneas para lograr un conocimiento detallado de los acuíferos y su funcionamiento, e identificar las posibilidades y las condiciones de utilización sostenible a largo plazo de aguas subterráneas. Incorporar este conocimiento y las actuaciones que se desprenden en la planificación y gestión del agua para garantizar el uso sostenible de las aguas subterráneas a largo plazo.
+- Promover el desarrollo de planes de gestión de la demanda de los usos urbanos, incluyendo la formulación de planes municipales de gestión del agua en periodos de sequía, para garantizar el derecho humano esencial de acceso al agua potable y el saneamiento, fomentar el ahorro y uso eficiente del agua, conservar la calidad del agua, favorecer la reutilización de las aguas regeneradas en el ámbito urbano y la adaptación de los servicios urbanos del ciclo urbano del agua al cambio climático.
+- En relación con la gestión de los riesgos de inundación en las zonas urbanas, promover la elaboración de planes municipales de prevención y gestión de inundaciones, así como la adopción de medidas de prevención y gestión de inundaciones basadas en la naturaleza, los sistemas urbanos de drenaje sostenible y la ordenación de los usos del territorio que evito las construcciones en zonas inundables.
+
+##### Proteger y recuperar del buen estado de las ríos, zonas húmedas y acuíferos
+- Prevenir y corregir las fuentes de contaminación puntual y difusa, tanto en las aguas superficiales como subterráneas.
+- Incrementar los recursos humanos, materiales y presupuestarios de las confederaciones hidrográficas para mejorar la caracterización y el seguimiento del estado de las masas de agua, de las presiones y de los impactos sobre las masas de agua, así como para llevar a cabo actuaciones de recuperación del buen estado.
+- Realizar actuaciones de restauración morfológica y ecológica de las camas y bosques de ribera para mejorar la estructura y funcionalidad de los ecosistemas acuáticos. Identificar y eliminar los azudes y prisas en desuso de los ríos, y realizar la permeabilización de los azudes y prisas en uso para garantizar la conectividad longitudinal de los ríos.
+- Prevenir la introducción, así como desarrollar planes de control y eliminación de especies de flora y fauna invasoras de los ecosistemas acuáticos.
+- Proceder a la tramitación de la caducidad de concesiones cuando haya finalizado el periodo de concesión o no se esté produciendo el aprovechamiento autorizado, de acuerdo con los requisitos de la legislación vigente.
+- Desde las Confederaciones Hidrográficas, elaborar planes de recuperación ecológica, socio-económica y patrimonial de las principales cuencas fluviales que atraviesan la Comunidad Valenciana, empezando por las cuencas del Júcar, Vinalopó, Segura, Turia, Palancia, Mijares y Serpis, en colaboración con las autoridades autonómicas y municipales, contando con la participación de la población y de todas las partes interesadas.
+- Trabajaremos en la planificación de los usos, gestión y conservación del parque natural de la Albufera y reivindicaremos al Ministerio de Medio Ambiente que garantice agua suficiente del Júcar para la Albufera y acabe el colector oeste e instalaciones asociadas, obras paralizadas por la corrupción en Acuamed, evitando así que llegue agua contaminada al lago y favorezca la reutilización de agua en la agricultura.
+- Finalizar y mantener actualizado el inventario de pozos, procediendo al cierre de los pozos no autorizados, y realizar un seguimiento y control de las extracciones de aguas subterráneas en todas las masas de agua subterránea; prioritariamente, en aquellas en mal estado cuantitativo.
+- En las masas de agua en mal estado cuantitativo o en riesgo de estarlo, dejar de otorgar derechos de uso de aguas subterráneas y establecer planes de explotación vinculantes que reduzcan las extracciones para recuperar gradualmente el buen estado de la masa de agua, que contemplan su sustitución por recursos de otro origen o la recuperación de los derechos de uso de agua que superan los recursos disponibles, garantizando en todo caso, la sostenibilidad de las alternativas adoptadas.
+- Elaborar las normas de explotación de los acuíferos compartidos por dos o más demarcaciones (como es el caso del acuífero Villena-Jumilla o Vega Media del Segura, por ejemplo) con el objetivo de garantizar la disponibilidad y la calidad del agua y su uso sostenible y equitativo a largo plazo.
+- Recuperar el espacio fluvial, mediante medidas de gestión y ordenación del territorio y el uso de infraestructuras verdes, para mejorar la protección de la población ante los riesgos de inundación.
+- Promover proyectos de investigación y aplicación de recarga artificial de acuíferos.
+- Prohibir la aplicación de técnicas de fractura hidráulica (fracking) o similares, ya sea exploratorias o de explotación, que puedan generar fenómenos de contaminación de los recursos hídricos subterráneos, el deterioro de los ecosistemas acuáticos continentales o marinos, o el incremento de los riesgos geológicos.
+
+##### Adapatar los usos del agua al cambio climático
+- Realizar auditorías de los perímetros de regadío en todas las zonas regables para detectar transformaciones a regadío que no cuentan con título jurídico o no se hayan realizado de acuerdo con la legalidad, y proceder a la correspondiente reversión. De manera prioritaria, en los casos en que este uso dependa de masas de agua en mal estado o en riesgo de estarlo o de recursos externos o afecte a espacios naturales protegidos.
+- Evitar la extensión de la superficie de regadío en aquellas zonas que se encuentren en situación de estrés hídrico o en riesgo de estarlo teniendo en cuenta las provisiones de los efectos del cambio climático.
+- Crear un fondo económico plurianual para la adaptación de la agricultura y la ganadería frente a los efectos del cambio climático sobre los recursos hídricos con el objetivo de reducir la vulnerabilidad socioeconómica y ambiental de este sector y garantizar su viabilidad al largo plazo. Este fondo servirá para realizar diagnósticos de situación y diseñar y ejecutar planes de adaptación de la agricultura y la ganadería a escala comarcal ante los efectos del cambio climático que contemplen la conservación de los recursos hídricos (reducción de contaminación, optimización del uso del agua, maximización del servicios ambientales vinculados al agua) y benefician la conservación de la estructura del suelo fértil y su capacidad de retención de agua, la reconversión varietal y hacia cultivos mejor adaptados al cambio climático, y la mejora de la posición de los productores en la cadena de valor de la cadena alimentaria para garantizar la rentabilidad y la viabilidad de la actividad agraria y el desarrollo rural.
+- Adoptar medidas para prevenir la contaminación difusa de la agricultura tales como _buffer bands_ en las masas de agua superficiales y perímetros de protección en las masas de agua subterránea e implementar medidas desde la administración, con la colaboración activa de los sindicatos agrarios, comunidades de regantes, los centros de investigación y universidades, y los servicios de extensión agraria, para facilitar información, sensibilizar y dar formación continua a los y las agricultores para garantizar la gestión correcta de
+- Adoptar mesures per prevenir la contaminació difusa provinent de l'agricultura tals com _buffer bands_ en les masses d'aigua superficials i perímetres de protecció en les masses d'aigua subterrània i implementar mesures des de l'administració, amb la col·laboració activa dels sindicats agraris, comunitats de regants, els centres d'investigació i universitats, i els serveis d'extensió agrària, per facilitar informació, sensibilitzar i donar formació continua als llauradors i llauradores per garantir la gestió correcta de abonos y productos fitosanitarios y la conservación de los recursos hídricos.
+- Pasar de los proyectos o programas de modernización de regadíos a proyectos o programas de mejora de la viabilidad y adaptación de los sistemas de riego ante los efectos del cambio climático. Hay que superar la perspectiva actual de mera transformación del sistema de riego por gravedad en un sistema de riego por de goteo. Los proyectos de mejora y adaptación de los sistemas de riego tienen que incluir el análisis de las inversiones, las alternativas técnicas –incluyendo auditorías hídricas y energéticas-, las medidas de formación y de gestión adaptadas al contexto geográfico, climático, ecológico, socioeconómico y patrimonial donde tengan que implementarse, así como medidas de seguimiento, para evitar efectos perversos sobre las masas de agua, la biodiversidad y la actividad agraria, que, incluso, puedan posar en peligro su propia continuidad.
+- Realizar un seguimiento y evaluar ex-ante y ex-puesto los proyectos de riego localizado a escala de zona regable y de su interrelación con el resto de la cuenca. La implementación de cambios en los sistemas de riego hacia sistemas de ahorro de agua tiene que estar acompañados de la revisión de los volúmenes de agua concedidos para hacer efectivo el ahorro de agua.
+- Articular mecanismos de gestión en las comunidades de regantes para evitar que prácticas como la fertirrigación centralizada impida el desarrollo de proyectos de agricultura ecológica.
+- En los sistemas de regadío tradicional, promover el mantenimiento y renaturalización de los sistemas de riego por gravedad –que actúan como sistemas de distribución y drenaje de agua- que potencie la biodiversidad y las funciones ecológicas de estos espacios agrarios de alto valor ecológico, así como la puesta en valor del conocimiento agrario y el patrimonio hidráulico.
+- Poner en marcha medidas de fomento y protección de la agricultura de secano, propiciando iniciativas de investigación, desarrollo e innovación vinculada a los cultivos de secano, que favorezcan su continuidad y la competitividad y rentabilidad de los productos agrarios.
+- Reducir la vulnerabilidad de los recursos necesarios para el mantenimiento de los regadíos tradicionales en la Vega Baja del Segura, evitando la traslación de los desequilibrios del sistema Tajo-Segura al sistema Segura. Llevar a cabo las medidas necesarias para evitar y eliminar la contaminación por plásticos y otros residuos y garantizar una buena calidad del agua en la cuenca baja del Segura, así como el mantenimiento de las funciones ecológicas, además de agrícolas, de los sistemas de regadío tradicional.
+- Agotar todas las medidas de gestión de la demanda de agua antes de proponer y/o poner en marcha nuevas obras hidráulicas que supongan un deterioro adicional del ciclo hidrológico y de las masas de agua que formen parte.
+- Modificar la actual repercusión de los costes de los servicios del agua para incentivar el uso sostenible a largo plazo de los recursos hídricos y el buen estado de las masas de agua y tenga en cuenta el principio de equidad.
+
+##### Adaptar la disponibilidad de agua al cambio climático
+
+- Realizar un análisis de las posibilidades de desalinizar y reutilización de aguas regeneradas para usos agrarios y usos municipales (limpieza viaria, mantenimiento de parques y jardines) y potenciar el uso de estos recursos hídricos no convencionales de manera prioritaria, así como poner en marcha al nivel óptimo de capacidad las plantas desaladoras existentes, incorporando fuentes de energía renovables, para satisfacer demandas urbanas en zonas costeras, de forma que se reduzcan los costes medianos de disposición de agua, liberando recursos para usos agrarios, una vez garantizados los caudales ecológicos y las reservas ambientales.
+- Elaborar, en colaboración con las comunidades autónomas, un plan estatal de depuración de aguas residuales y reutilización de aguas regeneradas y dotarlo de financiación suficiente a través de inversiones estatales territorializadas.
+- Incorporar todos los recursos no convencionales existentes en cada cuenca en la planificación hidrológica correspondiente, de manera consistente, para reducir las presiones en las masas de agua.
+- Establecer mecanismos necesarios para garantizar la autonomía financiera de los municipios de la provincia de Castelló y València afectados por la construcción de infraestructuras de desalación sin demanda e incorporar estas infraestructuras en la planificación hidrológica como medida para sustituir extracciones superficiales y subterráneas y recuperar el buen estado de masas de agua.
+- Llevar a cabo las inversiones y actuaciones a cargo de la administración general del estado necesarias para la plena operatividad del trasvase Júcar-Vinalopó con presa de aguas en el Azud de la Marquesa.
+- Establecer y aplicar las normas de explotación del trasvase Júcar Vinalopó de acuerdo con las condiciones de financiación europeas y con un esquema de costes asumible por los beneficiarios.
+- Aplicar el plan de ordenación de extracciones y explotación de los acuíferos sobreexplotados del Vinalopó para que los recursos trasvasados sustituyan las extracciones para usos agrarios, se impida el incremento de las extracciones para otros usos y se revierta la sobreexplotación de las aguas subterráneas.
+- Articular el uso conjunto del trasvase Tajo-Segura y de los recursos hídricos no convencionales que complementan los recursos trasvasados en cada momento de forma que se puedan garantizar las demandas agrarias y urbanas del sur alicantino con agua de calidad adecuada a cada uso y con un coste asumible por parte de los usuarios. Garantizar que las aguas del trasvase no se utilizan fuera de los perímetros de riego legalmente establecidos.
+-  Analizar y poner en marcha, en colaboración con los gobiernos autonómicos, alternativas a medio plazo para los territorios dependientes del trasvase Tajo-Segura, articulando el uso sostenible de recursos hídricos convencionales y de recursos hídricos no convencionales (desalinización, reutilización de aguas regeneradas y desalación de agua marina), obtenidos usando energías renovables, de forma que se puedan garantizar las demandas con agua de calidad adecuada a cada uso con un coste asumible por parte de los usuarios y minimizando la huella de carbono.
+-  Crear ayudas directas a pequeños productores agrarios (agricultura y ganadería familiar) para paliar los costes sociales y económicos de la ausencia continuada de precipitaciones en las épocas de sequía, en forma de compensación directa de rentas, sin perjuicio de la normativa europea, en lugar de utilizar la rebaja o exención general de los precios del agua.
+- Estudiar detalladamente el funcionamiento de los acuíferos para garantizar el uso sostenible de los recursos subterráneos disponibles – es decir, previniendo el riesgo de sobreexplotación y deterioro de la su calidad-, desarrollando proyectos de investigación y explotación públicas a largo plazo, con control público efectivo, especialmente en el caso de las masas, de agua subterránea con drenaje al mar, de manera que se pueda incrementar la oferta de agua sin poner en peligro el buen estado de las masas de agua subterráneas y reducir las presiones sobre las masas de agua superficial, en particular, si no están en buen estado.
+
+#### 4. Bienestar animal
+Los animales tienen que recibir un trato digno que no nos haga avergonzarnos de nuestra propia condición.
+
+- Elaboración de una ley estatal de Bienestar Animal:
+    - Reconocimiento de los animales como seres con la capacidad de sentir para que dejen de estar calificados como objetos.
+    - Incluir la inhabilitación especial para la convivencia con animales en la pena prevista para el delito de maltrato animal.
+    - Sacrificio cero en los centros de recogida de animales abandonados, y desarrollo de medidas para garantizar la efectividad en relación con la identificación, esterilización, adopción de perros y control de las gateras.
+
+- Educación como política preventiva:
+    - Inclusión en el currículum escolar obligatorio de la empatía hacia los animales.
+    - Realizar campañas públicas de sensibilización, respeto y convivencia entre los seres humanos y animales que evitan cualquier tipo de violencia o maltrato.
+
+- Eliminació del reconocimiento legal de los espectáculos taurinos como patrimonio cultural común. Modificación de la ley 18/2013 de 12 noviembre, para la regulación de la Tauromaquia como a patrimonio cultural.
+- Subvención cero para los espectáculos con animales que no aseguren su bienestar.
+- Eliminar cualquier excepción sobre sacrificio como el aturdimiento de animales.
+- Revisar y regular todos los espectáculos que implican confinamiento de los animales y/o maltrato.
+- Revisar y regular que los zoológicos y acuarios desde una perspectiva de bienestar animal y no exclusivamente como negocios de entretenimiento.
+- Reducir el IVA de los servicios veterinarios.
+- Establecer la obligatoriedad de la adopción de estándares de bienestar animal como por ejemplo la densidad adecuada para cada especie en peces de piscifactoría, y la reducción y mejora del tiempo de transporte de animales vivos.
+- Impulsar la mejora en el etiquetado y contenido de la información sobre los productos de origen animal.
+- Exigir una mejora de las condiciones de vida de los animales de granja y laboratorio; así como en la inspección y evaluación de las licencias de apertura de macrogranjas.
+- Promoveremos métodos alternativos a la experimentación con animales y fomentaremos las granjas ecológicas de ganadería extensiva y sostenible.
+- Apostaremos por el fomento de la inversión económica y científica para el desarrollo de alternativas y métodos para la reducción y adaptación del uso de la experimentación con animales.
+- Impulsaremos la elaboración de un estudio de viabilidad sobre la posibilidad de prohibir la utilización de animales salvajes en circos en una legislación de ámbito estatal en base a seguridad, sanidad y protección de los animales.
+- Promoveremos el establecimiento de un grupo de trabajo interministerial con el objetivo de establecer un listado positivo de especies objeto de comercio y tenencia como animales de compañía en coordinación con el resto de administraciones públicas implicadas y de forma consensuada entre todas las partes interesadas.

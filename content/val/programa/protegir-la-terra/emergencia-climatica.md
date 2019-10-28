@@ -2,7 +2,7 @@
 title: 'Protegim la terra / Emergència Climàtica'
 ---
 
-### 1. Emergència Climàtica
+### Emergència Climàtica
 
 L’emergència climàtica és el repte més gran al qual haurem de fer front com a societat en les pròximes dècades. És urgent la necessitat de reduir les emissions de gasos d’efecte hivernacle per evitar escenaris de canvi climàtic catastròfic. Hem d’actuar en una doble via: anar cap a una producció i consum més responsable amb el medi ambient i desenvolupar estratègies de benestar encarades a reduir el consum de recursos naturals i d’energia, conservar i recuperar els espais forestals, fluvials i agraris i la seua biodiversitat, així com a la distribució justa dels costos i beneficis d’aquesta transició ecològica necessària i inajornable.
 En aquest sentit és clau l'alineament d’energia, clima i polítiques ambientals amb l'objectiu d'accelerar la transició a una economia sostenible, circular i competitiva.
@@ -33,11 +33,12 @@ En el primer any de legislatura:
 - Transposició de les noves directives europees, com ara la Directiva 2018/844 d’eficiència energètica dels edificis, la Directiva 2018/2002 d’eficiència energètica i la Directiva 2018/2001 d’energies renovables, per ser tres instruments de fort contingut per a l’impuls econòmic i de lluita contra el canvi climàtic.
 - Adopció immediata de l’element clau de la governança energètica, com ara el Reglament (UE) 2018/1999 del Parlament Europeu i del Consell de l’11 de desembre de 2018 sobre la governança de la Unió de l’Energia i de l’Acció pel Clima.
 - Aprovació del Marc Estratègic d’Energia i Clima: Llei de Canvi Climàtic i Transició Energètica, Pla Integrat d’Energia i Clima 2021-2030, Estratègia de Transició Justa, i tots els instruments de planejament cridats a moure l’economia i crear ocupació en matèria de:
-  - Pla d’energies renovables integrant l’autoconsum
-  - Pla de transformació del sector de l’automoció cap a la mobilitat elèctrica
-  - Pla estratègic de rehabilitació energètica d’edificis, habitatges i barris
-  - Pla d’eficiència energètica per a tots els sectors de l’economia i la producció
-  - Pla d’adaptació al canvi climàtic i augment de la resiliència
+    - Pla d’energies renovables integrant l’autoconsum
+    - Pla de transformació del sector de l’automoció cap a la mobilitat elèctrica
+    - Pla estratègic de rehabilitació energètica d’edificis, habitatges i barris
+    - Pla d’eficiència energètica per a tots els sectors de l’economia i la producció
+    - Pla d’adaptació al canvi climàtic i augment de la resiliència
+
 - Una Estratègia energètica per a la transició justa
 
 En termes generals per als sectors energètics bruts i contaminants que hauran de ser tancats, el cessament de l’activitat ha d’estar acompanyada de plans de transició justa, reactivació econòmica i industrial de manera que les persones treballadores en els esmentats sectors no patisquen cap conseqüència negativa en les seues vides i puguen reincorporar-se a altres sectors d’activitat.

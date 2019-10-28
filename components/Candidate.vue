@@ -6,13 +6,13 @@
       </div>
       <div class="candidate-info">
         <h2 class="candidate-name">{{ candidate.name }}</h2>
-        <div class="candidate-subtitle">{{ candidate.subtitle }}</div>
+        <div class="candidate-subtitle">{{ candidate[`subtitle_${$i18n.locale}`] }}</div>
       </div>
       <div class="candidate-background"></div>
     </nuxt-link >
     <transition name="candidate">
-      <div class="candidate-description" v-if="isOpen">
-        <p>{{ candidate.bio }}</p>
+      <div :class="['candidate-description', isProvincia ? 'candidate-is-provincia' : '']" v-if="isOpen">
+        <div v-html="candidate[`bio_${$i18n.locale}`]"></div>
         <ul class="candidate-social">
           <li><a :href="candidate.facebook"><fa :icon="['fab', 'facebook-square']" /><span class="sr-only">Facebook</span></a></li>
           <li><a :href="candidate.twitter"><fa :icon="['fab', 'twitter']" /> <span class="sr-only">Twitter</span></a></li>
@@ -130,8 +130,8 @@
     list-style: none;
     display: flex;
     flex-direction: row;
-    margin: 0;
     padding: 0;
+    margin-top: 2rem;
 
     li {
       display: flex;
@@ -200,6 +200,10 @@
         font-size: 1.1rem;
         padding-right: 1rem;
       }
+      &.candidate-description {
+        font-size: 1.25rem;
+        padding-right: 5rem;
+      }
       .candidate-image {
         img {
           width: 90%;
@@ -208,7 +212,6 @@
     }
   }
 }
-
 
 @include media-breakpoint-down(lg) {
   .candidate {
