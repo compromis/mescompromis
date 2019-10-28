@@ -3,7 +3,7 @@
     <programa-header />
     <transition name="fade">
       <div :class="{'programa-container': true, 'container-has-content': $route.name !== 'programa___val' && $route.name !== 'programa___cas' }">
-        <div class="container-fluid">
+        <div class="container container-inner">
           <nuxt-child />
         </div>
       </div>
@@ -79,12 +79,11 @@
       padding-right: 10rem;
     }
 
-    .container-fluid {
+    .container-inner {
       position: relative;
       background: $white;
       padding: 4rem;
       z-index: 200;
-      max-width: 1340px;
       margin: 0 auto;
       border-radius: $border-radius $border-radius 0 0;
     }
@@ -170,7 +169,7 @@
 
   @include media-breakpoint-down(lg) {
     .programa {
-      .container-fluid {
+      .container-inner {
         padding: 1rem;
       }
 

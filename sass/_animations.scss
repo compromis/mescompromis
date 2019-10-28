@@ -18,7 +18,7 @@
 .candidate-enter-active, .candidate-leave-active {
   transition: .5s ease-in-out;
   overflow: hidden;
-  max-height: 400px;
+  max-height: 1000px;
 }
 
 .candidate-enter, .candidate-leave-to {
