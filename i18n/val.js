@@ -16,21 +16,21 @@ export default {
   takeaction: {
     donations: {
       header: 'Ajuda\'ns a fer la campanya',
-      description: 'Amb una simple donació, ajudes a fer Mónica Oltra Presidenta de la Generalitat i a Joan Baldoví portaveu del primer grup valencià al Congrés.',
+      description: 'Amb una simple donació, ajudes a desbloquejar per fi la formació d\'un govern progressista.',
       other: 'Altra...'
     },
     social: {
       header: 'Ciberactivisme',
-      description: 'Amplifica la nostre missatge a les xarxes.'
+      description: 'Amplifica el nostre missatge a les xarxes. Comparteix les nostres publicacions i reenvia els missatges als teus contactes.'
     },
     events: {
       header: 'Vine als actes',
-      description: 'Omplim de somriures tots els actes de campanya. Perquè amb tu, serem #Imparables.',
+      description: 'Omplim de somriures tots els actes de campanya. Fem #PolíticaÚtil.',
       button: 'Calendari d\'actes'
     },
     observers: {
       header: 'Sigues garantia de democràcia',
-      description: 'El 28 d’abril, fes-te interventor/a o apoderat/da de Compromís per a garantir que cada vot compta.',
+      description: 'El 10 de novembre, fes-te interventor/a o apoderat/da de Compromís per a garantir que cada vot compta.',
       button: 'Fes-te interventor/a'
     }
   }

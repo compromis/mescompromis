@@ -24,11 +24,11 @@
 
       <!-- Right aligned nav items -->
       <b-navbar-nav class="ml-auto">
-        <b-nav-item><fa :icon="['fab', 'facebook-square']" /> <span class="d-lg-none">Facebook</span></b-nav-item>
-        <b-nav-item><fa :icon="['fab', 'twitter']" /> <span class="d-lg-none">Twitter</span></b-nav-item>
-        <b-nav-item><fa :icon="['fab', 'instagram']" /> <span class="d-lg-none">Instagram</span></b-nav-item>
-        <b-nav-item><fa :icon="['fab', 'whatsapp']" /> <span class="d-lg-none">WhatsApp</span></b-nav-item>
-        <b-nav-item><fa :icon="['fab', 'telegram']" /> <span class="d-lg-none">Telegram</span></b-nav-item>
+        <b-nav-item href="https://www.facebook.com/coaliciocompromis" target="blank"><fa :icon="['fab', 'facebook-square']" /> <span class="d-lg-none">Facebook</span></b-nav-item>
+        <b-nav-item href="https://twitter.com/compromis" target="blank"><fa :icon="['fab', 'twitter']" /> <span class="d-lg-none">Twitter</span></b-nav-item>
+        <b-nav-item href="https://www.instagram.com/compromis_net/" target="blank"><fa :icon="['fab', 'instagram']" /> <span class="d-lg-none">Instagram</span></b-nav-item>
+        <b-nav-item href="https://www.compromis.net/whatsapp" target="blank"><fa :icon="['fab', 'whatsapp']" /> <span class="d-lg-none">WhatsApp</span></b-nav-item>
+        <b-nav-item href="https://t.me/compromis" target="blank"><fa :icon="['fab', 'telegram']" /> <span class="d-lg-none">Telegram</span></b-nav-item>
         <b-nav-item v-if="$i18n.locale !== 'val'" @click="localeChange('val')">Valencià</b-nav-item>
         <b-nav-item v-if="$i18n.locale !== 'cas'" @click="localeChange('cas')">Castellano</b-nav-item>
       </b-navbar-nav>

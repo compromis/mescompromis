@@ -16,22 +16,22 @@ export default {
   takeaction: {
     donations: {
       header: 'Ayúdanos a hacer la campaña',
-      description: 'Con una simple donación, ayudas a hacer a Mónica Oltra Presidenta de la Generalitat y a Joan Baldoví portavoz del primer grupo valenciano en el Congreso.',
-      other: 'Altra...'
+      description: 'Con una simple donación, ayudas a desbloquear la formación de un gobierno progresista.',
+      other: 'Otra...'
     },
     social: {
-      header: 'Ciberactivisme',
-      description: 'Amplifica la nostre missatge a les xarxes.'
+      header: 'Ciberactivismo',
+      description: 'Amplifica nuestro mensaje en las redes. Comparte nuestras publicaciones y reenvia los mensajes a tus conatctos.'
     },
     events: {
-      header: 'Vine als actes',
-      description: 'Omplim de somriures tots els actes de campanya. Perquè amb tu, serem #Imparables.',
-      button: 'Calendari d\'actes'
+      header: 'Ven a los actos',
+      description: 'Llenemos de sonrisas todos los actos de campaña. Hagamos #PolíticaÚtil.',
+      button: 'Calendario de actos'
     },
     observers: {
-      header: 'Sigues garantia de democràcia',
-      description: 'El 28 d’abril, fes-te interventor/a o apoderat/da de Compromís per a garantir que cada vot compta.',
-      button: 'Fes-te interventor/a'
+      header: 'Se garantía de democracia',
+      description: 'El 10 de noviembre, hazte interventor/a o apoderado/da de Compromís - Más País para garantizar que cada voto cuenta.',
+      button: 'Hazte interventor/a'
     }
   }
 }
