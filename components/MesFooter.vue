@@ -5,7 +5,7 @@
         <compromis-logo version="mono" />
         <maspais-logo version="mono" />
       </div>
-      <div class="row">
+      <div class="row my-4">
         <div class="col-lg-5">
           <div class="footer-social">
             <iframe src="https://platform.twitter.com/widgets/follow_button.html?screen_name=compromis&amp;show_screen_name=true&amp;show_count=true&amp;size=l&amp;lang=es" class="twitter" frameborder="0" title="Twitter"></iframe>
