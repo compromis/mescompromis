@@ -3,7 +3,7 @@ import val from './i18n/val.js'
 import cas from './i18n/cas.js'
 
 export default {
-  mode: 'spa',
+  mode: 'universal',
   /*
   ** Headers of the page
   */
@@ -74,6 +74,7 @@ export default {
     /*
     ** You can extend webpack config here
     */
+    extractCSS: true,
     extend (config) {
       config.module.rules.push({
         test: /\.md$/,
