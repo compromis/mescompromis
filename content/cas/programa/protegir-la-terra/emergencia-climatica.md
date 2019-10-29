@@ -58,10 +58,9 @@ El sector energético en el estado español depende fundamentalmente de fuentes 
 - En el contexto de reforma del sector eléctrico, remunicipalizar las redes de distribución de los municipios como garantía de una mayor penetración de las renovables a nivel local.
 
 ##### Un Plan de Energías Renovables para la Transición Energética
-El planteamiento renovable ha de estar integrado en el sistema con rango de ley dado que la evolución tecnológica e industrial de los sistemas de aprovechamiento de las fuentes de energía renovables y la existencia de un potencial energético específicamente alto, hacen del estado español un lugar idóneo pasa
+El planteamiento renovable ha de estar integrado en el sistema con rango de ley dado que la evolución tecnológica e industrial de los sistemas de aprovechamiento de las fuentes de energía renovables y la existencia de un potencial energético específicamente alto, hacen del estado español un lugar idóneo para lograr un objetivo 100% renovable para el año 2040.
 
-El planejament renovable ha d'estar integrat en el sistema amb rang de llei donat que l'evolució tecnològica i industrial dels sistemes d'aprofitament de les fonts d'energia renovables i l'existència d'un potencial energètic específicament alt, fan de l'estat espanyol un lloc idoni para lograr un objetivo 100% renovable para el año 2040.
-
+- Creación de una empresa de energía con el objetivo de producir el 100% de su energía de fuentes renovables antes de 2025.
 - Desarrollo de un plan industrial y de I+D+i de transferencia de tecnología a la industria para fomentar la generación de valor tecnológico.
 - Desarrollo de un Plan de formación, en todos los ámbitos tecnológicos y de materiales en los diferentes niveles, desde estudios de carácter universitario a la formación profesional.
 
@@ -247,6 +246,7 @@ Para abordar estos retos, proponemos un abanico de medidas agrupadas 7 ejes de a
 - Reformar la composición de los Consejos del agua de las demarcaciones hidrográficas, incorporando a los sectores marginados en dichos órganos de participación: actividades recreativas, de turismo fluvial, usos no económicos de los ríos y colectivos sociales que promueven el uso sostenible del agua y la defensa de los ríos y los acuíferos.
 
 ##### Control público, transparencia, acceso a la información y participación ciudadana efectiva en la gestión del agua
+- Crear un plan de apoyo a los ayuntamientos que decidan remunicipalizar el servicio del agua. Con una línea de ayudas para la reparación y mejora de la red que aumenten su eficiencia.
 - Promover la educación ambiental y campañas de información, comunicación y sensibilización de la población, así como de sectores concretos, en relación con cuestiones como el carácter de bien público, patrimonio ecosocial y la multiplicidad de dimensiones del agua, la importancia de la conservación de los ecosistemas fluviales y los acuíferos para el bienestar humano presente y futuro, las buenas prácticas en el uso del agua y el territorio para hacer frente a los efectos previstos del cambio climático sobre el ciclo hidrológico, la prevención de la contaminación, el derecho humano de acceso al agua potable y el saneamiento, o la importancia de la participación pública en la gestión y planificación del agua.
 - Establecer mecanismos de transparencia y rendición de cuentas para todos los gestores y usuarios del agua (administraciones públicas, comunidades de regantes, empresas hidroeléctricas, empresas suministradoras de agua, etc.) que garanticen el acceso público y el control externo efectivo de la gestión del agua y de los varios usos del agua a través del suministro activo y continuo de información sobre los volúmenes utilizados, procedencia y destino del agua, costes y precios, calidad de las aguas, efectos ambientales, estado de las masas de agua, etc.
 - Fomentar y garantizar el acceso efectivo a la información así como la participación pública real, efectiva y transparente en la planificación y en la gestión del agua, para evitar la opacidad y la arbitrariedad.

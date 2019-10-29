@@ -2,15 +2,16 @@
 El dret constitucional a l'habitatge comporta el reconeixement del fet de disposar d'un sostre estable. L'habitatge és una necessitat humana de primer ordre, per la qual cosa, els poders públics han de garantir l'accés universal i de qualitat. L'habitatge no pot ser objecte d'especulació, i això també implica evitar que la construcció siga una activitat lesiva per a l'entorn natural i per als paisatges urbans ja consolidats. La construcció ha d'estar sempre harmonitzada amb el medi ambient. I, per tant, cal implantar les següents mesures:
 
 1. Promulgar una Llei que garantisca un habitatge digne que tinga com a mínim les següents consideracions:
-    1. Adopció d'unes polítiques i unes mesures encaminades a garantir l'accés a un habitatge digne a totes les persones, amb especial atenció a aquelles que es troben en situació d'especial vulnerabilitat social o econòmica.
-    2. Implementació de l'obligació de destinar un 30% de la nova construcció a habitatge protegit de Protecció Oficial, de Preu Taxat i de lloguer; del qual, un 7% es destinarà a habitatge jove.
-    3. Promoció del manteniment de la desgravació fiscal del 15% de les quantitats abonades per disposar d'un habitatge, siga de règim de propietat o de lloguer, tot dotant-lo dels límits socials adequats i exclusivament per a l'habitatge habitual.
-    4. Reforma del procediment d'execució hipotecària per tal de garantir a la persona deutora la plenitud d'exercici dels mecanismes generals de defensa i de prova.
-    5. Abaratiment dels tràmits per al canvi d'hipoteca, mitjançant la reforma de la Llei 2/1994.
-    6. Regular els desnonaments i llançaments per tal de garantir que no es podrà fer fora de l'habitatge a cap persona sense una alternativa habitacional digna i adequada al seu nivell de renda, considerant l'alternativa habitacional en el seu entorn habitual i social.
-    7. Aturar d'urgència tots els desnonaments de primer habitatge a les famílies que no tinguen alternativa habitacional, especialment a persones majors que avalaren familiars en un crèdit hipotecari.
-    8. Limitar la responsabilitat de la persona deutora hipotecària al bé hipotecat. Dret a la dació en pagament de l'habitatge quan es tracte de l'habitatge habitual de la persona deutora i aquesta es trobe en situació d'insolvència no buscada de propòsit.
-    9. Permetre a ajuntaments i comunitats autònomes regular els preus de l'habitatge en determinades zones urbanes.
+    1. Limitació del preu del lloguer mitjançant la creació d’un índex de preus públics de lloguer. 
+    2. Adopció d'unes polítiques i unes mesures encaminades a garantir l'accés a un habitatge digne a totes les persones, amb especial atenció a aquelles que es troben en situació d'especial vulnerabilitat social o econòmica.
+    3. Implementació de l’obligació de destinar un 40% de la nova construcció a habitatge protegit de Protecció Oficial, de Preu Taxat i de lloguer; del qual, un 7% es destinarà a habitatge jove.
+    4. Promoció del manteniment de la desgravació fiscal del 15% de les quantitats abonades per disposar d'un habitatge, siga de règim de propietat o de lloguer, tot dotant-lo dels límits socials adequats i exclusivament per a l'habitatge habitual.
+    5. Reforma del procediment d'execució hipotecària per tal de garantir a la persona deutora la plenitud d'exercici dels mecanismes generals de defensa i de prova.
+    6. Abaratiment dels tràmits per al canvi d'hipoteca, mitjançant la reforma de la Llei 2/1994.
+    7. Regular els desnonaments i llançaments per tal de garantir que no es podrà fer fora de l'habitatge a cap persona sense una alternativa habitacional digna i adequada al seu nivell de renda, considerant l'alternativa habitacional en el seu entorn habitual i social.
+    8. Aturar d'urgència tots els desnonaments de primer habitatge a les famílies que no tinguen alternativa habitacional, especialment a persones majors que avalaren familiars en un crèdit hipotecari.
+    9. Limitar la responsabilitat de la persona deutora hipotecària al bé hipotecat. Dret a la dació en pagament de l'habitatge quan es tracte de l'habitatge habitual de la persona deutora i aquesta es trobe en situació d'insolvència no buscada de propòsit.
+    10. Permetre a ajuntaments i comunitats autònomes regular els preus de l'habitatge en determinades zones urbanes.
 
 2. Flexibilització de la regla de despesa perquè els ajuntaments puguen destinar el superàvit a habitatge i lloguer social.
 3. Garantir la promoció pública de l'habitatge en lloguer. Implantació de sistemes de lloguer que afavorisquen també la rehabilitació d'habitatges: aquelles persones propietàries d'habitatges antics que accepten llogar-los a particulars per un preu taxat inferior al de mercat seran compensades de les seues pèrdues amb subvencions adreçades a la rehabilitació de l'immoble.

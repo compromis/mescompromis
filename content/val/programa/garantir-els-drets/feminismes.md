@@ -19,12 +19,13 @@ La co-responsabilitat de les cures, on s'ha d'involucrar tota la societat. Cal t
 3. Les administracions públiques exigiran plans d'igualtat i aplicaran la perspectiva de gènere en l'elaboració de les condicions per a accedir a la contracta pública.
 4. Garantia paritària als òrgans de decisió de les entitats públiques i privades amb la transposició dels compromisos adquirits amb la Unió Europea orientats a potenciar l'accés de les dones als llocs de decisió de les empreses.
 5. Millora de l'accés als recursos financers: línies de finançament específiques per a empreses liderades per dones, i adopció de mesures de foment de l'emprenedoria femenina.
-6. Garantía de la igualtat salarial i laboral amb mesures concretes com la publicació dels salaris de la plantilla, i inclusió de la perspectiva de gènere en la negociació col·lectiva.
-7. Impuls en la creació d'una Unitat d'Igualtat a la Inspecció de Treball que audite els Plans d'Igualtat i que es tracte de manera especialitzada els incompliments empresarials en matèria d'igualtat: discriminacions, assetjaments, violència de gènere.
-8. Regulació com a servei principal de l'activitat econòmica del sector hostaler, tant el servei de cuina com el de neteja, i deixar així de ser un servei complementari, per evitar l'externalització i la precarització de les treballadores i treballadors del sector turístic o del personal de neteja domèstic.
-9. Vinculació de les pensions no contributives a l'SMI i unificació al marc del 60% del salari mitjà per combatre la feminització de l'empobriment.
-10. Implementació, en tres anys de forma progressiva, els permisos iguals, intransferibles i irrenunciables per naixement, acolliment i adopció fins a les 24 setmanes per part de les dues persones progenitores. En el cas, de les famílies monoparentals, es gaudirà de la suma dels dos permisos. A més, en cas de  xiquets i xiquetes amb diversitat funcional o necessitats especials, s'ampliarà fins a les 26 setmanes.
-11.  Establiment d'una línia d'ajudes perquè les dones autònomes contracten altres dones durant els sis últims mesos de l'embaràs i els sis primers després del naixement o adopció.
+6. Llei d'igualtat salarial per a acabar amb la bretxa salarial i aconseguir una igualtat efectiva entre dones i home en l'àmbit laboral.
+7. Publicació dels salaris de la plantilla, i inclusió de la perspectiva de gènere en la negociació col·lectiva.
+8. Impuls en la creació d'una Unitat d'Igualtat a la Inspecció de Treball que audite els Plans d'Igualtat i que es tracte de manera especialitzada els incompliments empresarials en matèria d'igualtat: discriminacions, assetjaments, violència de gènere.
+9. Regulació com a servei principal de l'activitat econòmica del sector hostaler, tant el servei de cuina com el de neteja, i deixar així de ser un servei complementari, per evitar l'externalització i la precarització de les treballadores i treballadors del sector turístic o del personal de neteja domèstic.
+10. Vinculació de les pensions no contributives a l'SMI i unificació al marc del 60% del salari mitjà per combatre la feminització de l'empobriment.
+11. Implementació, en tres anys de forma progressiva, els permisos iguals, intransferibles i irrenunciables per naixement, acolliment i adopció fins a les 24 setmanes per part de les dues persones progenitores. En el cas, de les famílies monoparentals, es gaudirà de la suma dels dos permisos. A més, en cas de  xiquets i xiquetes amb diversitat funcional o necessitats especials, s'ampliarà fins a les 26 setmanes.
+12. Establiment d'una línia d'ajudes perquè les dones autònomes contracten altres dones durant els sis últims mesos de l'embaràs i els sis primers després del naixement o adopció.
 
 
 ##### La violència masclista

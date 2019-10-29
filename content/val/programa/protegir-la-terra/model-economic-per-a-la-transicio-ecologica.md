@@ -97,7 +97,7 @@ Això, entre d’altres, ha de ser possible mitjançant:
 #### Hisenda i tributs
 ##### Per una banca al servei de la societat
 
-1. Recuperar el rescat bancari perquè les entitats bancàries que varen rebre suport amb finançament públic, mitjançant milionàries ajudes, s'impliquen en el finançament de la millora del benestar de la població.
+1. Recuperar el rescat bancari.
 2. Suport institucional a les activitats desplegades per la Banca Ètica.
 3. Els bancs hauran d’estar obligats a tenir un coeficient de suport creditici reservat a les pimes i a emprenedors individuals que demostren la viabilitat dels seus projectes d’inversió segons criteris objectius que es fixaran reglamentàriament.
 4. Creació d’una Banca Pública que puga cobrir el buit social propiciat per les caixes d’estalvi i que done especial atenció a les experiències d’economia social i treball associat

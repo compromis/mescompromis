@@ -20,12 +20,13 @@ La co-responsabilidad de las curas, donde se tiene que involucrar toda la socied
 3. Las administraciones públicas exigirán planes de igualdad y aplicarán la perspectiva de género en la elaboración de las condiciones para acceder a la contratación pública.
 4. Garantía paritaria en los órganos de decisión de las entidades públicas y privadas con la transposición de los compromisos adquiridos con la Unión Europea orientadas a potenciar el acceso de las mujeres en los lugares de decisión de las empresas.
 5. Mejora del acceso a los recursos financieros: se habilitarán líneas de financiación específicas para empresas lideradas por mujeres, y se adoptarán medidas de fomento del emprendimiento femenino.
-6. Garantía de la igualdad salarial y laboral con medidas concretas como la publicación de los salarios de la plantilla, e inclusión de la perspectiva de género en la negociación colectiva.
-7. Impulso en la creación de una Unidad de Igualdad a la Inspección de Trabajo que audite los Planes de Igualdad y que trate de manera especializada los incumplimientos empresariales en materia de igualdad: discriminaciones, acoso, violencia de género.
-8. Promoveremos la regulación como servicio principal de la actividad económica del sector hostelero, tanto el servicio de cocina como de limpieza, para que dejen de ser un servicio complementario, y eviten la externalización y la precarización de las trabajadoras y trabajadores del sector turístico o del personal de limpieza doméstico.
-9. Impulsaremos que las pensiones no contributivas se vinculen al SMI y se unificarán en el marco del 60% del salario medio para combatir la feminización del empobrecimiento.
-10. Implementación, en tres años de forma progresiva, los permisos iguales, intransferibles e irrenunciables por nacimiento, acogida y adopción hasta las 24 semanas por parte de las dos personas progenitoras. En el caso, de las familias monoparentales, se disfrutará de la suma de los dos permisos. Además, en caso de niños y niñas con diversidad funcional o necesidades especiales, se ampliará hasta las 26 semanas.
-11. Establecimiento de una línea de ayudas para que las mujeres autónomas contraten otras mujeres durante los seis últimos meses del embarazo y los seis primeros después del nacimiento o adopción.
+6. Ley de igualdad salarial para acabar con la brecha salarial y lograr una igualdad efectiva entre mujeres y hombre en el ámbito laboral. 
+7. Publicación de los salarios de la plantilla, e inclusión de la perspectiva de género en la negociación colectiva. 
+8. Impulso en la creación de una Unidad de Igualdad a la Inspección de Trabajo que audite los Planes de Igualdad y que trate de manera especializada los incumplimientos empresariales en materia de igualdad: discriminaciones, acoso, violencia de género.
+9. Promoveremos la regulación como servicio principal de la actividad económica del sector hostelero, tanto el servicio de cocina como de limpieza, para que dejen de ser un servicio complementario, y eviten la externalización y la precarización de las trabajadoras y trabajadores del sector turístico o del personal de limpieza doméstico.
+10. Impulsaremos que las pensiones no contributivas se vinculen al SMI y se unificarán en el marco del 60% del salario medio para combatir la feminización del empobrecimiento.
+11. Implementación, en tres años de forma progresiva, los permisos iguales, intransferibles e irrenunciables por nacimiento, acogida y adopción hasta las 24 semanas por parte de las dos personas progenitoras. En el caso, de las familias monoparentales, se disfrutará de la suma de los dos permisos. Además, en caso de niños y niñas con diversidad funcional o necesidades especiales, se ampliará hasta las 26 semanas.
+12. Establecimiento de una línea de ayudas para que las mujeres autónomas contraten otras mujeres durante los seis últimos meses del embarazo y los seis primeros después del nacimiento o adopción.
 
 #### La violencia machista
 

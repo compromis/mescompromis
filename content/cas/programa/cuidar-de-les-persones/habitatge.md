@@ -2,15 +2,16 @@
 El derecho constitucional a la vivienda supone el reconocimiento a disponer de un techo estable. La vivienda es una necesidad humana de primer orden, por lo que los poderes públicos deben de garantizar el acceso universal y de calidad. La vivienda no puede ser un objeto de especulación, y ello implica también evitar que la construcción sea una actividad lesiva para el entorno natural y para los paisajes urbanos ya consolidados. La construcción tiene que convivir en armonía con el medio ambiente. Y, para ello, es necesario implantar las siguientes medidas:
 
 1. Promulgar una Ley que garantice una vivienda digna que tenga como mínimo las siguientes consideraciones:
-    1. Adopción de unas políticas y unas medidas encaminadas a garantizar el acceso a una vivienda digna a todas las personas con especial atención a aquellas que se encuentran en situación de especial vulnerabilidad social o económica.
-    2. Obligación de destinar un 30% de la nueva construcción a vivienda de protección oficial de Protección Oficial, de Precio tasado y de alquiler; del cual un 7% se destinará a vivienda joven.
-    3. Mantenimiento de la desgravación fiscal del 15% de las cantidades abonadas para disponer de una vivienda, sea de régimen de propiedad o de alquiler, dotándolo de los límites sociales adecuados y exclusivamente para la vivienda habitual.
-    4. Reforma del procedimiento de ejecución hipotecaria para garantizar a la persona deudora la plenitud de ejercicio de los mecanismos generales de defensa y de prueba.
-    5. Abaratamiento de los trámites para el cambio de hipoteca, mediante reforma de la Ley 2/1994.
-    6. Regulación de los desahucios y lanzamientos, para garantizar que no se podrá tirar de la vivienda a ninguna persona sin una alternativa habitacional digna y adecuada a su nivel de renta, considerando la alternativa habitacional en su entorno habitual y social.
-    7. Paralización de manera urgente todos los desahucios de primera vivienda a familias que no tengan alternativa habitacional, especialmente a las personas mayores que avalaron a familiares con un crédito hipotecario.
-    8. Limitaremos la responsabilidad de la persona deudora hipotecaria al bien hipotecado, y derecho a la dación en pago de la vivienda, cuando se trate de la vivienda habitual de la persona deudora y se encuentre en situación de insolvencia no buscada.
-    9. Permitiremos en Ayuntamientos y Comunidades Autónomas regular los precios de la vivienda en determinadas zonas urbanas.
+    1. Limitación del precio del alquiler mediante la creación de un índice de precios públicos de alquiler.
+    2. Adopción de unas políticas y unas medidas encaminadas a garantizar el acceso a una vivienda digna a todas las personas con especial atención a aquellas que se encuentran en situación de especial vulnerabilidad social o económica.
+    3. Obligación de destinar un 40% de la nueva construcción a vivienda de protección oficial de Protección Oficial, de Precio tasado y de alquiler; del cual un 7% se destinará a vivienda joven.
+    4. Mantenimiento de la desgravación fiscal del 15% de las cantidades abonadas para disponer de una vivienda, sea de régimen de propiedad o de alquiler, dotándolo de los límites sociales adecuados y exclusivamente para la vivienda habitual.
+    5. Reforma del procedimiento de ejecución hipotecaria para garantizar a la persona deudora la plenitud de ejercicio de los mecanismos generales de defensa y de prueba.
+    6. Abaratamiento de los trámites para el cambio de hipoteca, mediante reforma de la Ley 2/1994.
+    7. Regulación de los desahucios y lanzamientos, para garantizar que no se podrá tirar de la vivienda a ninguna persona sin una alternativa habitacional digna y adecuada a su nivel de renta, considerando la alternativa habitacional en su entorno habitual y social.
+    8. Paralización de manera urgente todos los desahucios de primera vivienda a familias que no tengan alternativa habitacional, especialmente a las personas mayores que avalaron a familiares con un crédito hipotecario.
+    9. Limitaremos la responsabilidad de la persona deudora hipotecaria al bien hipotecado, y derecho a la dación en pago de la vivienda, cuando se trate de la vivienda habitual de la persona deudora y se encuentre en situación de insolvencia no buscada.
+    10. Permitiremos en Ayuntamientos y Comunidades Autónomas regular los precios de la vivienda en determinadas zonas urbanas.
 
 2. Flexibilización de la regla de gasto para que los Ayuntamientos puedan destinar el superávit a vivienda y alquiler social.
 3. Garantizar la promoción pública de la vivienda en alquiler. Implantación de sistemas de alquiler que favorezcan la rehabilitación de viviendas: aquellas personas propietarias de viviendas antiguas que acepten alquilar a particulares por un precio tasado inferior al de mercado, serán compensadas de sus pérdidas con subvenciones dirigidas a la rehabilitación del inmueble.

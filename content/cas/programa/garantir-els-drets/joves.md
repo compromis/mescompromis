@@ -28,7 +28,7 @@ Para que todas estas reivindicaciones sean una realidad, necesitamos tener un pi
 
 España es uno de los países de la Unión Europea con mayor número de viviendas vacías, mientras que, al mismo tiempo, es uno de los países donde sus jóvenes tardan más al emanciparse.
 
-1. Impulso en la promoción pública y la reserva de cuotas de viviendas de alquiler a precios inferiores al mercado para jóvenes que no sobrepasen un nivel máximo de ingresos, mediante una bolsa pública de viviendas. Implementaremos la obligación de destinar un 30% de la nueva construcción a vivienda protegida de Protección Oficial, de Precio Tasado y de alquiler; del cual un 7% se destinará a vivienda joven.
+1. Impulso en la promoción pública y la reserva de cuotas de viviendas de alquiler a precios inferiores al mercado para jóvenes que no sobrepasen un nivel máximo de ingresos, mediante una bolsa pública de viviendas. Implementaremos la obligación de destinar un 40% de la nueva construcción a vivienda protegida de Protección Oficial, de Precio Tasado y de alquiler; del cual un 7% se destinará a vivienda joven.
 2. Mecanismos de ayuda (a los jóvenes) y estímulo (a los propietarios) para que las viviendas que hoy están vacías puedan generar un parque de viviendas de alquiler para jó
 3. Creación de residencias y alojamientos protegidos a precios asequibles destinados a estudiantes, trabajadores jóvenes y para colectivos jóvenes con especiales necesidades de tutela.
 4. Capacidad de las Comunidades Autónomas y de los Ayuntamientos para regular los precios máximos de alquiler en zonas urbanas saturadas.

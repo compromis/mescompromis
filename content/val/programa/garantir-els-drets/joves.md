@@ -25,7 +25,7 @@ Perquè totes estes reivindicacions siguen una realitat, necessitem tindre un pe
 
 ##### Espanya és un dels països de la Unió Europea amb major nombre d'habitatges buits, mentre que al mateix temps és un dels països on els seus joves tarden més a emancipar-se. Proposem:
 
-1. Impuls de la promoció pública i reserva de quotes d'habitatges de lloguer a preus inferiors al mercat per a joves què no ultrapassen un nivell màxim d'ingressos, mitjançant una borsa pública d'habitatges. Implementarem l'obligació de destinar un 30% de la nova construcció a vivenda protegida de Protecció Oficial, de Preu taxat i de lloguer; del qual un 7% es destinarà a habitatge jove.
+1. Impuls de la promoció pública i reserva de quotes d’habitatges de lloguer a preus inferiors al mercat per a joves què no ultrapassen un nivell màxim d’ingressos, mitjançant una borsa pública d’habitatges. Implementarem l’obligació de destinar un 40% de la nova construcció a vivenda protegida de Protecció Oficial, de Preu taxat i de lloguer; del qual un 7% es destinarà a habitatge jove.
 2. Mecanismes d'ajuda (als joves) i estímul (als propietaris) perquè els habitatges que hui estan buits puguen generar un parc d'habitatges de lloguer per a joves.
 3. Creació de residències i allotjaments protegits a preus assequibles destinats a estudiants, treballadors joves i per a col·lectius joves amb especials necessitats de tutela.
 4. Capacitat de les comunitats autònomes i dels ajuntaments per regular els preus màxims de lloguer en zones urbanes saturades.
