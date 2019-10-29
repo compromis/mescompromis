@@ -291,6 +291,10 @@
           opacity: 0;
         }
 
+        .btn span {
+          color: $white !important;
+        }
+
         .is-active-slide {
           .btn {
             opacity: 1;
