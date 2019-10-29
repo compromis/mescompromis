@@ -3,16 +3,17 @@ import val from './i18n/val.js'
 import cas from './i18n/cas.js'
 
 export default {
-  mode: 'universal',
+  mode: 'spa',
   /*
   ** Headers of the page
   */
   head: {
-    title: 'Compromís-Más País: Acordar, la política útil',
+    title: 'Compromís - Más País: Acordar, la política útil',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' },
+      { property: 'og:image', content: 'https://mes.compromis.net/images/thumbnail_generic.jpg' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
