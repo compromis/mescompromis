@@ -99,10 +99,11 @@ Esto, entre otras, ha de ser posible mediante:
 
 #### Hacienda y tributos
 ##### Por una banca al servicio de la sociedad
-1. Recuperar el rescate bancario para que las entidades bancarias que fueron apoyadas con financiación pública, mediante millonarias ayudas, se impliquen en la financiación de la mejora del bienestar de la población.
+1. Recuperar el rescate bancario.
 2. Apoyo institucional a las actividades desarrolladas por la Banca Ética.
 3. Los bancos deberán estar obligados a tener un coeficiente de apoyo crediticio reservado a las pymes y emprendedores individuales que demuestran la viabilidad de sus proyectos de inversión según criterios objetivos que se fijarán reglamentariamente.
 4. Creación de una Banca Pública que pueda cubrir el vacío social propiciado por las cajas de ahorro y que proporcione especial atención a las experiencias de economía social y de trabajo asociado.
+5. Derogación de la ley de depósitos bancarios para que puedan ser regulados por las  Comunidades Autónomas. 
 
 ##### Por una fiscalidad verde, progresiva y justa
 1. Es necesario aligerar la presión fiscal sobre las personas corrientes y establecer una fiscalidad justa y solidaria donde todos colaboremos en función de nuestros ingresos y esté garantizado un sistema de servicios públicos de calidad, extenso y estable en el tiempo.

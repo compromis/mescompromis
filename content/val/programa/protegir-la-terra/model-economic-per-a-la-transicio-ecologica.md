@@ -101,6 +101,7 @@ Això, entre d’altres, ha de ser possible mitjançant:
 2. Suport institucional a les activitats desplegades per la Banca Ètica.
 3. Els bancs hauran d’estar obligats a tenir un coeficient de suport creditici reservat a les pimes i a emprenedors individuals que demostren la viabilitat dels seus projectes d’inversió segons criteris objectius que es fixaran reglamentàriament.
 4. Creació d’una Banca Pública que puga cobrir el buit social propiciat per les caixes d’estalvi i que done especial atenció a les experiències d’economia social i treball associat
+5. Derogació de la llei de diposits bancaris per que la puguen regular les Comunitats Autònomes 
 
 ##### Per una fiscalitat verda, progressiva i justa 
 1. Cal alleugerir la pressió fiscal sobre les persones corrents i establir una fiscalitat justa i solidària on tots col·laborem en funció dels nostres ingressos i estiga garantit un sistema de serveis públics de qualitat, extens i estable en el temps.
