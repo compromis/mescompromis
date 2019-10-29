@@ -36,7 +36,7 @@ import axios from 'axios'
     return {
       title: 'Notícies | Compromís - Más País',
       meta: [
-        { property: 'og:image', content: 'https://mes.compromis.net/images/thumbnail_generic.jpg' }
+        { hid: 'og:image', property: 'og:image', content: 'https://mes.compromis.net/images/thumbnail_generic.jpg' }
       ]
     }
   },
