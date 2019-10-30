@@ -1,7 +1,9 @@
 <template>
-  <div class="counter">
+  <div :class="['counter', number === 0 ? 'counter-hidden' : '', `counter-${color}`]">
     <div class="counter-number">{{ number }} {{ symbol }}</div>
-    <div class="counter-description"><slot></slot></div>
+    <div class="counter-description">
+      <slot></slot>
+    </div>
   </div>
 </template>
 
@@ -52,14 +54,26 @@
   .counter {
     font-size: 1.5rem;
     font-weight: bold;
+    transition: .5s ease-in-out;
 
     &-number {
-      font-size: 2rem;
+      font-size: 3rem;
       background-color: $teal;
       border-radius: $border-radius-lg;
-      padding: 0.5rem;
+      padding: 0.5rem 1rem;
       width: fit-content;
       font-variant: tabular-nums;
+      margin-bottom: .5rem;
+    }
+
+    &-hidden {
+      opacity: 0;
+    }
+
+    &-orange {
+      .counter-number {
+        background-color: $orange;
+      }
     }
   }
 </style>

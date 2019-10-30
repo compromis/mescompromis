@@ -1,5 +1,5 @@
 <template>
-  <div class="timeroo-wrapper">
+  <div :class="{'timeroo-wrapper': true, 'timeroo-hidden': days === 0}">
     <div class="timeroo">
       <div class="timeroo-col"><span class="timeroo-number timeroo-number-lg">{{ days }}:</span><span class="timeroo-label timeroo-label-days">dies</span></div>
       <div class="timeroo-col"><span class="timeroo-number timeroo-number-md">{{ hours | formatNumber }}:</span><span class="timeroo-label">hores</span></div>
@@ -82,6 +82,7 @@ export default {
   &-wrapper {
     display: flex;
     justify-content: center;
+    transition: .5s ease-in-out;
   }
 
   &-number {
@@ -101,6 +102,10 @@ export default {
     &-days {
       padding-left: 2rem;
     }
+  }
+
+  &-hidden {
+    opacity: 0;
   }
 }
 
