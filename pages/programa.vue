@@ -15,6 +15,8 @@
   import ProgramaHeader from '@/components/ProgramaHeader'
 
   export default {
+    scrollToTop: true,
+
     components: {
       ProgramaHeader
     },
