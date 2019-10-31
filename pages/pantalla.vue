@@ -1,35 +1,65 @@
 <template>
   <fullscreen ref="fullscreen" @change="fullscreenChange">
-    <div class="sense-govern">
-      <div class="sense-govern-header">
-        <div class="container">
-          <div class="hashtag"><span>{{ $t('sense_govern.hashtag') }}</span></div>
-          <b-carousel
-            v-model="slide"
-            :interval="10000">
-            <b-carousel-slide>
-              <timer />
-              <div class="lawless"><span>{{ $t('sense_govern.lawless') }}</span></div>
-            </b-carousel-slide>
-            <b-carousel-slide>
-              <counter :increment="2.51458" symbol="€" color="orange" is-big>Hem deixat de rebre els valencians i les valencianes mentre no es reforma la Llei de Finançament</counter> 
-            </b-carousel-slide>
-            <b-carousel-slide>
-              <counter :increment="0.23" symbol="t" color="yellow" is-time is-big>{{ $t('sense_govern.counter_2') }}</counter>
-            </b-carousel-slide>
-            <b-carousel-slide>
-              <counter :increment="0.04" symbol="t" color="teal" is-time is-big>{{ $t('sense_govern.counter_3') }}</counter>
-            </b-carousel-slide>
-            <b-carousel-slide>
-              <counter :increment="1.0327" symbol="t" color="red" is-big>{{ $t('sense_govern.counter_4') }}</counter>
-            </b-carousel-slide>
-            <b-carousel-slide>
-              <counter :increment="0.00001651445" symbol="€" color="teal" decimals is-big>{{ $t('sense_govern.counter_5') }}</counter>
-            </b-carousel-slide>
-          </b-carousel>
+    <transition name="fade">
+      <div v-show="!showVideo" class="sense-govern">
+        <div class="sense-govern-header">
+          <div class="container container-scaled">
+            <div class="hashtag"><span>{{ $t('sense_govern.hashtag') }}</span></div>
+            <b-carousel
+              v-model="slide"
+              :interval="10000">
+              <b-carousel-slide>
+                <timer />
+                <div class="lawless"><span>{{ $t('sense_govern.lawless') }}</span></div>
+              </b-carousel-slide>
+              <b-carousel-slide>
+                <counter :increment="2.51458" symbol="€" color="orange" is-big>Hem deixat de rebre els valencians i les valencianes mentre no es reforma la Llei de Finançament</counter> 
+              </b-carousel-slide>
+              <b-carousel-slide>
+                <counter :increment="0.23" symbol="t" color="yellow" is-time is-big>{{ $t('sense_govern.counter_2') }}</counter>
+              </b-carousel-slide>
+              <b-carousel-slide>
+                <counter :increment="0.04" symbol="t" color="teal" is-time is-big>{{ $t('sense_govern.counter_3') }}</counter>
+              </b-carousel-slide>
+              <b-carousel-slide>
+                <counter :increment="1.0327" symbol="t" color="red" is-big>{{ $t('sense_govern.counter_4') }}</counter>
+              </b-carousel-slide>
+              <b-carousel-slide>
+                <counter :increment="0.00001651445" symbol="€" color="teal" decimals is-big>{{ $t('sense_govern.counter_5') }}</counter>
+              </b-carousel-slide>
+            </b-carousel>
+          </div>
         </div>
       </div>
-    </div>
+    </transition>
+    <transition name="fade">
+      <div class="video video-1" v-if="showVideo === 1">
+        <video width="100%" height="100%" autoplay loop>
+          <source src="../assets/videos/video1.mp4" type="video/mp4">
+        </video>
+      </div>
+    </transition>
+    <transition name="fade">
+      <div class="video video-2" v-if="showVideo === 2">
+        <video width="100%" height="100%">
+          <source src="../assets/videos/video1.mp4" type="video/mp4">
+        </video>
+      </div>
+    </transition>
+    <transition name="fade">
+      <div class="video video-3" v-if="showVideo === 3">
+        <video width="100%" height="100%">
+          <source src="../assets/videos/video1.mp4" type="video/mp4">
+        </video>
+      </div>
+    </transition>
+    <transition name="fade">
+      <div class="video video-4" v-if="showVideo === 4">
+        <video width="100%" height="100%" :autoplay="true">
+          <source src="../assets/videos/video1.mp4" type="video/mp4">
+        </video>
+      </div>
+    </transition>
     <button type="button" @click="toggleFullscreen" v-if="!fullscreen" class="fullscreen-button">Fullscreen</button>
   </fullscreen>
 </template>
@@ -49,8 +79,29 @@
     data () {
       return {
         fullscreen: false,
-        slide: 0
+        slide: 0,
+        showVideo: null
       }
+    },
+
+    mounted () {
+      window.addEventListener('keyup', (event) => {
+        if (event.code == 'Digit1') { 
+          this.showVideo = 1
+        }
+        if (event.code == 'Digit2') { 
+          this.showVideo = 2
+        }
+        if (event.code == 'Digit3') { 
+          this.showVideo = 3
+        }
+        if (event.code == 'Digit4') { 
+          this.showVideo = 4
+        }
+        if (event.code == 'Digit0') { 
+          this.showVideo = null
+        }
+      })
     },
 
     methods: {
@@ -114,7 +165,7 @@
   }
 
   .fullscreen {
-    background: $body-bg !important;
+    background: #FEFBF3 !important;
 
     &-button {
       position: fixed;
@@ -138,13 +189,13 @@
 
   .counter {
     &-number {
-      font-size: 8rem !important;
+      font-size: 9rem !important;
       margin: 0 auto;
     }
 
     &-description {
       display: inline-block;
-      font-size: 1.75rem;
+      font-size: 2rem;
       text-align: left;
       background: $navy;
       color: $white;
@@ -156,4 +207,22 @@
     }
   }
 
+  .video {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #FEFBF3;
+    z-index: 10000;
+
+    video {
+      height: 100vh;
+      width: 100vw;
+    }
+  }
+
+  .container-scaled {
+    transform: scale(1.35);
+  }
 </style>
