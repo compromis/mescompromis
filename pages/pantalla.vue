@@ -14,6 +14,18 @@
             <b-carousel-slide>
               <counter :increment="2.51458" symbol="€" color="orange" is-big>Hem deixat de rebre els valencians i les valencianes mentre no es reforma la Llei de Finançament</counter> 
             </b-carousel-slide>
+            <b-carousel-slide>
+              <counter :increment="0.23" symbol="t" color="yellow" is-time is-big>{{ $t('sense_govern.counter_2') }}</counter>
+            </b-carousel-slide>
+            <b-carousel-slide>
+              <counter :increment="0.04" symbol="t" color="teal" is-time is-big>{{ $t('sense_govern.counter_3') }}</counter>
+            </b-carousel-slide>
+            <b-carousel-slide>
+              <counter :increment="1.0327" symbol="t" color="red" is-big>{{ $t('sense_govern.counter_4') }}</counter>
+            </b-carousel-slide>
+            <b-carousel-slide>
+              <counter :increment="0.00001651445" symbol="€" color="teal" decimals is-big>{{ $t('sense_govern.counter_5') }}</counter>
+            </b-carousel-slide>
           </b-carousel>
         </div>
       </div>
@@ -117,11 +129,17 @@
       height: 500px;
       width: 100%;
     }
+
+    &-caption {
+      left: 0;
+      right: 0;
+    }
   }
 
   .counter {
     &-number {
       font-size: 8rem !important;
+      margin: 0 auto;
     }
 
     &-description {
@@ -133,7 +151,7 @@
       border-radius: $border-radius-lg;
       padding: 1rem;
       width: 100%;
-      max-width: 100% !important;
+      max-width: 900px !important;
       margin: 0 auto;
     }
   }
