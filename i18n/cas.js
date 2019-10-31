@@ -53,5 +53,16 @@ export default {
       description: 'El 10 de noviembre, hazte interventor/a o apoderado/da de Compromís - Más País para garantizar que cada voto cuenta.',
       button: 'Hazte interventor/a'
     }
+  },
+
+  sense_govern: {
+    hashtag: '#NiUnMinutoMás',
+    lawless: 'sin gobierno',
+    since_then: 'Desde entonces...',
+    counter_1: 'Hemos dejado de recibir los valencianos y valencianas mientras no se reforma el sistema de financiación',
+    counter_2: 'Son las horas que ha hecho una trabajadora a jornada completa mientras "otros" no han hecho su trabajo',
+    counter_3: 'Son las horas que se habría ahorrado con nuestra propuesta de semana laboral de 32h',
+    counter_4: 'Las toneladas de CO2 emitidas en el estado mientras seguimos sin un acuerdo verde',
+    counter_5: 'Ha perdido un pensionista con asignación mínima mientras el gobierno no revaloriza su pensión'
   }
 }

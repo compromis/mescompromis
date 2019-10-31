@@ -57,6 +57,12 @@ export default {
 
   sense_govern: {
     hashtag: '#NiUnMinutMés',
-    lawless: 'sense govern'
+    lawless: 'sense govern',
+    since_then: 'Des d\'aleshores...',
+    counter_1: 'Hem deixat de rebre els valencians i les valencianes mentre no es reforma el sistema de finançament',
+    counter_2: 'Són les hores que ha fet una treballadora a jornada completa mentre "altres" no han fet el seu treball',
+    counter_3: 'Són les hores que s\'hauria estalviat amb la nostra proposta de setmana laboral de 32 hores',
+    counter_4: 'Les tones de CO2 emeses a l\'estat, mentre seguim sense un acord verd',
+    counter_5: 'Ha perdut un pensionista amb assignació mínima mentre el govern no revaloritza la seua pensió'
   }
 }
