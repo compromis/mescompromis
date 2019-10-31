@@ -33,7 +33,8 @@ export default {
   ** Plugins to load before mounting the App
   */
   plugins: [
-    { src: '~plugins/vue-carousel', ssr: false }
+    { src: '~plugins/vue-carousel', ssr: false },
+    { src: '~plugins/vue-fullscreen', ssr: false }
   ],
   /*
   ** Nuxt.js dev-modules

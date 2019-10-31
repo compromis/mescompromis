@@ -53,5 +53,10 @@ export default {
       description: 'El 10 de novembre, fes-te interventor/a o apoderat/da de Compromís per a garantir que cada vot compta.',
       button: 'Fes-te interventor/a'
     }
+  },
+
+  sense_govern: {
+    hashtag: '#NiUnMinutMés',
+    lawless: 'sense govern'
   }
 }
