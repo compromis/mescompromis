@@ -8,7 +8,7 @@
           <li class="item-1"><nuxt-link :to="localePath('programa')">{{ $t('nav.manifesto') }}</nuxt-link></li>
           <li class="item-2"><nuxt-link :to="localePath('candidatura')">{{ $t('nav.candidates') }}</nuxt-link></li>
           <li class="item-3"><nuxt-link :to="localePath('actua')">{{ $t('nav.takeaction') }}</nuxt-link></li>
-          <li class="item-4"><nuxt-link :to="localePath('noticies')">{{ $t('nav.news') }}</nuxt-link></li>
+          <li class="item-4"><nuxt-link :to="localePath('ni-un-minut-mes')">{{ $t('nav.lawless') }}</nuxt-link></li>
         </ul>
       </div>
     </div>
