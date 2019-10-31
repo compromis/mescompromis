@@ -63,7 +63,7 @@ export default {
 @import '../sass/variables';
 .timeroo {
   display: flex;
-  padding: 1rem 3rem 2rem 2rem;
+  padding: 2rem 3rem 3rem 2rem;
   border-radius: $border-radius-xl;
   background-color: $navy;
   font-size: 8rem;

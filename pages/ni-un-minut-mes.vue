@@ -8,8 +8,13 @@
       </div>
     </div>
     <div class="sense-govern-content">
-      <div class="container">
-        <counter :increment="1" symbol="kg" color="orange">Text</counter>
+      <div class="container sense-govern-intro">Des d'aleshores...</div>
+      <div class="container sense-govern-counters">
+        <counter :increment="2.51458" symbol="€" color="orange" is-big>Hem deixat de rebre els valencians i les valencianes mentre no es reforma la Llei de Finançament</counter>
+        <counter :increment="0.23" symbol="t" color="yellow" is-time>Són les hores que ha fet una treballdora a jornada completa mentre no teníem govern</counter>
+        <counter :increment="0.04" symbol="t" color="teal" is-time>Són les hores que s'hauria estalviat amb la nostra proposta de setmana laboral de 4 dies</counter>
+        <counter :increment="1.0327" symbol="t" color="red" is-big>Les tones de CO2 emeses a l'estat, mentre seguim sense un acord verd.</counter>
+        <counter :increment="0.00001651445" symbol="€" color="teal" decimals>Ha perdut un pensionista mínim mentre el govern no revaloritza la seua pensió.</counter>
       </div>
     </div>
   </div>
@@ -44,7 +49,19 @@
     &-content {
       background-color: $navy;
       color: $white;
-      padding-top: 2rem;
+      padding-top: 4rem;
+    }
+
+    &-counters {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+    }
+
+    &-intro {
+      font-size: 2rem;
+      font-weight: bold;
+      margin-bottom: 2rem;;
     }
   }
 
