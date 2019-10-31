@@ -3,8 +3,7 @@ export default {
     manifesto: 'Programa',
     candidates: 'Candidatura',
     takeaction: 'Actúa!',
-    news: 'Notícias',
-    lawless: '#NiUnMinutoMás'
+    news: 'Notícias'
   },
 
   programa: {
