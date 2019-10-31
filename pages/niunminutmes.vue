@@ -45,13 +45,13 @@
       background-image: url(../assets/images/lawless.jpg);
       background-size: cover;
       background-position: center;
-      padding: 15vh 0;
+      padding: 18vh 0;
     }
 
     &-content {
       background-color: $navy;
       color: $white;
-      padding-top: 4rem;
+      padding: 4rem 0;
     }
 
     &-counters {
