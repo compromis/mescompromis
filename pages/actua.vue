@@ -29,7 +29,7 @@
           <h3>{{ $t('takeaction.events.header') }}</h3>
           <p>{{ $t('takeaction.events.description') }}</p>
           <ul>
-            <li><a href="">{{ $t('takeaction.events.button') }}</a></li>
+            <li><a href="https://www.facebook.com/coaliciocompromis/events/">{{ $t('takeaction.events.button') }}</a></li>
           </ul>
         </div>
         <div class="block block-4">
