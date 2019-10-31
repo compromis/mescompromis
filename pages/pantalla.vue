@@ -4,8 +4,17 @@
       <div class="sense-govern-header">
         <div class="container">
           <div class="hashtag"><span>{{ $t('sense_govern.hashtag') }}</span></div>
-          <timer />
-          <div class="lawless"><span>{{ $t('sense_govern.lawless') }}</span></div>
+          <b-carousel
+            v-model="slide"
+            :interval="10000">
+            <b-carousel-slide>
+              <timer />
+              <div class="lawless"><span>{{ $t('sense_govern.lawless') }}</span></div>
+            </b-carousel-slide>
+            <b-carousel-slide>
+              <counter :increment="2.51458" symbol="€" color="orange" is-big>Hem deixat de rebre els valencians i les valencianes mentre no es reforma la Llei de Finançament</counter> 
+            </b-carousel-slide>
+          </b-carousel>
         </div>
       </div>
     </div>
@@ -27,7 +36,8 @@
 
     data () {
       return {
-        fullscreen: false
+        fullscreen: false,
+        slide: 0
       }
     },
 
@@ -43,7 +53,7 @@
   }
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
   @import '../sass/variables';
 
   .sense-govern {
@@ -99,6 +109,32 @@
       top: 2rem;
       right: 2rem;
       z-index: 1000;
+    }
+  }
+
+  .carousel {
+    &-item {
+      height: 500px;
+      width: 100%;
+    }
+  }
+
+  .counter {
+    &-number {
+      font-size: 8rem !important;
+    }
+
+    &-description {
+      display: inline-block;
+      font-size: 1.75rem;
+      text-align: left;
+      background: $navy;
+      color: $white;
+      border-radius: $border-radius-lg;
+      padding: 1rem;
+      width: 100%;
+      max-width: 100% !important;
+      margin: 0 auto;
     }
   }
 
