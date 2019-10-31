@@ -1,10 +1,10 @@
 <template>
   <fullscreen ref="fullscreen" @change="fullscreenChange">
     <transition name="fade">
-      <div v-show="!showVideo" class="sense-govern">
-        <div class="sense-govern-header">
-          <div class="container container-scaled">
-            <div class="hashtag"><span>{{ $t('sense_govern.hashtag') }}</span></div>
+    <div v-show="!showVideo" class="sense-govern">
+      <div class="sense-govern-header">
+        <div class="container">
+          <div class="hashtag"><span>niunminutmes.com</span></div>
             <b-carousel
               v-model="slide"
               :interval="10000">
@@ -13,7 +13,7 @@
                 <div class="lawless"><span>{{ $t('sense_govern.lawless') }}</span></div>
               </b-carousel-slide>
               <b-carousel-slide>
-                <counter :increment="2.51458" symbol="€" color="orange" is-big>Hem deixat de rebre els valencians i les valencianes mentre no es reforma la Llei de Finançament</counter> 
+                <counter :increment="2.51458" symbol="€" color="orange" is-big>{{ $t('sense_govern.counter_1') }}</counter> 
               </b-carousel-slide>
               <b-carousel-slide>
                 <counter :increment="0.23" symbol="t" color="yellow" is-time is-big>{{ $t('sense_govern.counter_2') }}</counter>
@@ -34,29 +34,57 @@
     </transition>
     <transition name="fade">
       <div class="video video-1" v-if="showVideo === 1">
-        <video width="100%" height="100%" autoplay loop>
+        <video width="100%" height="100%" autoplay loop ref="video">
           <source src="../assets/videos/video1.mp4" type="video/mp4">
         </video>
       </div>
     </transition>
     <transition name="fade">
       <div class="video video-2" v-if="showVideo === 2">
-        <video width="100%" height="100%">
-          <source src="../assets/videos/video1.mp4" type="video/mp4">
+        <video width="100%" height="100%" autoplay loop ref="video">
+          <source src="../assets/videos/video2.mp4" type="video/mp4">
         </video>
       </div>
     </transition>
     <transition name="fade">
       <div class="video video-3" v-if="showVideo === 3">
-        <video width="100%" height="100%">
-          <source src="../assets/videos/video1.mp4" type="video/mp4">
+        <video width="100%" height="100%" autoplay loop ref="video">
+          <source src="../assets/videos/video3.mp4" type="video/mp4">
         </video>
       </div>
     </transition>
     <transition name="fade">
       <div class="video video-4" v-if="showVideo === 4">
-        <video width="100%" height="100%" :autoplay="true">
-          <source src="../assets/videos/video1.mp4" type="video/mp4">
+        <video width="100%" height="100%" autoplay loop ref="video">
+          <source src="../assets/videos/video4.mp4" type="video/mp4">
+        </video>
+      </div>
+    </transition>
+        <transition name="fade">
+      <div class="video video-5" v-if="showVideo === 5">
+        <video width="100%" height="100%" autoplay loop ref="video">
+          <source src="../assets/videos/video5.mp4" type="video/mp4">
+        </video>
+      </div>
+    </transition>
+        <transition name="fade">
+      <div class="video video-6" v-if="showVideo === 6">
+        <video width="100%" height="100%" autoplay loop ref="video">
+          <source src="../assets/videos/video6.mp4" type="video/mp4">
+        </video>
+      </div>
+    </transition>
+        <transition name="fade">
+      <div class="video video-7" v-if="showVideo === 7">
+        <video width="100%" height="100%" autoplay loop ref="video">
+          <source src="../assets/videos/video7.mp4" type="video/mp4">
+        </video>
+      </div>
+    </transition>
+        <transition name="fade">
+      <div class="video video-8" v-if="showVideo === 8">
+        <video width="100%" height="100%" autoplay loop ref="video">
+          <source src="../assets/videos/video8.mp4" type="video/mp4">
         </video>
       </div>
     </transition>
@@ -98,8 +126,26 @@
         if (event.code == 'Digit4') { 
           this.showVideo = 4
         }
+        if (event.code == 'Digit5') { 
+          this.showVideo = 5
+        }
+        if (event.code == 'Digit6') { 
+          this.showVideo = 6
+        }
+        if (event.code == 'Digit7') { 
+          this.showVideo = 7
+        }
+        if (event.code == 'Digit8') { 
+          this.showVideo = 8
+        }
         if (event.code == 'Digit0') { 
           this.showVideo = null
+        }
+        if (event.code == 'KeyP') {
+          this.$refs.video.pause()
+        }
+        if (event.code == 'KeyO') {
+          this.$refs.video.play()
         }
       })
     },
