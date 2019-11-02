@@ -20,7 +20,7 @@
         <b-nav-item :to="localePath('candidatura')">{{ $t('nav.candidates') }}</b-nav-item>
         <b-nav-item :to="localePath('actua')">{{ $t('nav.takeaction') }}</b-nav-item>
         <b-nav-item :to="localePath('noticies')">{{ $t('nav.news') }}</b-nav-item>
-        <b-nav-item :to="localePath('ni-un-minut-mes')">{{ $t('nav.lawless') }}</b-nav-item>
+        <b-nav-item :to="localePath('niunminutmes')">{{ $t('nav.lawless') }}</b-nav-item>
       </b-navbar-nav>
 
       <!-- Right aligned nav items -->
